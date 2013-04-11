@@ -1,10 +1,17 @@
 #!/usr/bin/bash
 makedirs() {
-  find ./ -type d -exec mkdir -p "$HOME/{}" \;
+  for i in `find ./ -type d | grep -v ".git" | grep -v '^./$'` 
+  do
+      mkdir $HOME/$i
+  done
 }
 
+
   linkfiles() {
-  find ./ -type f  -exec ln -s "$PWD/{}" "$HOME/{}" \;
+  for i in `find ./ -type f | grep -v ".git" | grep -v README.md | grep -v viminstall.sh`
+  do
+    ln -s $PWD/$i $HOME/$i
+  done
 }
 makedirs
 linkfiles
