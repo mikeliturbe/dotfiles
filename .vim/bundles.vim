@@ -10,8 +10,6 @@ Bundle 'gmarik/vundle'
 
 " Color schemes
 Bundle 'Wombat'
-" Syntaxes
-Bundle 'wikipedia.vim'
 
 Bundle 'scrooloose/nerdcommenter'
 Bundle 'myusuf3/numbers.vim'
@@ -19,4 +17,4 @@ Bundle 'tpope/vim-surround'
 Bundle 'kien/ctrlp.vim'
 
 " LaTeX
-Bundle 'git://vim-latex.git.sourceforge.net/gitroot/vim-latex/vim-latex'
+Bundle 'jcf/vim-latex'
