@@ -15,6 +15,7 @@ Bundle 'scrooloose/nerdcommenter'
 Bundle 'myusuf3/numbers.vim'
 Bundle 'tpope/vim-surround'
 Bundle 'kien/ctrlp.vim'
+Bundle 'godlygeek/tabular'
 
 " LaTeX
 Bundle 'jcf/vim-latex'
