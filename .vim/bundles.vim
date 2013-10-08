@@ -9,13 +9,18 @@ call vundle#rc()
 Bundle 'gmarik/vundle'
 
 " Color schemes
-Bundle 'Wombat'
-
+Bundle 'Wombat' 
+" Commenting
 Bundle 'scrooloose/nerdcommenter'
+" Numbers  
 Bundle 'myusuf3/numbers.vim'
+" Surroundings
 Bundle 'tpope/vim-surround'
+" File finding
 Bundle 'kien/ctrlp.vim'
+" Text aligning 
 Bundle 'godlygeek/tabular'
-
-" LaTeX
+" LaTeX bundle
 Bundle 'jcf/vim-latex'
+"Python PEP8 compliant
+Bundle 'nvie/vim-flake8'
