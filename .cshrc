@@ -7,6 +7,7 @@ alias j		jobs -l
 alias la	ls -a
 alias lf	ls -FA
 alias ll	ls -lA
+alias c	  clear
 
 # A righteous umask
 umask 22
