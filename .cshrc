@@ -8,6 +8,7 @@ alias la	ls -a
 alias lf	ls -FA
 alias ll	ls -lA
 alias c   clear
+alias tmux tmux -2
 
 # A righteous umask
 umask 22
