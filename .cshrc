@@ -36,3 +36,6 @@ if ($?prompt) then
 		bindkey -k down history-search-forward
 	endif
 endif
+
+# Does not need cd to change directory
+set implicitcd
