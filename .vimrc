@@ -3,7 +3,7 @@
 "=========================
 filetype plugin on 
 filetype indent on     
-let mapleader = ","
+let mapleader = "\<Space>" 
 
 "=========================
 " User interface
@@ -85,6 +85,17 @@ map Y y$
 nnoremap ' `
 nnoremap ` '
 
+" Open files with Leader + o
+nnoremap <Leader>o :CtrlP<CR>
+" Write files with Leader + w
+nnoremap <Leader>w :w<CR>
+" Use system clipboard with Leader
+vmap <Leader>y "+y
+vmap <Leader>d "+d
+nmap <Leader>p "+p
+nmap <Leader>P "+P
+vmap <Leader>p "+p
+vmap <Leader>P "+P
 
 "========================
 "Bundles
