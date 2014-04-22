@@ -22,5 +22,10 @@ Bundle 'kien/ctrlp.vim'
 Bundle 'godlygeek/tabular'
 " LaTeX bundle
 Bundle 'jcf/vim-latex'
-"Python PEP8 compliant
+" Python PEP8 compliant
 Bundle 'nvie/vim-flake8'
+" Bufferline
+Bundle 'bling/vim-bufferline'
+" Statusline
+Bundle 'bling/vim-airline'
+
