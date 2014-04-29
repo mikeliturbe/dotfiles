@@ -102,7 +102,7 @@ nmap <leader>t :enew<CR>
 " Move to next buffer
 nmap <leader>j :bnext<CR>
 " Move to previous buffer
-nmap <leader>h :bprevious<CR>
+nmap <leader>k :bprevious<CR>
 " Close current buffer and move to the previous one
 nmap <leader>bq :bp <BAR> bd #<CR>
 " Show all buffers
