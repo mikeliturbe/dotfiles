@@ -65,8 +65,6 @@ nmap j gj
 nmap 0 ^
 "Change faster to normal mode
 imap jj <esc>
-"Open tabs faster
-nmap <leader>t :tabnew<CR> 
 
 "Disable arrows
 inoremap  <Up>     <NOP>
@@ -96,6 +94,20 @@ nmap <Leader>p "+p
 nmap <Leader>P "+P
 vmap <Leader>p "+p
 vmap <Leader>P "+P
+
+" Buffer key bindings
+
+" New empty buffer
+nmap <leader>t :enew<CR> 
+" Move to next buffer
+nmap <leader>j :bnext<CR>
+" Move to previous buffer
+nmap <leader>h :bprevious<CR>
+" Close current buffer and move to the previous one
+nmap <leader>bq :bp <BAR> bd #<CR>
+" Show all buffers
+nmap <leader>bl :ls<CR>
+
 
 "========================
 "Bundles
