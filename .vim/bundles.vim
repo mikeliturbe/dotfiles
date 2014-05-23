@@ -28,4 +28,5 @@ Bundle 'nvie/vim-flake8'
 Bundle 'bling/vim-bufferline'
 " Statusline
 Bundle 'bling/vim-airline'
-
+" Sensitive defaults
+Bundle 'tpope/vim-sensible'
