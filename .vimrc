@@ -23,6 +23,8 @@ set wildmode =list:longest
 set encoding=utf8
 " Extra margin to the left
 set foldcolumn=1
+" Can have unsaved changes when changing buffers
+set hidden
 
 "=========================
 " Filetypes
