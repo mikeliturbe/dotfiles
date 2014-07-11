@@ -10,6 +10,7 @@ Bundle 'gmarik/vundle'
 
 " Color schemes
 Bundle 'Wombat' 
+Bundle 'vim-scripts/wombat256.vim' 
 " Commenting
 Bundle 'scrooloose/nerdcommenter'
 " Numbers  
@@ -30,3 +31,5 @@ Bundle 'bling/vim-bufferline'
 Bundle 'bling/vim-airline'
 " Sensible defaults
 Bundle 'tpope/vim-sensible'
+" Easier PO editing
+Bundle 'vim-scripts/po.vim'
