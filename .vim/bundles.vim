@@ -11,6 +11,7 @@ Bundle 'gmarik/vundle'
 " Color schemes
 Bundle 'Wombat' 
 Bundle 'vim-scripts/wombat256.vim' 
+Bundle 'ialtercation/vim-colors-solarized' 
 " Commenting
 Bundle 'scrooloose/nerdcommenter'
 " Numbers  

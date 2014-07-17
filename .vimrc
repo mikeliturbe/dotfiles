@@ -109,7 +109,22 @@ nmap <leader>k :bprevious<CR>
 nmap <leader>bq :bp <BAR> bd #<CR>
 " Show all buffers
 nmap <leader>bl :ls<CR>
+" Delete buffers
+nmap <leader>bda :call DeleteEmptyBuffers()<CR>
 
+" Delete Empty buffers
+function! DeleteEmptyBuffers()
+    let [i, n; empty] = [1, bufnr('$')]
+    while i <= n
+        if bufexists(i) && bufname(i) == ''
+            call add(empty, i)
+        endif
+        let i += 1
+    endwhile
+    if len(empty) > 0
+        exe 'bdelete' join(empty)
+    endif
+endfunction
 
 "========================
 "Bundles
@@ -130,8 +145,8 @@ if has ('gui_running')
 else
 	"Terminal colors
 	colorscheme wombat256mod
+  " Spell check underline
+  hi clear SpellBad
+  hi SpellBad cterm=underline ctermfg=red
 endif
 
-" Spell check underline
-hi clear SpellBad
-hi SpellBad cterm=underline ctermfg=red
