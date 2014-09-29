@@ -34,3 +34,5 @@ Bundle 'bling/vim-airline'
 Bundle 'tpope/vim-sensible'
 " Easier PO editing
 Bundle 'vim-scripts/po.vim'
+" Shell-like bindings in Vim
+Bundle 'tpope/vim-rsi'
