@@ -36,3 +36,5 @@ Bundle 'tpope/vim-sensible'
 Bundle 'vim-scripts/po.vim'
 " Shell-like bindings in Vim
 Bundle 'tpope/vim-rsi'
+" Python autocompletion
+Bundle 'davidhalter/jedi-vim'

@@ -60,9 +60,9 @@ autocmd Filetype * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
 "=========================
 command! Q q " Bind :Q to :q
 command! W w " Bind :W to :w
-"Change text lines for screen lines
-nmap k gk
-nmap j gj
+"Change text lines for screen lines when moving accross multiple lines
+nnoremap <expr> k (v:count == 0 ? 'gk' : 'k')
+nnoremap <expr> j (v:count == 0 ? 'gj' : 'j')
 "Go to first non-empty character
 nmap 0 ^
 "Change faster to normal mode
