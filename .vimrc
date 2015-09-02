@@ -144,7 +144,7 @@ if has ('gui_running')
   set lines=64 columns=242
 else
 	"Terminal colors
-	colorscheme wombat256mod
+	colorscheme wombat
   " Spell check underline
   hi clear SpellBad
   hi SpellBad cterm=underline ctermfg=red

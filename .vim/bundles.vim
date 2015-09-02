@@ -6,35 +6,35 @@ set rtp+=~/.vim/bundle/vundle/
 call vundle#rc()
 
 " Let Vundle update itself
-Bundle 'gmarik/vundle'
+Plugin 'gmarik/vundle'
 
 " Color schemes
-Bundle 'Wombat' 
-Bundle 'vim-scripts/wombat256.vim' 
-Bundle 'ialtercation/vim-colors-solarized' 
+" Plugin 'Wombat' 
+Plugin 'sheerun/vim-wombat-scheme'
+
 " Commenting
-Bundle 'scrooloose/nerdcommenter'
+Plugin 'scrooloose/nerdcommenter'
 " Numbers  
-Bundle 'myusuf3/numbers.vim'
+Plugin 'myusuf3/numbers.vim'
 " Surroundings
-Bundle 'tpope/vim-surround'
+Plugin 'tpope/vim-surround'
 " File finding
-Bundle 'kien/ctrlp.vim'
+Plugin 'kien/ctrlp.vim'
 " Text aligning 
-Bundle 'godlygeek/tabular'
+Plugin 'godlygeek/tabular'
 " LaTeX bundle
-Bundle 'jcf/vim-latex'
-" Python PEP8 compliant
-Bundle 'nvie/vim-flake8'
+Plugin 'jcf/vim-latex'
 " Bufferline
-Bundle 'bling/vim-bufferline'
+Plugin 'bling/vim-bufferline'
 " Statusline
-Bundle 'bling/vim-airline'
+Plugin 'bling/vim-airline'
 " Sensible defaults
-Bundle 'tpope/vim-sensible'
+Plugin 'tpope/vim-sensible'
 " Easier PO editing
-Bundle 'vim-scripts/po.vim'
+Plugin 'vim-scripts/po.vim'
 " Shell-like bindings in Vim
-Bundle 'tpope/vim-rsi'
-" Python autocompletion
-Bundle 'davidhalter/jedi-vim'
+Plugin 'tpope/vim-rsi'
+" Other
+Plugin 'scrooloose/syntastic'
+Plugin 'easymotion/vim-easymotion'
+
