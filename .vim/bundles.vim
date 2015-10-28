@@ -19,7 +19,7 @@ Plugin 'myusuf3/numbers.vim'
 " Surroundings
 Plugin 'tpope/vim-surround'
 " File finding
-Plugin 'kien/ctrlp.vim'
+Plugin 'ctrlpvim/ctrlp.vim'
 " Text aligning 
 Plugin 'godlygeek/tabular'
 " LaTeX bundle
