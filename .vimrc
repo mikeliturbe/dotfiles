@@ -25,6 +25,9 @@ set encoding=utf8
 set foldcolumn=1
 " Can have unsaved changes when changing buffers
 set hidden
+" Window splits
+set splitbelow
+set splitright
 
 "=========================
 " Filetypes
@@ -54,6 +57,9 @@ let g:Tex_FoldedEnvironments=""
 let g:Tex_FoldedMisc=""
 " Grep will generate a file-name (necessary for latex-suite)
 set grepprg=grep\ -nH\ $*
+" Do not use place holders
+let g:Imap_UsePlaceHolders=0
+nnoremap <SID>This_is_to_use_ctrl_j_with_windows <Plug>IMAP_JumpForward
 
 " General editing
 set et sw=2 sts=2 ts=2 ai
@@ -102,6 +108,13 @@ nmap <Leader>p "+p
 nmap <Leader>P "+P
 vmap <Leader>p "+p
 vmap <Leader>P "+P
+
+" Splits key bindings
+let g:C_Ctrl_j = 'off'
+nmap <C-h> <C-w>h
+nmap <C-j> <C-w>j
+nmap <C-k> <C-w>k
+nmap <C-l> <C-w>l
 
 " Buffer key bindings
 

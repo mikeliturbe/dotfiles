@@ -37,6 +37,8 @@ Plugin 'tpope/vim-sensible'
 Plugin 'vim-scripts/po.vim'
 " Shell-like bindings in Vim
 Plugin 'tpope/vim-rsi'
+" Tmux integration
+Plugin 'christoomey/vim-tmux-navigator'
 " Other
 Plugin 'scrooloose/syntastic'
 Plugin 'Valloric/YouCompleteMe'
