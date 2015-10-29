@@ -30,10 +30,16 @@ set hidden
 " Filetypes
 "=========================
 " Python editing 
-au FileType python setl et sw=4 sts=4 ts=4
+au FileType python setl expandtab autoindent tabstop=4 softtabstop=4 shiftwidth=4 textwidth=79 fileformat=unix
+
+let python_highlight_all=1
 
 " C editing
 au FileType c setl cin
+
+" Highlight unnecessary spaces
+autocmd ColorScheme * highlight BadWhitespace ctermbg=green guibg=darkgreen
+au BufRead,BufNewFile *.py,*.pyw,*.c,*.h match BadWhitespace /\s\+$/
 
 " Tex editing & some latex-suite definitions
 au FileType tex setl spell sw=2 iskeyword+=:

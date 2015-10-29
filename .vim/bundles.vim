@@ -24,6 +24,9 @@ Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'godlygeek/tabular'
 " LaTeX bundle
 Plugin 'jcf/vim-latex'
+" Python-related plugins
+Plugin 'vim-scripts/indentpython.vim'
+Plugin 'nvie/vim-flake8'
 " Bufferline
 Plugin 'bling/vim-bufferline'
 " Statusline
@@ -36,6 +39,7 @@ Plugin 'vim-scripts/po.vim'
 Plugin 'tpope/vim-rsi'
 " Other
 Plugin 'scrooloose/syntastic'
+Plugin 'Valloric/YouCompleteMe'
 Plugin 'easymotion/vim-easymotion'
 
 call vundle#end()
