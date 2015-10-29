@@ -2,15 +2,15 @@
 set nocompatible
 
 " Load Vundle for managing scripts
-set rtp+=~/.vim/bundle/vundle/
-call vundle#rc()
+set rtp+=~/.vim/bundle/vundle
+call vundle#begin()
 
 " Let Vundle update itself
 Plugin 'gmarik/vundle'
 
 " Color schemes
-" Plugin 'Wombat' 
 Plugin 'sheerun/vim-wombat-scheme'
+Plugin 'jnurmine/Zenburn'
 
 " Commenting
 Plugin 'scrooloose/nerdcommenter'
@@ -38,3 +38,4 @@ Plugin 'tpope/vim-rsi'
 Plugin 'scrooloose/syntastic'
 Plugin 'easymotion/vim-easymotion'
 
+call vundle#end()

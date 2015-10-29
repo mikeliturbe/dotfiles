@@ -139,12 +139,12 @@ syntax on
 set t_Co=256
 if has ('gui_running')
 	"GUI colors
-	colorscheme wombat
+	colorscheme zenburn
   "Maximize window
   set lines=64 columns=242
 else
 	"Terminal colors
-	colorscheme wombat
+	colorscheme zenburn
   " Spell check underline
   hi clear SpellBad
   hi SpellBad cterm=underline ctermfg=red
