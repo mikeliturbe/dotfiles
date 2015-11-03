@@ -1,0 +1,30 @@
+[Configuration]
+# Zenburn colours scheme for Xfce Terminal updated for Xfce4-terminal 0.6.3. Copy and paste the following in ${HOME}/.config/xfce4/Terminal/terminalrc:
+
+ColorBackground=#404040
+ColorForeground=#F6F3E8
+ColorCursor=#8f8fafaf9f9f
+ColorPalette=#3f3f3f3f3f3f;#e8e893939393;#9e9ecece9e9e;#f0f0dfdfafaf;#8c8cd0d0d3d3;#c0c0bebed1d1;#dfdfafaf8f8f;#efefefefefef;#3f3f3f3f3f3f;#e8e893939393;#9e9ecece9e9e;#f0f0dfdfafaf;#8c8cd0d0d3d3;#c0c0bebed1d1;#dfdfafaf8f8f;#efefefefefef
+Term=xterm-color
+MiscAlwaysShowTabs=FALSE
+MiscBell=FALSE
+MiscBordersDefault=TRUE
+MiscCursorBlinks=FALSE
+MiscCursorShape=TERMINAL_CURSOR_SHAPE_BLOCK
+MiscDefaultGeometry=80x24
+MiscInheritGeometry=FALSE
+MiscMenubarDefault=TRUE
+MiscMouseAutohide=FALSE
+MiscToolbarDefault=FALSE
+MiscConfirmClose=TRUE
+MiscCycleTabs=TRUE
+MiscTabCloseButtons=TRUE
+MiscTabCloseMiddleClick=TRUE
+MiscTabPosition=GTK_POS_TOP
+MiscHighlightUrls=TRUE
+MiscScrollAlternateScreen=TRUE
+FontName=Inconsolata-dz for Powerline Medium 12
+DropdownOpacity=50
+DropdownWidth=100
+DropdownHeight=97
+
