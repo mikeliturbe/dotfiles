@@ -54,3 +54,8 @@ Zsh
 * Vi-mode bindings
 * `jj` to return to normal mode
 * History substring search
+
+## Copyright and License
+Some files in this repository include their own copyright and license headers. Anything else included in this repository is released under the terms specified in the [`LICENSE`](https://github.com/mikeliturbe/dotfiles/blob/master/LICENSE) file.
+
+
