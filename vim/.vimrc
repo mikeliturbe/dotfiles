@@ -148,7 +148,7 @@ endfunction
 "========================
 "Bundles
 "========================
-source ~/.vim/bundles.vim
+source ~/.vim/plugins.vim
 
 "=========================
 "To activate after bundles
