@@ -1,0 +1,8 @@
+set adjust-open "width"
+
+#Zenburn colors
+set default-bg "#3f3f3f"
+set inputbar-fg "#dcdccc"
+set inputbar-bg "#3f3f3f"
+set statusbar-bg "#2f2f2f"
+set statusbar-fg "#dcaf8f"
