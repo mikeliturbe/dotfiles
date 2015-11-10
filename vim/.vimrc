@@ -50,7 +50,8 @@ au FileType tex setl spell sw=2 iskeyword+=:
 let g:tex_flavor='latex'
 let g:Tex_DefaultTargetFormat='pdf'
 let g:Tex_MultipleCompileFormats='dvi,pdf' 
-let g:Tex_CompileRule_dvi = 'pdflatex --interaction=nonstopmode $*'
+let g:Tex_CompileRule_pdf = 'latexmk -xelatex -f $*'
+let g:Tex_ViewRule_pdf = 'zathura'
 " latex-suite disable folding
 let g:Tex_FoldedSections=""
 let g:Tex_FoldedEnvironments=""
