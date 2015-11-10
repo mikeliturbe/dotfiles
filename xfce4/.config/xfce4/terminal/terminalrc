@@ -1,6 +1,4 @@
 [Configuration]
-# Zenburn colours scheme for Xfce Terminal updated for Xfce4-terminal 0.6.3. Copy and paste the following in ${HOME}/.config/xfce4/Terminal/terminalrc:
-
 ColorBackground=#404040
 ColorForeground=#F6F3E8
 ColorCursor=#8f8fafaf9f9f
@@ -23,7 +21,7 @@ MiscTabCloseMiddleClick=TRUE
 MiscTabPosition=GTK_POS_TOP
 MiscHighlightUrls=TRUE
 MiscScrollAlternateScreen=TRUE
-FontName=Inconsolata-dz for Powerline Medium 12
+FontName=Inconsolata Medium 12
 DropdownOpacity=50
 DropdownWidth=100
 DropdownHeight=97
