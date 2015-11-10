@@ -8,38 +8,57 @@ Zsh dotfiles have been used to work with [Prezto](https://github.com/sorin-iones
 
 ## Setup
 Clone the repository
-    `git clone git://github.com/mikeliturbe/dotfiles.git`
+
+`git clone git://github.com/mikeliturbe/dotfiles.git`
+
 Run stow from the dotfiles directory to create symbolic links to them in the parent directory. For example, with tmux: 
-    `stow tmux`
+
+`stow tmux`
+
 With the -t option, you can set an specific target directory
-    `stow -t ~ tmux`
+
+`stow -t ~ tmux`
 
 ### Zsh
 1. Install Zsh
 2. Launch Zsh
+
     `zsh`
+
 3. Clone the Prezto repository
+
     `git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"`
+
 4. Set Zsh as default shell
+
     `chsh -s /bin/zsh`
+
 5. Run stow in the dotfile directory:
+
     `stow -t ~ zsh`
 
 ### Vim
 1. Install Vim
 2. Run viminstall.sh
 3. Run stow in the dotfile directory:
+
     `stow -t ~ vim`
 
 ## In a (fast) glance
 * [Zenburn](http://kippura.org/zenburnpage/) color theme for Vim and Xfce4-Terminal
-Tcsh
+
+#### Tcsh
+
 * Implicit `cd`
 * Some aliases
-Tmux
+
+#### Tmux
+
 * `C-s` prefix
 * Plays nice with Vim splits when switching windows
-Vim
+
+#### Vim
+
 * Disabled arrows
 * [Sensible buffer settings](https://joshldavis.com/2014/04/05/vim-tab-madness-buffers-vs-tabs/)
 * `jj` to return to normal mode
@@ -50,7 +69,9 @@ Vim
   * Tabular
   * Vim-LaTeX
   * YouCompleteMe
-Zsh
+
+#### Zsh
+
 * Vi-mode bindings
 * `jj` to return to normal mode
 * History substring search
