@@ -1,4 +1,5 @@
-set adjust-open "width"
+#Use system clipboard
+set selection-clipboard clipboard
 
 #Zenburn colors
 set default-bg "#3f3f3f"
