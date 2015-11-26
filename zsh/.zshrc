@@ -28,3 +28,7 @@ bindkey "$terminfo[kcud1]" history-beginning-search-forward
 
 export EDITOR=/usr/bin/vim
 export VISUAL=/usr/bin/vim
+
+#Go variables
+export GOPATH=$HOME/dev/go
+export PATH=$PATH:$GOPATH/bin
