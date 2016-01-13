@@ -23,7 +23,7 @@ Plugin 'ctrlpvim/ctrlp.vim'
 " Text aligning 
 Plugin 'godlygeek/tabular'
 " LaTeX bundle
-Plugin 'jcf/vim-latex'
+Plugin 'lervag/vimtex'
 " Python-related plugins
 Plugin 'vim-scripts/indentpython.vim'
 Plugin 'nvie/vim-flake8'

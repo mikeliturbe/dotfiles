@@ -44,23 +44,8 @@ au FileType c setl cin
 autocmd ColorScheme * highlight BadWhitespace ctermbg=green guibg=darkgreen
 au BufRead,BufNewFile *.py,*.pyw,*.c,*.h match BadWhitespace /\s\+$/
 
-" Tex editing & some latex-suite definitions
+" Tex editing 
 au FileType tex setl spell sw=2 iskeyword+=:
-" latex-suite config
-let g:tex_flavor='latex'
-let g:Tex_DefaultTargetFormat='pdf'
-let g:Tex_MultipleCompileFormats='dvi,pdf' 
-let g:Tex_CompileRule_pdf = 'latexmk -pdf -xelatex -interaction=nonstopmode  -f $*'
-let g:Tex_ViewRule_pdf = 'zathura'
-" latex-suite disable folding
-let g:Tex_FoldedSections=""
-let g:Tex_FoldedEnvironments=""
-let g:Tex_FoldedMisc=""
-" Grep will generate a file-name (necessary for latex-suite)
-set grepprg=grep\ -nH\ $*
-" Do not use place holders
-let g:Imap_UsePlaceHolders=0
-nnoremap <SID>This_is_to_use_ctrl_j_with_windows <Plug>IMAP_JumpForward
 
 " General editing
 set et sw=2 sts=2 ts=2 ai
