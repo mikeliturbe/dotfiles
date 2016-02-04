@@ -46,6 +46,15 @@ au BufRead,BufNewFile *.py,*.pyw,*.c,*.h match BadWhitespace /\s\+$/
 
 " Tex editing 
 au FileType tex setl spell sw=2 iskeyword+=:
+" Vimtex & YCM
+if !exists('g:ycm_semantic_triggers')
+  let g:ycm_semantic_triggers = {}
+endif
+let g:ycm_semantic_triggers.tex = [
+      \ 're!\\[A-Za-z]*(ref|cite)[A-Za-z]*([^]]*])?{([^}]*,?)*',
+      \ 're!\\includegraphics([^]]*])?{[^}]*',
+      \ 're!\\(include|input){[^}]*'
+      \ ]
 
 " General editing
 set et sw=2 sts=2 ts=2 ai
@@ -141,7 +150,8 @@ source ~/.vim/plugins.vim
 "=========================
 "Appearance
 syntax on
-set t_Co=256
+"256-color terminal (comment if using tmux w/ 256 colors)
+"set t_Co=256
 if has ('gui_running')
 	"GUI colors
 	colorscheme zenburn
