@@ -92,8 +92,6 @@ map Y y$
 nnoremap ' `
 nnoremap ` '
 
-" Open files with Leader + o
-nnoremap <Leader>o :CtrlP<CR>
 " Write files with Leader + w
 nnoremap <Leader>w :w<CR>
 " Use system clipboard with Leader
@@ -111,34 +109,55 @@ nmap <C-j> <C-w>j
 nmap <C-k> <C-w>k
 nmap <C-l> <C-w>l
 
-" Buffer key bindings
+"========================
+" Plugin key bindings 
+"========================
+" Buffergator
 
-" New empty buffer
-"nmap <leader>t :enew<CR> 
-" Move to next buffer
-"nmap <leader>j :bnext<CR>
-" Move to previous buffer
-"nmap <leader>k :bprevious<CR>
-" Close current buffer and move to the previous one
-"nmap <leader>bq :bp <BAR> bd #<CR>
-" Show all buffers
-"nmap <leader>bl :ls<CR>
-" Delete buffers
-"nmap <leader>bda :call DeleteEmptyBuffers()<CR>
+" Use the right side of the screen
+let g:buffergator_viewport_split_policy = 'R'
 
-" Delete Empty buffers
-"function! DeleteEmptyBuffers()
-    "let [i, n; empty] = [1, bufnr('$')]
-    "while i <= n
-        "if bufexists(i) && bufname(i) == ''
-            "call add(empty, i)
-        "endif
-        "let i += 1
-    "endwhile
-    "if len(empty) > 0
-        "exe 'bdelete' join(empty)
-    "endif
-"endfunction
+" I want my own keymappings...
+let g:buffergator_suppress_keymaps = 1
+
+" Go to the previous buffer open
+nmap <leader>jj :BuffergatorMruCyclePrev<cr>
+
+" Go to the next buffer open
+nmap <leader>kk :BuffergatorMruCycleNext<cr>
+
+" View the entire list of buffers open
+nmap <leader>bl :BuffergatorOpen<cr>
+
+" Bindings to open and close buffers
+nmap <leader>T :enew<cr>
+nmap <leader>bq :bp <BAR> bd #<cr>
+
+" Ctrl-P
+let g:ctrlp_custom_ignore = {
+  \ 'dir':  '\v[\/](\.(git|hg|svn)|\_site)$',
+  \ 'file': '\v\.(exe|so|dll|class|png|jpg|jpeg)$',
+\}
+
+" Use the nearest .git directory as the cwd
+" This makes a lot of sense if you are working on a project that is in version
+" control. It also supports works with .svn, .hg, .bzr.
+"let g:ctrlp_working_path_mode = 'r'
+
+" Easy bindings for its various modes
+nmap <leader>bb :CtrlPBuffer<cr>
+nmap <leader>bm :CtrlPMixed<cr>
+nmap <leader>bs :CtrlPMRU<cr>
+
+" Open files with Leader + o
+nnoremap <Leader>o :CtrlP<CR>
+
+" Index all files
+let g:ctrlp_max_files=0
+let g:ctrlp_max_depth=40
+
+" Close ctrlp with Esc C-c or jj
+let g:ctrlp_prompt_mappings = { 'PrtExit()': ['<esc>', '<c-c>', '<c-g>', ','] }
 
 "========================
 "Bundles
