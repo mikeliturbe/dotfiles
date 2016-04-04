@@ -45,7 +45,7 @@ autocmd ColorScheme * highlight BadWhitespace ctermbg=green guibg=darkgreen
 au BufRead,BufNewFile *.py,*.pyw,*.c,*.h match BadWhitespace /\s\+$/
 
 " Tex editing 
-au FileType tex setl spell sw=2 iskeyword+=:
+au FileType tex setl spell colorcolumn=80 sw=2 textwidth=79 iskeyword+=:
 " Vimtex & YCM
 if !exists('g:ycm_semantic_triggers')
   let g:ycm_semantic_triggers = {}
