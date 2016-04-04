@@ -114,31 +114,31 @@ nmap <C-l> <C-w>l
 " Buffer key bindings
 
 " New empty buffer
-nmap <leader>t :enew<CR> 
+"nmap <leader>t :enew<CR> 
 " Move to next buffer
-nmap <leader>j :bnext<CR>
+"nmap <leader>j :bnext<CR>
 " Move to previous buffer
-nmap <leader>k :bprevious<CR>
+"nmap <leader>k :bprevious<CR>
 " Close current buffer and move to the previous one
-nmap <leader>bq :bp <BAR> bd #<CR>
+"nmap <leader>bq :bp <BAR> bd #<CR>
 " Show all buffers
-nmap <leader>bl :ls<CR>
+"nmap <leader>bl :ls<CR>
 " Delete buffers
-nmap <leader>bda :call DeleteEmptyBuffers()<CR>
+"nmap <leader>bda :call DeleteEmptyBuffers()<CR>
 
 " Delete Empty buffers
-function! DeleteEmptyBuffers()
-    let [i, n; empty] = [1, bufnr('$')]
-    while i <= n
-        if bufexists(i) && bufname(i) == ''
-            call add(empty, i)
-        endif
-        let i += 1
-    endwhile
-    if len(empty) > 0
-        exe 'bdelete' join(empty)
-    endif
-endfunction
+"function! DeleteEmptyBuffers()
+    "let [i, n; empty] = [1, bufnr('$')]
+    "while i <= n
+        "if bufexists(i) && bufname(i) == ''
+            "call add(empty, i)
+        "endif
+        "let i += 1
+    "endwhile
+    "if len(empty) > 0
+        "exe 'bdelete' join(empty)
+    "endif
+"endfunction
 
 "========================
 "Bundles

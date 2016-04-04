@@ -39,6 +39,8 @@ Plugin 'vim-scripts/po.vim'
 Plugin 'tpope/vim-rsi'
 " Tmux integration
 Plugin 'christoomey/vim-tmux-navigator'
+" Buffer management
+Plugin 'jeetsukumaran/vim-buffergator'
 " Other
 Plugin 'scrooloose/syntastic'
 Plugin 'Valloric/YouCompleteMe'
