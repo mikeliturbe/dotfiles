@@ -46,6 +46,11 @@ au BufRead,BufNewFile *.py,*.pyw,*.c,*.h match BadWhitespace /\s\+$/
 
 " Tex editing 
 au FileType tex setl spell colorcolumn=80 sw=2 textwidth=79 iskeyword+=:
+let g:tex_flavor = "latex"
+let g:tex_conceal = ""
+let g:tex_fold_enabled = 0
+let g:tex_comment_nospell = 1
+
 " Vimtex & YCM
 if !exists('g:ycm_semantic_triggers')
   let g:ycm_semantic_triggers = {}
@@ -121,10 +126,10 @@ let g:buffergator_viewport_split_policy = 'R'
 let g:buffergator_suppress_keymaps = 1
 
 " Go to the previous buffer open
-nmap <leader>jj :BuffergatorMruCyclePrev<cr>
+nmap <leader>j :BuffergatorMruCyclePrev<cr>
 
 " Go to the next buffer open
-nmap <leader>kk :BuffergatorMruCycleNext<cr>
+nmap <leader>k :BuffergatorMruCycleNext<cr>
 
 " View the entire list of buffers open
 nmap <leader>bl :BuffergatorOpen<cr>
