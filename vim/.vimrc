@@ -164,6 +164,16 @@ let g:ctrlp_max_depth=40
 " Close ctrlp with Esc C-c or jj
 let g:ctrlp_prompt_mappings = { 'PrtExit()': ['<esc>', '<c-c>', '<c-g>', ','] }
 
+" Make YCM and UltiSnips behave nice w/ supertab
+" YCM
+let g:ycm_key_list_select_completion = ['<C-n>', '<Down>']
+let g:ycm_key_list_previous_completion = ['<C-p>', '<Up>']
+let g:SuperTabDefaultCompletionType = '<C-n>'
+" UltiSnips
+let g:UltiSnipsExpandTrigger = "<tab>"
+let g:UltiSnipsJumpForwardTrigger = "<tab>"
+let g:UltiSnipsJumpBackwardTrigger = "<s-tab>"
+
 "========================
 "Bundles
 "========================
@@ -188,4 +198,3 @@ else
   hi clear SpellBad
   hi SpellBad cterm=underline ctermfg=red
 endif
-

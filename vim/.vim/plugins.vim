@@ -1,5 +1,6 @@
 " Need this here for Vundle
 set nocompatible
+filetype off
 
 " Load Vundle for managing scripts
 set rtp+=~/.vim/bundle/vundle
@@ -41,9 +42,14 @@ Plugin 'tpope/vim-rsi'
 Plugin 'christoomey/vim-tmux-navigator'
 " Buffer management
 Plugin 'jeetsukumaran/vim-buffergator'
+" Snippets
+Bundle 'ervandew/supertab'
+Plugin 'SirVer/ultisnips'
+Plugin 'honza/vim-snippets'
 " Other
 Plugin 'scrooloose/syntastic'
 Plugin 'Valloric/YouCompleteMe'
 Plugin 'easymotion/vim-easymotion'
 
 call vundle#end()
+filetype plugin indent on
