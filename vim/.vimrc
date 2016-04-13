@@ -174,6 +174,9 @@ let g:UltiSnipsExpandTrigger = "<tab>"
 let g:UltiSnipsJumpForwardTrigger = "<tab>"
 let g:UltiSnipsJumpBackwardTrigger = "<s-tab>"
 
+" vim-irline theme
+let g:airline_theme = "zenburn"
+
 "========================
 "Bundles
 "========================

@@ -31,7 +31,8 @@ Plugin 'nvie/vim-flake8'
 " Bufferline
 Plugin 'bling/vim-bufferline'
 " Statusline
-Plugin 'bling/vim-airline'
+Plugin 'vim-airline/vim-airline'
+Plugin 'vim-airline/vim-airline-themes'
 " Sensible defaults
 Plugin 'tpope/vim-sensible'
 " Easier PO editing
