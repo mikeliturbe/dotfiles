@@ -11,7 +11,7 @@ MiscCursorBlinks=FALSE
 MiscCursorShape=TERMINAL_CURSOR_SHAPE_BLOCK
 MiscDefaultGeometry=80x24
 MiscInheritGeometry=FALSE
-MiscMenubarDefault=TRUE
+MiscMenubarDefault=FALSE
 MiscMouseAutohide=FALSE
 MiscToolbarDefault=FALSE
 MiscConfirmClose=TRUE
@@ -25,4 +25,5 @@ FontName=Inconsolata Medium 12
 DropdownOpacity=50
 DropdownWidth=100
 DropdownHeight=97
+ScrollingBar=TERMINAL_SCROLLBAR_NONE
 
