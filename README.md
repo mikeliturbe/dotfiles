@@ -39,11 +39,11 @@ With the -t option, you can set an specific target directory
 
 ### Vim
 1. Install Vim
-2. Run viminstall.sh
-3. Run stow in the dotfile directory:
+2. Run stow in the dotfile directory:
 
     `stow -t ~ vim`
 
+3. Run viminstall.sh
 ## In a (fast) glance
 * [Zenburn](http://kippura.org/zenburnpage/) color theme for Vim and Xfce4-Terminal
 
@@ -54,7 +54,7 @@ With the -t option, you can set an specific target directory
 
 #### Tmux
 
-* `C-s` prefix
+* `C-a` prefix
 * Plays nice with Vim splits when switching windows
 
 #### Vim
