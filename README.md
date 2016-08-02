@@ -47,6 +47,9 @@ With the -t option, you can set an specific target directory
 ## In a (fast) glance
 * [Zenburn](http://kippura.org/zenburnpage/) color theme for Vim and Xfce4-Terminal
 
+### Neovim
+1. Run the `neovim_migration.sh` script (requires sudo privileges and it is designed to work in Ubuntu-based environments)
+
 #### Tcsh
 
 * Implicit `cd`
