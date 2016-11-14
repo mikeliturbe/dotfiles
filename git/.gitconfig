@@ -1,0 +1,6 @@
+[commit]
+  gpgsign = true
+[user]
+	email = mikel@hamahiru.org
+	name = Mikel Iturbe
+	signingkey = 614ACDA08141DED2
