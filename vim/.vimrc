@@ -1,6 +1,7 @@
 "=========================
 " General
 "=========================
+set nocompatible
 filetype plugin on 
 filetype indent on     
 let mapleader = "\<Space>" 
@@ -80,7 +81,7 @@ nnoremap <expr> j (v:count == 0 ? 'gj' : 'j')
 "Go to first non-empty character
 nmap 0 ^
 "Change faster to normal mode
-imap jj <esc>
+imap jj <Esc>
 
 "Disable arrows
 inoremap  <Up>     <NOP>
@@ -178,6 +179,14 @@ let g:UltiSnipsJumpBackwardTrigger = "<s-tab>"
 
 " vim-irline theme
 let g:airline_theme = "zenburn"
+
+" vim-slime configuration
+let g:slime_target = "tmux"
+xmap <leader>s <Plug>SlimeRegionSend
+nmap <leader>s <Plug>SlimeParagraphSend
+let g:slime_python_ipython = 1
+
+
 
 "========================
 "Bundles

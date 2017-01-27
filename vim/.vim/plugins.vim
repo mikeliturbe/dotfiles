@@ -1,5 +1,4 @@
 " Need this here for Vundle
-set nocompatible
 filetype off
 
 " Load Vundle for managing scripts
@@ -43,6 +42,8 @@ Plugin 'tpope/vim-rsi'
 Plugin 'christoomey/vim-tmux-navigator'
 " Buffer management
 Plugin 'jeetsukumaran/vim-buffergator'
+" Tmux REPL integration
+Plugin 'jpalardy/vim-slime'
 " Snippets
 Bundle 'ervandew/supertab'
 Plugin 'SirVer/ultisnips'
