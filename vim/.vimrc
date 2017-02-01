@@ -53,6 +53,7 @@ let g:tex_flavor = "latex"
 let g:tex_conceal = ""
 let g:tex_fold_enabled = 0
 let g:tex_comment_nospell = 1
+let g:vimtex_view_method = 'zathura'
 
 " Vimtex & YCM
 if !exists('g:ycm_semantic_triggers')
