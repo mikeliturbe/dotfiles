@@ -49,9 +49,9 @@ Bundle 'ervandew/supertab'
 Plugin 'SirVer/ultisnips'
 Plugin 'honza/vim-snippets'
 " Linting
-Plugin 'scrooloose/syntastic'
-" Autocompletion
 Plugin 'w0rp/ale'
+" Autocompletion
+Plugin 'Valloric/YouCompleteMe'
 
 " Language-specific plugins
 """"""""""""""""
