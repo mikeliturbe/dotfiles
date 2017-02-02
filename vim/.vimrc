@@ -71,6 +71,14 @@ set et sw=2 sts=2 ts=2 ai
 "Disable auto-commenting new line
 autocmd Filetype * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
 
+" Ignore Ctrl-P files
+let g:ctrlp_custom_ignore = {
+  \ 'dir':  '\v[\/](\.(git|hg|svn)|\_site)$',
+  \ 'file': '\v\.(exe|so|dll|class|png|jpg|jpeg)$',
+\}
+" Ignore .gitignore files in Ctrl-P
+let g:ctrlp_user_command = ['.git', 'cd %s && git ls-files -co --exclude-standard']
+
 "=========================
 "Key bindings
 "=========================
@@ -142,11 +150,6 @@ nmap <leader>bl :BuffergatorOpen<cr>
 nmap <leader>T :enew<cr>
 nmap <leader>bq :bp <BAR> bd #<cr>
 
-" Ctrl-P
-let g:ctrlp_custom_ignore = {
-  \ 'dir':  '\v[\/](\.(git|hg|svn)|\_site)$',
-  \ 'file': '\v\.(exe|so|dll|class|png|jpg|jpeg)$',
-\}
 
 " Use the nearest .git directory as the cwd
 " This makes a lot of sense if you are working on a project that is in version
