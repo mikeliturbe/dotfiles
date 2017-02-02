@@ -51,7 +51,7 @@ Plugin 'honza/vim-snippets'
 " Linting
 Plugin 'scrooloose/syntastic'
 " Autocompletion
-Plugin 'Valloric/YouCompleteMe'
+Plugin 'w0rp/ale'
 
 " Language-specific plugins
 """"""""""""""""
@@ -59,7 +59,6 @@ Plugin 'Valloric/YouCompleteMe'
 Plugin 'lervag/vimtex'
 " Python
 Plugin 'vim-scripts/indentpython.vim'
-Plugin 'nvie/vim-flake8'
 " GNU Gettext 
 Plugin 'vim-scripts/po.vim'
 
