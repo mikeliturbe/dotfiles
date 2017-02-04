@@ -16,8 +16,6 @@ fi
 bindkey -v
 #jj to return to normal mode
 bindkey -M viins 'jj' vi-cmd-mode
-#Use neovim
-alias vim='nvim'
 
 bindkey ';5D' emacs-backward-word
 bindkey ';5C' emacs-forward-word
@@ -34,3 +32,6 @@ export VISUAL=/usr/bin/vim
 #Go variables
 export GOPATH=$HOME/dev/go
 export PATH=$PATH:$GOPATH/bin
+
+# Start Vim with server. Useful for synctex
+alias vim='vim --servername vim'
