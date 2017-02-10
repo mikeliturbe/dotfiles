@@ -1,0 +1,7 @@
+# Taskwarrior program configuration file.
+
+# File location
+data.location=~/.task
+
+# Color theme
+include ~/.task-zenburn-256.theme
