@@ -47,20 +47,18 @@ With the -t option, you can set an specific target directory
 ## In a (fast) glance
 * [Zenburn](http://kippura.org/zenburnpage/) color theme for Vim and Xfce4-Terminal
 
-### Neovim
-1. Run the `neovim_migration.sh` script (requires sudo privileges and it is designed to work in Ubuntu-based environments)
 
-#### Tcsh
+### Tcsh
 
 * Implicit `cd`
 * Some aliases
 
-#### Tmux
+### Tmux
 
 * `C-a` prefix
 * Plays nice with Vim splits when switching windows
 
-#### Vim
+### Vim
 
 * Disabled arrows
 * [Sensible buffer settings](https://joshldavis.com/2014/04/05/vim-tab-madness-buffers-vs-tabs/)
@@ -70,14 +68,20 @@ With the -t option, you can set an specific target directory
   * NerdCommenter
   * Syntastic
   * Tabular
-  * Vim-LaTeX
+  * Vimtex
   * YouCompleteMe
 
-#### Zsh
+#### Neovim
+1. Run the `neovim_migration.sh` script (requires sudo privileges and it is designed to work in Ubuntu-based environments)
+
+### Zsh
 
 * Vi-mode bindings
 * `jj` to return to normal mode
 * History substring search
+
+### Taskwarrior
+* Zenburn theme
 
 ## Copyright and License
 Some files in this repository include their own copyright and license headers. Anything else included in this repository is released under the terms specified in the [`LICENSE`](https://github.com/mikeliturbe/dotfiles/blob/master/LICENSE) file.
