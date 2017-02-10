@@ -44,7 +44,9 @@ With the -t option, you can set an specific target directory
     `stow -t ~ vim`
 
 3. Run viminstall.sh
+
 ## In a (fast) glance
+
 * [Zenburn](http://kippura.org/zenburnpage/) color theme for Vim and Xfce4-Terminal
 
 
