@@ -71,6 +71,11 @@ Plugin 'jeetsukumaran/vim-buffergator'
 " Show open buffers
 Plugin 'bling/vim-bufferline'
 
+" Productivity
+""""""""""""""""
+" Personal Wiki
+Plugin 'vimwiki/vimwiki'
+
 
 call vundle#end()
 filetype plugin indent on
