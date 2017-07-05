@@ -35,3 +35,6 @@ export PATH=$PATH:$GOPATH/bin
 
 # Start Vim with server. Useful for synctex
 alias vim='vim --servername vim'
+alias t='task'
+alias in='task add +in'
+
