@@ -4,4 +4,4 @@
 data.location=~/.task
 
 # Color theme
-include ~/.task-zenburn-256.theme
+include /usr/share/task/dark-yellow-green.theme
