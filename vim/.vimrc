@@ -110,7 +110,7 @@ nnoremap ' `
 nnoremap ` '
 
 " Write files with Leader + w
-nnoremap <Leader>w :w<CR>
+"nnoremap <Leader>w :w<CR>
 " Use system clipboard with Leader
 vmap <Leader>y "+y
 vmap <Leader>d "+d
@@ -125,6 +125,11 @@ nmap <C-h> <C-w>h
 nmap <C-j> <C-w>j
 nmap <C-k> <C-w>k
 nmap <C-l> <C-w>l
+
+" Insert timestamp
+nmap <F3> i<C-R>=strftime("%Y-%m-%d")<CR><Esc>
+"imap <F3> <C-R>=strftime("%Y-%m-%d %H:%M %p")<CR>
+imap <F3> <C-R>=strftime("%Y-%m-%d")<CR>
 
 "========================
 " Plugin key bindings 
@@ -216,3 +221,13 @@ else
   hi clear SpellBad
   hi SpellBad cterm=underline ctermfg=red
 endif
+hi VimwikiHeader1 ctermfg=lightblue
+hi VimwikiHeader2 ctermfg=darkred
+hi VimwikiHeader3 ctermfg=darkred
+hi VimwikiHeader4 ctermfg=darkred
+hi VimwikiHeader5 ctermfg=darkred
+hi VimwikiHeader6 ctermfg=darkred
+set colorcolumn=80
+set t_ZH=[3m
+set t_ZR=[23m
+highlight Comment cterm=italic

@@ -1,81 +1,80 @@
-" Need this here for Vundle
-filetype off
 
 " Load Vundle for managing scripts
-set rtp+=~/.vim/bundle/vundle
-call vundle#begin()
-
-" Plugin Manager
-Plugin 'gmarik/vundle'
+call plug#begin('~/.vim/plugged/')
 
 " Sensible defaults
-Plugin 'tpope/vim-sensible'
+Plug 'tpope/vim-sensible'
 
 " Appearance
 """"""""""""""""
 " Color schemes
-Plugin 'sheerun/vim-wombat-scheme'
-Plugin 'jnurmine/Zenburn'
+Plug 'sheerun/vim-wombat-scheme'
+Plug 'jnurmine/Zenburn'
 " Numbers  
-Plugin 'myusuf3/numbers.vim'
+Plug 'myusuf3/numbers.vim'
 " Statusline
-Plugin 'vim-airline/vim-airline'
-Plugin 'vim-airline/vim-airline-themes'
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
 
 " Tmux integration
 """"""""""""""""
 " Integration vim/tmux windows
-Plugin 'christoomey/vim-tmux-navigator'
+Plug 'christoomey/vim-tmux-navigator'
 " Tmux REPL integration
-Plugin 'jpalardy/vim-slime'
+Plug 'jpalardy/vim-slime', {'for': 'python'}
 
 " Moving around
 """"""""""""""""
 " Shell-like bindings in Vim
-Plugin 'tpope/vim-rsi'
+Plug 'tpope/vim-rsi'
 " Move easier
-Plugin 'easymotion/vim-easymotion'
+Plug 'easymotion/vim-easymotion'
 
 " Code editing
 """"""""""""""""
 " Commenting
-Plugin 'scrooloose/nerdcommenter'
+Plug 'scrooloose/nerdcommenter'
 " Surroundings
-Plugin 'tpope/vim-surround'
+Plug 'tpope/vim-surround'
 " Text aligning 
-Plugin 'godlygeek/tabular'
+Plug 'godlygeek/tabular'
 " Snippets
-Bundle 'ervandew/supertab'
-Plugin 'SirVer/ultisnips'
-Plugin 'honza/vim-snippets'
+Plug 'ervandew/supertab'
+Plug 'SirVer/ultisnips'
+Plug 'honza/vim-snippets'
 " Linting
-Plugin 'w0rp/ale'
+Plug 'w0rp/ale'
 " Autocompletion
-Plugin 'Valloric/YouCompleteMe'
+function! BuildYCM(info)
+  if a:info.status == 'installed' || a:info.force
+    !./install.sh
+  endif
+endfunction
+Plug 'Valloric/YouCompleteMe', { 'do': function('BuildYCM') }
 
 " Language-specific plugins
 """"""""""""""""
 " LaTeX
-Plugin 'lervag/vimtex'
+Plug 'lervag/vimtex', {'for': 'tex'}
 " Python
-Plugin 'vim-scripts/indentpython.vim'
+Plug 'vim-scripts/indentpython.vim', { 'for': 'python' }
 " GNU Gettext 
-Plugin 'vim-scripts/po.vim'
+Plug 'vim-scripts/po.vim'
 
 " Files & Buffers
 """"""""""""""""
 " File finding
-Plugin 'ctrlpvim/ctrlp.vim'
+Plug 'ctrlpvim/ctrlp.vim'
 " Buffer management
-Plugin 'jeetsukumaran/vim-buffergator'
+Plug 'jeetsukumaran/vim-buffergator'
 " Show open buffers
-Plugin 'bling/vim-bufferline'
+Plug 'bling/vim-bufferline'
 
 " Productivity
 """"""""""""""""
 " Personal Wiki
-Plugin 'vimwiki/vimwiki'
+" Dev branch for taskwiki
+Plug 'vimwiki/vimwiki'
+Plug 'tbabej/taskwiki'
 
-
-call vundle#end()
-filetype plugin indent on
+call plug#end()
