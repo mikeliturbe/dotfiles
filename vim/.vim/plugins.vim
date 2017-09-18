@@ -59,7 +59,7 @@ Plug 'lervag/vimtex', {'for': 'tex'}
 " Python
 Plug 'vim-scripts/indentpython.vim', { 'for': 'python' }
 " GNU Gettext 
-Plug 'vim-scripts/po.vim'
+Plug 'vim-scripts/po.vim', {'for': 'po'}
 
 " Files & Buffers
 """"""""""""""""
