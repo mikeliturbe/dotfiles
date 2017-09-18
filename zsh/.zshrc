@@ -38,3 +38,24 @@ alias vim='vim --servername vim'
 alias t='task'
 alias in='task add +in'
 
+## Timewarrior
+alias tw='timew'
+
+# summaries
+alias twd='timew day'
+alias tww='timew week'
+alias tws='timew summary :ids'
+alias twsy='timew summary :ids :yesterday'
+
+# actions
+alias twa='timew start'
+alias twt='timew stop'
+alias twc='timew continue'
+
+alias twb='timew track'
+
+# edit
+alias twes='timew shorten'
+alias twel='timew lengthen'
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
