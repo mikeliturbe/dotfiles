@@ -221,12 +221,12 @@ else
   hi clear SpellBad
   hi SpellBad cterm=underline ctermfg=red
 endif
-hi VimwikiHeader1 ctermfg=lightblue
-hi VimwikiHeader2 ctermfg=darkred
-hi VimwikiHeader3 ctermfg=darkred
-hi VimwikiHeader4 ctermfg=darkred
-hi VimwikiHeader5 ctermfg=darkred
-hi VimwikiHeader6 ctermfg=darkred
+hi VimwikiHeader1 ctermfg=116
+hi VimwikiHeader2 ctermfg=174
+hi VimwikiHeader3 ctermfg=108
+hi VimwikiHeader4 ctermfg=188
+hi VimwikiHeader5 ctermfg=188
+hi VimwikiHeader6 ctermfg=188
 set colorcolumn=80
 set t_ZH=[3m
 set t_ZR=[23m
