@@ -12,4 +12,5 @@ fi
 
 # Remove annoying DBUS error when launching GUI apps
 export NO_AT_BRIDGE=1
-
+export FZF_TMUX=1
+export FZF_TMUX_HEIGHT=20%
