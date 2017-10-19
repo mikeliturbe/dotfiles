@@ -13,12 +13,12 @@ fi
 # Customize to your needs...
 
 #Vi-mode
-bindkey -v
+#bindkey -v
 #jj to return to normal mode
 bindkey -M viins 'jj' vi-cmd-mode
 
-bindkey ';5D' emacs-backward-word
-bindkey ';5C' emacs-forward-word
+#bindkey ';5D' emacs-backward-word
+#bindkey ';5C' emacs-forward-word
 
 setopt rmstarsilent
 
@@ -30,8 +30,8 @@ export EDITOR=/usr/bin/vim
 export VISUAL=/usr/bin/vim
 
 #Go variables
-export GOPATH=$HOME/dev/go
-export PATH=$PATH:$GOPATH/bin
+#export GOPATH=$HOME/dev/go
+#export PATH=$PATH:$GOPATH/bin
 
 # Start Vim with server. Useful for synctex
 alias vim='vim --servername vim'
@@ -42,15 +42,15 @@ alias in='task add +in'
 alias tw='timew'
 
 # summaries
-alias twd='timew day'
-alias tww='timew week'
+#alias twd='timew day'
+#alias tww='timew week'
 alias tws='timew summary :ids'
 alias twsy='timew summary :ids :yesterday'
 
 # actions
 alias twa='timew start'
 alias twt='timew stop'
-alias twc='timew continue'
+#alias twc='timew continue'
 
 alias twb='timew track'
 

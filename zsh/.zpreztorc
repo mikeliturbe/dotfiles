@@ -25,24 +25,25 @@ zstyle ':prezto:*:*' color 'yes'
 # The order matters.
 zstyle ':prezto:load' pmodule \
   'environment' \
-  'terminal' \
   'editor' \
   'history' \
   'directory' \
   'spectrum' \
   'utility' \
-  'git' \
   'completion' \
-  'tmux' \
-  'history-substring-search' \
   'prompt'
+
+  #'tmux' \
+  #'terminal' \
+  #'history-substring-search' \
+  #'git' \
 
 #
 # Editor
 #
 
 # Set the key mapping style to 'emacs' or 'vi'.
-zstyle ':prezto:module:editor' key-bindings 'emacs'
+zstyle ':prezto:module:editor' key-bindings 'vi'
 
 # Auto convert .... to ../..
 # zstyle ':prezto:module:editor' dot-expansion 'yes'
