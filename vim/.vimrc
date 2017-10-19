@@ -71,13 +71,27 @@ set et sw=2 sts=2 ts=2 ai
 "Disable auto-commenting new line
 autocmd Filetype * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
 
-" Ignore Ctrl-P files
-let g:ctrlp_custom_ignore = {
-  \ 'dir':  '\v[\/](\.(git|hg|svn)|\_site)$',
-  \ 'file': '\v\.(exe|so|dll|class|png|jpg|jpeg)$',
-\}
-" Ignore .gitignore files in Ctrl-P
-let g:ctrlp_user_command = ['.git', 'cd %s && git ls-files -co --exclude-standard']
+" FZF
+let g:fzf_colors =
+\ { 'fg':      ['fg', 'Normal'],
+  \ 'bg':      ['bg', 'Normal'],
+  \ 'hl':      ['fg', 'Comment'],
+  \ 'fg+':     ['fg', 'CursorLine', 'CursorColumn', 'Normal'],
+  \ 'bg+':     ['bg', 'CursorLine', 'CursorColumn'],
+  \ 'hl+':     ['fg', 'Statement'],
+  \ 'info':    ['fg', 'PreProc'],
+  \ 'border':  ['fg', 'Ignore'],
+  \ 'prompt':  ['fg', 'Conditional'],
+  \ 'pointer': ['fg', 'Exception'],
+  \ 'marker':  ['fg', 'Keyword'],
+  \ 'spinner': ['fg', 'Label'],
+  \ 'header':  ['fg', 'Comment'] }
+
+" Let FZF grep for file content using :Find
+command! -bang -nargs=* Find call fzf#vim#grep('rg --column --line-number
+      \ --no-heading --fixed-strings --ignore-case --no-ignore --hidden --follow
+      \ --glob "!.git/*" --color "always" '.shellescape(<q-args>).'
+      \ | tr -d "\017"', 1,  <bang>0)
 
 "=========================
 "Key bindings
@@ -134,22 +148,6 @@ imap <F3> <C-R>=strftime("%Y-%m-%d")<CR>
 "========================
 " Plugin key bindings 
 "========================
-" Buffergator
-
-" Use the right side of the screen
-let g:buffergator_viewport_split_policy = 'R'
-
-" I want my own keymappings...
-let g:buffergator_suppress_keymaps = 1
-
-" Go to the previous buffer open
-nmap <leader>j :BuffergatorMruCyclePrev<cr>
-
-" Go to the next buffer open
-nmap <leader>k :BuffergatorMruCycleNext<cr>
-
-" View the entire list of buffers open
-nmap <leader>bl :BuffergatorOpen<cr>
 
 " Bindings to open and close buffers
 nmap <leader>T :enew<cr>
@@ -161,20 +159,11 @@ nmap <leader>bq :bp <BAR> bd #<cr>
 " control. It also supports works with .svn, .hg, .bzr.
 "let g:ctrlp_working_path_mode = 'r'
 
-" Easy bindings for its various modes
-nmap <leader>bb :CtrlPBuffer<cr>
-nmap <leader>bm :CtrlPMixed<cr>
-nmap <leader>bs :CtrlPMRU<cr>
-
+" FZF
 " Open files with Leader + o
-nnoremap <Leader>o :CtrlP<CR>
-
-" Index all files
-let g:ctrlp_max_files=0
-let g:ctrlp_max_depth=40
-
-" Close ctrlp with Esc C-c or jj
-let g:ctrlp_prompt_mappings = { 'PrtExit()': ['<esc>', '<c-c>', '<c-g>', ','] }
+nnoremap <Leader>o :Files<CR>
+" Open buffers with Leader + ;
+nnoremap <Leader>; :Buffers<CR>
 
 " Make YCM and UltiSnips behave nice w/ supertab
 " YCM
