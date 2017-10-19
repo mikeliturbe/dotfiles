@@ -68,3 +68,12 @@ Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 Plug 'junegunn/fzf.vim'
 " Pairings
 Plug 'tpope/vim-unimpaired'
+
+" Productivity
+""""""""""""""""
+" Personal Wiki
+" Dev branch for taskwiki
+Plug 'vimwiki/vimwiki'
+Plug 'tbabej/taskwiki'
+
+call plug#end()
