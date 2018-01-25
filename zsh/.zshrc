@@ -35,29 +35,45 @@ export VISUAL=/usr/bin/vim
 
 # Start Vim with server. Useful for synctex
 alias vim='vim --servername vim'
+
+# Taskwarrior 
 alias t='task'
 alias in='task add +in'
+alias ta="task add"
+alias td="task done"
+alias t-="task delete"
+alias tm="task modify"
+alias tu="task undo"
+alias tv="vit rc.alias.next=list"
+alias tw1="task modify wait:1d"
 
-## Timewarrior
+## main categories
+alias tik="t project:Ik"
+alias tmu="t project:Mu"
+alias tir="t project:Ir"
+
+# Timewarrior
 alias tw='timew'
 
-# summaries
+## summaries
 #alias twd='timew day'
 #alias tww='timew week'
 alias tws='timew summary :ids'
 alias twsy='timew summary :ids :yesterday'
+alias twsc='timew summary 2017-09-01 - today'
 
-# actions
+## actions
 alias twa='timew start'
 alias twt='timew stop'
 #alias twc='timew continue'
 
 alias twb='timew track'
 
-# edit
+## edit
 alias twes='timew shorten'
 alias twel='timew lengthen'
 
+# FZF
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
 # Quoted text objects
