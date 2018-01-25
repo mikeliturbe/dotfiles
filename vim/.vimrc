@@ -5,7 +5,8 @@ set nocompatible
 filetype plugin on 
 filetype indent on     
 let mapleader = "\<Space>" 
-
+" Have swap files in a central place
+set directory^=$HOME/.vim/tmp//
 "=========================
 " User interface
 "=========================
@@ -93,6 +94,13 @@ command! -bang -nargs=* Find call fzf#vim#grep('rg --column --line-number
       \ --glob "!.git/*" --color "always" '.shellescape(<q-args>).'
       \ | tr -d "\017"', 1,  <bang>0)
 
+" Vimwiki Python highlighting
+let wiki = {}
+let wiki.path = '~/vimwiki/'
+let wiki.nested_syntaxes = {'python': 'python'}
+let g:vimwiki_list = [wiki]
+
+
 "=========================
 "Key bindings
 "=========================
@@ -145,6 +153,8 @@ nmap <F3> i<C-R>=strftime("%Y-%m-%d")<CR><Esc>
 "imap <F3> <C-R>=strftime("%Y-%m-%d %H:%M %p")<CR>
 imap <F3> <C-R>=strftime("%Y-%m-%d")<CR>
 
+" Center code
+nmap <Leader>V :execute 'topleft' ((&columns - &textwidth) / 2 - 1) . 'vsplit _paddding_'<CR>
 "========================
 " Plugin key bindings 
 "========================

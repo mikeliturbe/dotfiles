@@ -5,3 +5,4 @@ data.location=~/.task
 
 # Color theme
 include /usr/share/task/dark-yellow-green.theme
+

@@ -75,3 +75,6 @@ color.blocked=color236 on color8
 color.project.none=
 color.tag.none=
 color.alternate=on color237
+
+color.vit.header=color16 on color231
+color.vit.selection=color231 on color68
