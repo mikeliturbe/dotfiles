@@ -73,6 +73,9 @@ alias twb='timew track'
 alias twes='timew shorten'
 alias twel='timew lengthen'
 
+# Tmux 
+alias tks='tmux kill-server'
+
 # FZF
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
