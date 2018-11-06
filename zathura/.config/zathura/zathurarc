@@ -1,9 +1,16 @@
 #Use system clipboard
 set selection-clipboard clipboard
 
-#Zenburn colors
-set default-bg "#3f3f3f"
-set inputbar-fg "#dcdccc"
-set inputbar-bg "#3f3f3f"
-set statusbar-bg "#2f2f2f"
-set statusbar-fg "#dcaf8f"
+#j Zenburn colors
+
+#set default-bg "#3f3f3f"
+#set inputbar-fg "#dcdccc"
+#set inputbar-bg "#3f3f3f"
+#set statusbar-bg "#2f2f2f"
+#set statusbar-fg "#dcaf8f"
+
+# Nord colors
+set default-bg "#22242D"
+set recolor "false"
+set recolor-darkcolor "#D3DAE3"
+set recolor-lightcolor "#2F343F"
