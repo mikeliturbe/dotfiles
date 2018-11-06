@@ -66,6 +66,7 @@ let g:ycm_semantic_triggers.tex = [
       \ 're!\\(include|input){[^}]*'
       \ ]
 
+
 " General editing
 set et sw=2 sts=2 ts=2 ai
 
@@ -94,12 +95,14 @@ command! -bang -nargs=* Find call fzf#vim#grep('rg --column --line-number
       \ --glob "!.git/*" --color "always" '.shellescape(<q-args>).'
       \ | tr -d "\017"', 1,  <bang>0)
 
+" Vimwiki
+au FileType vimwiki setl colorcolumn=80 textwidth=79 
+
 " Vimwiki Python highlighting
 let wiki = {}
 let wiki.path = '~/vimwiki/'
 let wiki.nested_syntaxes = {'python': 'python'}
 let g:vimwiki_list = [wiki]
-
 
 "=========================
 "Key bindings
@@ -210,22 +213,26 @@ syntax on
 "set t_Co=256
 if has ('gui_running')
 	"GUI colors
-	colorscheme zenburn
+	colorscheme nord
   "Maximize window
   set lines=64 columns=242
 else
 	"Terminal colors
-	colorscheme zenburn
+  let &t_8f='[38;2;%lu;%lu;%lum'
+  let &t_8b='[48;2;%lu;%lu;%lum'
+  set termguicolors
+	colorscheme nord
+  let g:nord_comment_brightness = 12
   " Spell check underline
   hi clear SpellBad
   hi SpellBad cterm=underline ctermfg=red
 endif
-hi VimwikiHeader1 ctermfg=116
-hi VimwikiHeader2 ctermfg=174
-hi VimwikiHeader3 ctermfg=108
-hi VimwikiHeader4 ctermfg=188
-hi VimwikiHeader5 ctermfg=188
-hi VimwikiHeader6 ctermfg=188
+"hi VimwikiHeader1 ctermfg=116
+"hi VimwikiHeader2 ctermfg=174
+"hi VimwikiHeader3 ctermfg=108
+"hi VimwikiHeader4 ctermfg=188
+"hi VimwikiHeader5 ctermfg=188
+"hi VimwikiHeader6 ctermfg=188
 set colorcolumn=80
 set t_ZH=[3m
 set t_ZR=[23m

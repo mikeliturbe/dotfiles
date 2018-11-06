@@ -10,6 +10,7 @@ Plug 'tpope/vim-sensible'
 " Color schemes
 Plug 'sheerun/vim-wombat-scheme'
 Plug 'jnurmine/Zenburn'
+Plug 'arcticicestudio/nord-vim'
 " Numbers  
 Plug 'myusuf3/numbers.vim'
 " Statusline
@@ -45,12 +46,7 @@ Plug 'honza/vim-snippets'
 " Linting
 Plug 'w0rp/ale'
 " Autocompletion
-function! BuildYCM(info)
-  if a:info.status == 'installed' || a:info.force
-    !./install.sh
-  endif
-endfunction
-Plug 'Valloric/YouCompleteMe', { 'do': function('BuildYCM') }
+Plug 'Valloric/YouCompleteMe'
 
 " Language-specific plugins
 """"""""""""""""
@@ -58,6 +54,8 @@ Plug 'Valloric/YouCompleteMe', { 'do': function('BuildYCM') }
 Plug 'lervag/vimtex', {'for': 'tex'}
 " Python
 Plug 'vim-scripts/indentpython.vim', { 'for': 'python' }
+Plug 'vyzyv/vimpyter', { 'for': 'ipynb' }
+Plug 'python-mode/python-mode', { 'branch': 'develop', 'for': 'python' }
 " GNU Gettext 
 Plug 'vim-scripts/po.vim', {'for': 'po'}
 
