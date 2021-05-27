@@ -4,6 +4,24 @@
 data.location=~/.task
 
 # Color theme
-#include /usr/share/task/dark-blue-256.theme
-include /usr/share/task/dark-violets-256.theme
+include /usr/share/task/dark-blue-256.theme
+#include /usr/share/task/no-color.theme
 #include /usr/share/task/solarized-dark-256.theme
+rc.defaultwidth=`tput cols'
+
+# Inbox report
+report.in.columns           = id,description
+report.in.description       = Inbox
+report.in.filter            = status:pending limit:page (+in)
+report.in.labels            = ID,Description
+
+# Intheam conf
+taskd.certificate=~/.task/intheam_certs/private.certificate.pem
+taskd.key=~/.task/intheam_certs/private.key.pem
+taskd.ca=~/.task/intheam_certs/ca.cert.pem
+taskd.server=taskwarrior.inthe.am:53589
+taskd.credentials=inthe_am/miturbe/d5164361-0ec0-4c9c-b486-84f5e31fc99c
+taskd.trust=ignore hostname
+context.pertsonala=+pertsonala
+context.lana=-pertsonala
+context=lana
