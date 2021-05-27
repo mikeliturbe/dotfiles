@@ -7,6 +7,7 @@ data.location=~/.task
 include /usr/share/task/dark-blue-256.theme
 #include /usr/share/task/no-color.theme
 #include /usr/share/task/solarized-dark-256.theme
+include /usr/share/task/solarized-light-256.theme
 rc.defaultwidth=`tput cols'
 
 # Inbox report

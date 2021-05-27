@@ -232,8 +232,8 @@ else
   let &t_8f='[38;2;%lu;%lu;%lum'
   let &t_8b='[48;2;%lu;%lu;%lum'
   set termguicolors
-  colorscheme nord
-  let g:nord_comment_brightness = 12
+  set background=light
+  colorscheme solarized8
   " Spell check underline
   hi clear SpellBad
   hi SpellBad cterm=underline ctermfg=red
