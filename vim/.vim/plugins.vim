@@ -8,9 +8,10 @@ Plug 'tpope/vim-sensible'
 " Appearance
 """"""""""""""""
 " Color schemes
-Plug 'sheerun/vim-wombat-scheme'
-Plug 'jnurmine/Zenburn'
+"Plug 'sheerun/vim-wombat-scheme'
+"Plug 'jnurmine/Zenburn'
 Plug 'arcticicestudio/nord-vim'
+Plug 'lifepillar/vim-solarized8'
 " Numbers  
 Plug 'myusuf3/numbers.vim'
 " Statusline
@@ -38,7 +39,7 @@ Plug 'scrooloose/nerdcommenter'
 " Surroundings
 Plug 'tpope/vim-surround'
 " Text aligning 
-Plug 'godlygeek/tabular'
+Plug 'junegunn/vim-easy-align'
 " Snippets
 Plug 'ervandew/supertab'
 Plug 'SirVer/ultisnips'
@@ -46,7 +47,9 @@ Plug 'honza/vim-snippets'
 " Linting
 Plug 'w0rp/ale'
 " Autocompletion
-Plug 'Valloric/YouCompleteMe'
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+
+"Plug 'Valloric/YouCompleteMe'
 
 " Language-specific plugins
 """"""""""""""""
@@ -58,6 +61,8 @@ Plug 'vyzyv/vimpyter', { 'for': 'ipynb' }
 Plug 'python-mode/python-mode', { 'branch': 'develop', 'for': 'python' }
 " GNU Gettext 
 Plug 'vim-scripts/po.vim', {'for': 'po'}
+" XML
+Plug 'sukima/xmledit', {'for': 'xml'}
 
 " Files & Buffers
 """"""""""""""""
@@ -72,6 +77,7 @@ Plug 'tpope/vim-unimpaired'
 " Personal Wiki
 " Dev branch for taskwiki
 Plug 'vimwiki/vimwiki'
-Plug 'tbabej/taskwiki'
+"Plug 'tbabej/taskwiki'
+Plug 'https://github.com/Alok/notational-fzf-vim'
 
 call plug#end()

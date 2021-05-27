@@ -5,6 +5,7 @@ set nocompatible
 filetype plugin on 
 filetype indent on     
 let mapleader = "\<Space>" 
+:let maplocalleader = "\\"
 " Have swap files in a central place
 set directory^=$HOME/.vim/tmp//
 "=========================
@@ -33,6 +34,8 @@ set hidden
 set splitbelow
 set splitright
 
+" No long links in VimWiki
+set concealcursor=nc
 "=========================
 " Filetypes
 "=========================
@@ -104,6 +107,14 @@ let wiki.path = '~/vimwiki/'
 let wiki.nested_syntaxes = {'python': 'python'}
 let g:vimwiki_list = [wiki]
 
+let wiki_1 = {}
+let wiki_1.path = '~/vimwiki_old/'
+let wiki_1.syntax = 'markdown'
+let wiki_1.ext = '.md'
+
+let g:vimwiki_list = [wiki_1]
+let g:vimwiki_ext2syntax = {'.md': 'markdown', '.markdown': 'markdown', '.mdown': 'markdown'}
+let g:vimwiki_global_ext = 0
 "=========================
 "Key bindings
 "=========================
@@ -212,16 +223,16 @@ syntax on
 "256-color terminal (comment if using tmux w/ 256 colors)
 "set t_Co=256
 if has ('gui_running')
-	"GUI colors
-	colorscheme nord
+  "GUI colors
+  colorscheme nord
   "Maximize window
   set lines=64 columns=242
 else
-	"Terminal colors
+  "Terminal colors
   let &t_8f='[38;2;%lu;%lu;%lum'
   let &t_8b='[48;2;%lu;%lu;%lum'
   set termguicolors
-	colorscheme nord
+  colorscheme nord
   let g:nord_comment_brightness = 12
   " Spell check underline
   hi clear SpellBad
@@ -237,3 +248,14 @@ set colorcolumn=80
 set t_ZH=[3m
 set t_ZR=[23m
 highlight Comment cterm=italic
+" Searching with notational velocity
+let g:nv_search_paths = ['~/vimwiki']
+
+" Alignment plugin
+" Start interactive EasyAlign in visual mode (e.g. vipga)
+xmap ga <Plug>(EasyAlign)
+
+" Start interactive EasyAlign for a motion/text object (e.g. gaip)
+nmap ga <Plug>(EasyAlign)
+
+
