@@ -14,3 +14,5 @@ set default-bg "#22242D"
 set recolor "false"
 set recolor-darkcolor "#D3DAE3"
 set recolor-lightcolor "#2F343F"
+
+set first-page-column 1:2
