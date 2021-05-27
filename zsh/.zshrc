@@ -35,10 +35,11 @@ export VISUAL=/usr/bin/vim
 
 # Start Vim with server. Useful for synctex
 alias vim='vim --servername vim'
+# Easy note capture
+alias in='vim ~/vimwiki/inbox.wiki'
 
 # Taskwarrior 
 alias t='task'
-alias in='task add +in'
 alias ta="task add"
 alias td="task done"
 alias t-="task delete"
@@ -46,6 +47,12 @@ alias tm="task modify"
 alias tu="task undo"
 alias tv="vit rc.alias.next=list"
 alias tw1="task modify wait:1d"
+
+# Taskwarrior completion
+zstyle ':completion:*:*:task:*' verbose yes
+zstyle ':completion:*:*:task:*:descriptions' format '%U%B%d%b%u'
+
+zstyle ':completion:*:*:task:*' group-name ''
 
 ## main categories
 alias tik="t project:Ik"
@@ -60,7 +67,7 @@ alias tw='timew'
 #alias tww='timew week'
 alias tws='timew summary :ids'
 alias twsy='timew summary :ids :yesterday'
-alias twsc='timew summary 2017-09-01 - today'
+alias twsc='timew summary 2018-09-01 - today'
 
 ## actions
 alias twa='timew start'
@@ -78,6 +85,9 @@ alias tks='tmux kill-server'
 
 # FZF
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
+# Buku 
+alias bk='buku'
 
 # Quoted text objects
 autoload -U select-quoted

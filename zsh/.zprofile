@@ -33,6 +33,7 @@ fi
 # Paths
 #
 
+ fpath=(~/.fpath $fpath)
 # Ensure path arrays do not contain duplicates.
 typeset -gU cdpath fpath mailpath path
 
@@ -44,6 +45,7 @@ typeset -gU cdpath fpath mailpath path
 # Set the list of directories that Zsh searches for programs.
 path=(
   /usr/local/{bin,sbin}
+  /home/bin
   $path
 )
 
