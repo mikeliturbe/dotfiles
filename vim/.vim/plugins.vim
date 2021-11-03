@@ -10,8 +10,9 @@ Plug 'tpope/vim-sensible'
 " Color schemes
 "Plug 'sheerun/vim-wombat-scheme'
 "Plug 'jnurmine/Zenburn'
-Plug 'arcticicestudio/nord-vim'
-Plug 'lifepillar/vim-solarized8'
+"Plug 'arcticicestudio/nord-vim'
+"Plug 'lifepillar/vim-solarized8'
+Plug 'overcache/NeoSolarized'
 " Numbers  
 Plug 'myusuf3/numbers.vim'
 " Statusline
@@ -21,9 +22,9 @@ Plug 'vim-airline/vim-airline-themes'
 " Tmux integration
 """"""""""""""""
 " Integration vim/tmux windows
-Plug 'christoomey/vim-tmux-navigator'
+"Plug 'christoomey/vim-tmux-navigator'
 " Tmux REPL integration
-Plug 'jpalardy/vim-slime', {'for': 'python'}
+"Plug 'jpalardy/vim-slime', {'for': 'python'}
 
 " Moving around
 """"""""""""""""
@@ -47,7 +48,7 @@ Plug 'honza/vim-snippets'
 " Linting
 Plug 'w0rp/ale'
 " Autocompletion
-Plug 'neoclide/coc.nvim', {'branch': 'release'}
+" Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
 "Plug 'Valloric/YouCompleteMe'
 

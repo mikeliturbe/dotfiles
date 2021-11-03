@@ -224,16 +224,21 @@ syntax on
 "set t_Co=256
 if has ('gui_running')
   "GUI colors
-  colorscheme nord
+  "colorscheme nord
+  colorscheme NeoSolarized
   "Maximize window
   set lines=64 columns=242
 else
   "Terminal colors
+  " Necessary for Kitty terminal
+  colorscheme NeoSolarized
+  set background=light
+  "let &t_ut=''
   let &t_8f='[38;2;%lu;%lu;%lum'
   let &t_8b='[48;2;%lu;%lu;%lum'
   set termguicolors
-  colorscheme nord
-  let g:nord_comment_brightness = 12
+  "colorscheme nord
+  "let g:nord_comment_brightness = 12
   " Spell check underline
   hi clear SpellBad
   hi SpellBad cterm=underline ctermfg=red
