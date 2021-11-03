@@ -1,3 +1,10 @@
+# Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
+# Initialization code that may require console input (password prompts, [y/n]
+# confirmations, etc.) must go above this block; everything else may go below.
+if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
+  source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
+fi
+
 #
 # Executes commands at the start of an interactive session.
 #
@@ -14,7 +21,10 @@ fi
 
 #Vi-mode
 #bindkey -v
+# Faster transition to normal
+export KEYTIMEOUT=1
 #jj to return to normal mode
+bindkey -e ${$(tput kDC3 2>/dev/null):-'\e[3;3~'} kill-word
 bindkey -M viins 'jj' vi-cmd-mode
 
 #bindkey ';5D' emacs-backward-word
@@ -23,18 +33,18 @@ bindkey -M viins 'jj' vi-cmd-mode
 setopt rmstarsilent
 
 zmodload zsh/terminfo
-bindkey "$terminfo[kcuu1]" history-beginning-search-backward
-bindkey "$terminfo[kcud1]" history-beginning-search-forward
+#bindkey "$terminfo[kcuu1]" history-beginning-search-backward
+#bindkey "$terminfo[kcud1]" history-beginning-search-forward
 
 export EDITOR=/usr/bin/vim
 export VISUAL=/usr/bin/vim
 
-#Go variables
-#export GOPATH=$HOME/dev/go
-#export PATH=$PATH:$GOPATH/bin
+# Vit variables
+export VITPATH=$HOME/.local/bin
+#export PATH=$PATH:$VITPATH
 
 # Start Vim with server. Useful for synctex
-alias vim='vim --servername vim'
+#alias vim='vim --servername vim'
 # Easy note capture
 alias in='vim ~/vimwiki/inbox.wiki'
 
@@ -83,8 +93,6 @@ alias twel='timew lengthen'
 # Tmux 
 alias tks='tmux kill-server'
 
-# FZF
-[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
 # Buku 
 alias bk='buku'
@@ -106,3 +114,14 @@ for m in visual viopp; do
 	  bindkey -M $m $c select-bracketed
 	done
 done
+
+# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
+#Vi-mode
+bindkey -v
+# Faster transition to normal
+export KEYTIMEOUT=1
+
+# FZF
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
