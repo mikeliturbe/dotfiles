@@ -1,0 +1,2202 @@
+time 1553528848
+new [description:"Prestatu asignaturaren aurkezpena" entry:"1553528848" modified:"1553528848" project:"Irakaskuntza.MACC" status:"pending" uuid:"ec37f31e-1d72-4af5-8056-2925a4e3dcd8"]
+---
+time 1553528860
+old [description:"Prestatu asignaturaren aurkezpena" entry:"1553528848" modified:"1553528848" project:"Irakaskuntza.MACC" status:"pending" uuid:"ec37f31e-1d72-4af5-8056-2925a4e3dcd8"]
+new [description:"Prestatu asignaturaren aurkezpena" entry:"1553528848" modified:"1553528860" project:"Irakaskuntza.MACC" status:"pending" tags:"billable" uuid:"ec37f31e-1d72-4af5-8056-2925a4e3dcd8"]
+---
+time 1553528889
+new [description:"Retos entregableak egin" entry:"1553528889" modified:"1553528889" project:"Ikerketa.SEGURONA" status:"pending" uuid:"59a53226-d5a7-45aa-a2b3-6c484f249c0f"]
+---
+time 1554295806
+new [description:"Rubrika erraztu galderak jartzeko" entry:"1554295806" modified:"1554295806" project:"Irakaskuntza.Segurtasuna" status:"pending" uuid:"5fb74196-6d68-4c9c-83d3-e4ecdc556e18"]
+---
+time 1554295816
+old [description:"Rubrika erraztu galderak jartzeko" entry:"1554295806" modified:"1554295806" project:"Irakaskuntza.Segurtasuna" status:"pending" uuid:"5fb74196-6d68-4c9c-83d3-e4ecdc556e18"]
+new [description:"Rubrika erraztu galderak jartzeko" entry:"1554295806" modified:"1554295816" project:"Irakaskuntza.Segurtasuna" status:"pending" tags:"billable" uuid:"5fb74196-6d68-4c9c-83d3-e4ecdc556e18"]
+---
+time 1554984771
+old [description:"Rubrika erraztu galderak jartzeko" entry:"1554295806" modified:"1554295816" project:"Irakaskuntza.Segurtasuna" status:"pending" tags:"billable" uuid:"5fb74196-6d68-4c9c-83d3-e4ecdc556e18"]
+new [description:"Rubrika erraztu galderak jartzeko" end:"1554984771" entry:"1554295806" modified:"1554984771" project:"Irakaskuntza.Segurtasuna" status:"completed" tags:"billable" uuid:"5fb74196-6d68-4c9c-83d3-e4ecdc556e18"]
+---
+time 1554986361
+old [description:"Retos entregableak egin" entry:"1553528889" modified:"1553528889" project:"Ikerketa.SEGURONA" status:"pending" uuid:"59a53226-d5a7-45aa-a2b3-6c484f249c0f"]
+new [description:"Retos entregableak egin" entry:"1553528889" modified:"1554986361" project:"Ikerketa.SEGURONA" status:"pending" tags:"billable" uuid:"59a53226-d5a7-45aa-a2b3-6c484f249c0f"]
+---
+time 1556102522
+new [description:"Reminderra bidali mailez demoak eskatzen Review aurkezpenerako" entry:"1556102522" modified:"1556102522" project:"Ikerketa.PROPHESY" status:"pending" uuid:"5464145e-f43e-4a51-9797-1adef533336e"]
+---
+time 1556102798
+old [description:"Reminderra bidali mailez demoak eskatzen Review aurkezpenerako" entry:"1556102522" modified:"1556102522" project:"Ikerketa.PROPHESY" status:"pending" uuid:"5464145e-f43e-4a51-9797-1adef533336e"]
+new [description:"Reminderra bidali mailez demoak eskatzen Review aurkezpenerako" entry:"1556102522" modified:"1556102798" project:"Ikerketa.PROPHESY" status:"pending" tags:"billable" uuid:"5464145e-f43e-4a51-9797-1adef533336e"]
+---
+time 1556886507
+new [description:"WP presentation meeting" entry:"1556886507" modified:"1556886507" project:"Ikerketa.PROPHESY" status:"pending" uuid:"db5262ac-2e96-4d9d-8bad-4d36886feb37"]
+---
+time 1557122842
+new [description:"Auditoria tresna externoak begiratu" entry:"1557122842" modified:"1557122842" project:"Ikerketa.SEGURONA" status:"pending" uuid:"873cc6cc-1f6d-491a-80cb-531ba37a0655"]
+---
+time 1559118276
+old [description:"Reminderra bidali mailez demoak eskatzen Review aurkezpenerako" entry:"1556102522" modified:"1556102798" project:"Ikerketa.PROPHESY" status:"pending" tags:"billable" uuid:"5464145e-f43e-4a51-9797-1adef533336e"]
+new [description:"Reminderra bidali mailez demoak eskatzen Review aurkezpenerako" end:"1559118276" entry:"1556102522" modified:"1559118276" project:"Ikerketa.PROPHESY" status:"completed" tags:"billable" uuid:"5464145e-f43e-4a51-9797-1adef533336e"]
+---
+time 1559118279
+old [description:"WP presentation meeting" entry:"1556886507" modified:"1556886507" project:"Ikerketa.PROPHESY" status:"pending" uuid:"db5262ac-2e96-4d9d-8bad-4d36886feb37"]
+new [description:"WP presentation meeting" end:"1559118279" entry:"1556886507" modified:"1559118279" project:"Ikerketa.PROPHESY" status:"completed" uuid:"db5262ac-2e96-4d9d-8bad-4d36886feb37"]
+---
+time 1559118488
+new [description:"Oronako TFSrako sarbidea eskatu." entry:"1559118488" modified:"1559118488" priority:"M" project:"Ikerketa.SEGURONA" status:"pending" tags:"billable" uuid:"e56ae8e8-d8be-41b6-8775-4a5e2062a54f"]
+---
+time 1559118496
+old [description:"Oronako TFSrako sarbidea eskatu." entry:"1559118488" modified:"1559118488" priority:"M" project:"Ikerketa.SEGURONA" status:"pending" tags:"billable" uuid:"e56ae8e8-d8be-41b6-8775-4a5e2062a54f"]
+new [description:"Oronako TFSrako sarbidea eskatu." entry:"1559118488" modified:"1559118496" project:"Ikerketa.SEGURONA" status:"pending" tags:"billable" uuid:"e56ae8e8-d8be-41b6-8775-4a5e2062a54f"]
+---
+time 1559118509
+old [description:"Auditoria tresna externoak begiratu" entry:"1557122842" modified:"1557122842" project:"Ikerketa.SEGURONA" status:"pending" uuid:"873cc6cc-1f6d-491a-80cb-531ba37a0655"]
+new [description:"Auditoria tresna externoak begiratu" entry:"1557122842" modified:"1559118509" project:"Ikerketa.SEGURONA" status:"pending" tags:"billable" uuid:"873cc6cc-1f6d-491a-80cb-531ba37a0655"]
+---
+time 1559120848
+new [description:"IJIS Paper review" due:"1559858400" entry:"1559120848" modified:"1559120848" project:"Ikerketa.PeerREview" status:"pending" uuid:"edef20ba-4c60-4fbb-994e-adba1b0ffdfb"]
+---
+time 1559122265
+old [description:"IJIS Paper review" due:"1559858400" entry:"1559120848" modified:"1559120848" project:"Ikerketa.PeerREview" status:"pending" uuid:"edef20ba-4c60-4fbb-994e-adba1b0ffdfb"]
+new [description:"IJIS Paper review" due:"1559858400" entry:"1559120848" modified:"1559122265" project:"Ikerketa.PeerReview" status:"pending" uuid:"edef20ba-4c60-4fbb-994e-adba1b0ffdfb"]
+---
+time 1559143286
+new [description:"Vigilancia tecnologica" due:"1559599200" entry:"1559143286" modified:"1559143286" project:"Ikerketa.IBAT" status:"pending" tags:"billable" uuid:"244866bd-7d1c-495a-8935-4fbcbb35da0e"]
+---
+time 1559154841
+new [description:"Eskatu TFSra sarrera" due:"1559599200" entry:"1559154841" modified:"1559154841" project:"Ikerketa.SEGURONA" status:"pending" tags:"billable" uuid:"40fc70ea-01f4-442f-8536-45265e07f02f"]
+---
+time 1559154850
+new [description:"Eskatu zita deklaraziorako" entry:"1559154850" modified:"1559154850" status:"pending" uuid:"4537e8d0-86ff-43a4-a77f-99e2c280d8cc"]
+---
+time 1559219682
+old [description:"Eskatu zita deklaraziorako" entry:"1559154850" modified:"1559154850" status:"pending" uuid:"4537e8d0-86ff-43a4-a77f-99e2c280d8cc"]
+new [description:"Eskatu zita deklaraziorako" end:"1559219682" entry:"1559154850" modified:"1559219682" status:"completed" uuid:"4537e8d0-86ff-43a4-a77f-99e2c280d8cc"]
+---
+time 1559219719
+old [description:"Prestatu asignaturaren aurkezpena" entry:"1553528848" modified:"1553528860" project:"Irakaskuntza.MACC" status:"pending" tags:"billable" uuid:"ec37f31e-1d72-4af5-8056-2925a4e3dcd8"]
+new [description:"Prestatu asignaturaren aurkezpena" entry:"1553528848" modified:"1559219719" project:"Irakaskuntza.MACC" status:"pending" tags:"billable,sir" uuid:"ec37f31e-1d72-4af5-8056-2925a4e3dcd8"]
+---
+time 1559309814
+new [description:"Segurtasuneko defentsa prestatu" due:"1559685600" entry:"1559309814" modified:"1559309814" project:"Irakaskuntza.GIF" status:"pending" tags:"billable,segurtasuna" uuid:"c5649fb3-9be7-4e82-954a-17749f9787c3"]
+---
+time 1559576107
+new [description:"Zuzendu Industrial ariketak" due:"1559772000" entry:"1559576107" modified:"1559576107" project:"Muplus.MSEC" status:"pending" tags:"billable,icssec" uuid:"2a95be55-f566-41cb-a81e-8416df017482"]
+---
+time 1559650984
+old [description:"Segurtasuneko defentsa prestatu" due:"1559685600" entry:"1559309814" modified:"1559309814" project:"Irakaskuntza.GIF" status:"pending" tags:"billable,segurtasuna" uuid:"c5649fb3-9be7-4e82-954a-17749f9787c3"]
+new [description:"Segurtasuneko defentsa prestatu" due:"1559685600" end:"1559650984" entry:"1559309814" modified:"1559650984" project:"Irakaskuntza.GIF" status:"completed" tags:"billable,segurtasuna" uuid:"c5649fb3-9be7-4e82-954a-17749f9787c3"]
+---
+time 1559811358
+new [description:"Webgunean peer review berriak eta prentsa jarri" entry:"1559811358" modified:"1559811358" status:"pending" uuid:"b3d711d3-7422-4add-935f-846ea5b7d91d"]
+---
+time 1559828336
+old [description:"IJIS Paper review" due:"1559858400" entry:"1559120848" modified:"1559122265" project:"Ikerketa.PeerReview" status:"pending" uuid:"edef20ba-4c60-4fbb-994e-adba1b0ffdfb"]
+new [description:"IJIS Paper review" due:"1559858400" end:"1559828336" entry:"1559120848" modified:"1559828336" project:"Ikerketa.PeerReview" status:"completed" uuid:"edef20ba-4c60-4fbb-994e-adba1b0ffdfb"]
+---
+time 1559828347
+old [description:"Webgunean peer review berriak eta prentsa jarri" entry:"1559811358" modified:"1559811358" status:"pending" uuid:"b3d711d3-7422-4add-935f-846ea5b7d91d"]
+new [description:"Webgunean peer review berriak eta prentsa jarri" end:"1559828347" entry:"1559811358" modified:"1559828347" status:"completed" uuid:"b3d711d3-7422-4add-935f-846ea5b7d91d"]
+---
+time 1559828521
+new [description:"Orona Vigia" due:"1560031200" entry:"1559828521" modified:"1559828521" priority:"H" project:"Ikerketa.SEGURONA" status:"pending" tags:"billable" uuid:"d126ac33-6aa5-4ff1-b287-4e3951c20a34"]
+---
+time 1559828995
+old [description:"Zuzendu Industrial ariketak" due:"1559772000" entry:"1559576107" modified:"1559576107" project:"Muplus.MSEC" status:"pending" tags:"billable,icssec" uuid:"2a95be55-f566-41cb-a81e-8416df017482"]
+new [description:"Zuzendu Industrial ariketak" due:"1559772000" end:"1559828995" entry:"1559576107" modified:"1559828995" project:"Muplus.MSEC" status:"completed" tags:"billable,icssec" uuid:"2a95be55-f566-41cb-a81e-8416df017482"]
+---
+time 1559915723
+old [description:"Orona Vigia" due:"1560031200" entry:"1559828521" modified:"1559828521" priority:"H" project:"Ikerketa.SEGURONA" status:"pending" tags:"billable" uuid:"d126ac33-6aa5-4ff1-b287-4e3951c20a34"]
+new [description:"Orona Vigia" due:"1560031200" end:"1559915723" entry:"1559828521" modified:"1559915723" priority:"H" project:"Ikerketa.SEGURONA" status:"completed" tags:"billable" uuid:"d126ac33-6aa5-4ff1-b287-4e3951c20a34"]
+---
+time 1560238023
+new [description:"Eskaera egin routerrena masterrerako" due:"1560549600" entry:"1560238023" modified:"1560238023" project:"Irakaskuntza.MACC" status:"pending" tags:"sir" uuid:"a3506766-64a7-4d39-8645-0c7c4467113c"]
+---
+time 1560238057
+new [description:"Eskaera egin routerrena segurtasunearko" due:"1560549600" entry:"1560238057" modified:"1560238057" project:"Irakaskuntza.GIF" status:"pending" tags:"segurtasuna" uuid:"5f4c9fa1-7bc1-46b2-994a-a54355e22925"]
+---
+time 1560241175
+new [description:"TFG\/TFM gela erreserbak" due:"1561068000" entry:"1560241175" modified:"1560241175" status:"pending" uuid:"e91f0b47-aaed-4583-be59-a1c0942b1769"]
+---
+time 1560245411
+new [description:"Praktikak birmoldatu" entry:"1560245411" modified:"1560245411" project:"Irakaskuntza.GIF" status:"pending" tags:"segurtasuna,billable" uuid:"c0636bcd-5477-42c5-97b4-943df45049b7"]
+---
+time 1560245439
+old [description:"Praktikak birmoldatu" entry:"1560245411" modified:"1560245411" project:"Irakaskuntza.GIF" status:"pending" tags:"segurtasuna,billable" uuid:"c0636bcd-5477-42c5-97b4-943df45049b7"]
+new [annotation_1560245439:"peer review, fw-en praktika" description:"Praktikak birmoldatu" entry:"1560245411" modified:"1560245439" project:"Irakaskuntza.GIF" status:"pending" tags:"segurtasuna,billable" uuid:"c0636bcd-5477-42c5-97b4-943df45049b7"]
+---
+time 1560268313
+new [description:"Update D3.2 Security view" due:"1560808800" entry:"1560268313" modified:"1560268313" project:"Ikerketa.PROPHESY" status:"pending" tags:"billable" uuid:"7b7cc11a-93aa-4d43-8abc-35e4d76d9a7a"]
+---
+time 1560321655
+new [description:"Idatzi PBLkoei portatila beharko dutela IArako" entry:"1560321655" modified:"1560321655" status:"pending" uuid:"5c9c018f-f369-407f-9126-6b4ca6445555"]
+---
+time 1560527374
+new [description:"Inkesta egin korporaziorako" entry:"1560527374" modified:"1560527374" status:"pending" uuid:"dbee6176-b333-4b1c-b296-992e06ebacf9"]
+---
+time 1560778117
+old [description:"Eskaera egin routerrena masterrerako" due:"1560549600" entry:"1560238023" modified:"1560238023" project:"Irakaskuntza.MACC" status:"pending" tags:"sir" uuid:"a3506766-64a7-4d39-8645-0c7c4467113c"]
+new [description:"Eskaera egin routerrena masterrerako" due:"1560549600" end:"1560778117" entry:"1560238023" modified:"1560778117" project:"Irakaskuntza.MACC" status:"completed" tags:"sir" uuid:"a3506766-64a7-4d39-8645-0c7c4467113c"]
+---
+time 1560778127
+old [description:"Eskaera egin routerrena segurtasunearko" due:"1560549600" entry:"1560238057" modified:"1560238057" project:"Irakaskuntza.GIF" status:"pending" tags:"segurtasuna" uuid:"5f4c9fa1-7bc1-46b2-994a-a54355e22925"]
+new [description:"Eskaera egin routerrena segurtasunearko" due:"1560895200" entry:"1560238057" modified:"1560778127" project:"Irakaskuntza.GIF" status:"pending" tags:"segurtasuna" uuid:"5f4c9fa1-7bc1-46b2-994a-a54355e22925"]
+---
+time 1560863081
+new [description:"NullSpace eguneraketa D2.5 deliverablerako" due:"1563573600" entry:"1560863081" modified:"1560863081" project:"Ikerketa.PRODUCTIVE40" status:"pending" tags:"billable" uuid:"c918b7b2-67a4-4c5a-8356-dca0013e9f33"]
+---
+time 1560866070
+old [description:"Idatzi PBLkoei portatila beharko dutela IArako" entry:"1560321655" modified:"1560321655" status:"pending" uuid:"5c9c018f-f369-407f-9126-6b4ca6445555"]
+new [description:"Idatzi PBLkoei portatila beharko dutela IArako" end:"1560866070" entry:"1560321655" modified:"1560866070" status:"completed" uuid:"5c9c018f-f369-407f-9126-6b4ca6445555"]
+---
+time 1560959841
+old [description:"Update D3.2 Security view" due:"1560808800" entry:"1560268313" modified:"1560268313" project:"Ikerketa.PROPHESY" status:"pending" tags:"billable" uuid:"7b7cc11a-93aa-4d43-8abc-35e4d76d9a7a"]
+new [description:"Update D3.2 Security view" due:"1560808800" end:"1560959841" entry:"1560268313" modified:"1560959841" project:"Ikerketa.PROPHESY" status:"completed" tags:"billable" uuid:"7b7cc11a-93aa-4d43-8abc-35e4d76d9a7a"]
+---
+time 1560959876
+new [description:"Update D3.2" due:"1560981600" entry:"1560959876" modified:"1560959876" priority:"H" project:"Ikerketa.PROPHESY" status:"pending" uuid:"11e28434-ccca-4938-b9c2-603826bb039e"]
+---
+time 1560959886
+old [description:"Eskaera egin routerrena segurtasunearko" due:"1560895200" entry:"1560238057" modified:"1560778127" project:"Irakaskuntza.GIF" status:"pending" tags:"segurtasuna" uuid:"5f4c9fa1-7bc1-46b2-994a-a54355e22925"]
+new [description:"Eskaera egin routerrena segurtasunearko" due:"1560895200" entry:"1560238057" modified:"1560959886" priority:"H" project:"Irakaskuntza.GIF" status:"pending" tags:"segurtasuna" uuid:"5f4c9fa1-7bc1-46b2-994a-a54355e22925"]
+---
+time 1561624319
+old [description:"Update D3.2" due:"1560981600" entry:"1560959876" modified:"1560959876" priority:"H" project:"Ikerketa.PROPHESY" status:"pending" uuid:"11e28434-ccca-4938-b9c2-603826bb039e"]
+new [description:"Update D3.2" due:"1560981600" end:"1561624319" entry:"1560959876" modified:"1561624319" priority:"H" project:"Ikerketa.PROPHESY" status:"completed" uuid:"11e28434-ccca-4938-b9c2-603826bb039e"]
+---
+time 1562083668
+new [description:"Compartir encuesta MONDRAGON OPENINAC" entry:"1562083668" modified:"1562083668" status:"pending" uuid:"ce2bdf87-3a83-4799-af92-a80e588a01d3"]
+---
+time 1562951881
+old [description:"TFG\/TFM gela erreserbak" due:"1561068000" entry:"1560241175" modified:"1560241175" status:"pending" uuid:"e91f0b47-aaed-4583-be59-a1c0942b1769"]
+new [description:"TFG\/TFM gela erreserbak" due:"1561068000" end:"1562951881" entry:"1560241175" modified:"1562951881" status:"deleted" uuid:"e91f0b47-aaed-4583-be59-a1c0942b1769"]
+---
+time 1563738519
+new [description:"Miren Murgiondori bidali doktoretzako datuak" entry:"1563738519" modified:"1563738519" status:"pending" uuid:"1bbd2c8a-f3a2-4f24-9a7f-5e1eaeac6339"]
+---
+time 1567431730
+old [description:"NullSpace eguneraketa D2.5 deliverablerako" due:"1563573600" entry:"1560863081" modified:"1560863081" project:"Ikerketa.PRODUCTIVE40" status:"pending" tags:"billable" uuid:"c918b7b2-67a4-4c5a-8356-dca0013e9f33"]
+new [description:"NullSpace eguneraketa D2.5 deliverablerako" due:"1563573600" end:"1567431730" entry:"1560863081" modified:"1567431730" project:"Ikerketa.PRODUCTIVE40" status:"completed" tags:"billable" uuid:"c918b7b2-67a4-4c5a-8356-dca0013e9f33"]
+---
+time 1567431751
+old [description:"Eskatu TFSra sarrera" due:"1559599200" entry:"1559154841" modified:"1559154841" project:"Ikerketa.SEGURONA" status:"pending" tags:"billable" uuid:"40fc70ea-01f4-442f-8536-45265e07f02f"]
+new [description:"TFS instalatu eta probatu" due:"1569794400" entry:"1559154841" modified:"1567431751" project:"Ikerketa.SEGURONA" status:"pending" tags:"billable" uuid:"40fc70ea-01f4-442f-8536-45265e07f02f"]
+---
+time 1567431764
+old [description:"Inkesta egin korporaziorako" entry:"1560527374" modified:"1560527374" status:"pending" uuid:"dbee6176-b333-4b1c-b296-992e06ebacf9"]
+new [description:"Inkesta egin korporaziorako" end:"1567431764" entry:"1560527374" modified:"1567431764" status:"completed" uuid:"dbee6176-b333-4b1c-b296-992e06ebacf9"]
+---
+time 1567431770
+old [description:"Miren Murgiondori bidali doktoretzako datuak" entry:"1563738519" modified:"1563738519" status:"pending" uuid:"1bbd2c8a-f3a2-4f24-9a7f-5e1eaeac6339"]
+new [description:"Miren Murgiondori bidali doktoretzako datuak" end:"1567431770" entry:"1563738519" modified:"1567431770" status:"completed" uuid:"1bbd2c8a-f3a2-4f24-9a7f-5e1eaeac6339"]
+---
+time 1568807331
+old [description:"Eskaera egin routerrena segurtasunearko" due:"1560895200" entry:"1560238057" modified:"1560959886" priority:"H" project:"Irakaskuntza.GIF" status:"pending" tags:"segurtasuna" uuid:"5f4c9fa1-7bc1-46b2-994a-a54355e22925"]
+new [description:"Eskaera egin routerrena segurtasunearko" due:"1560895200" end:"1568807331" entry:"1560238057" modified:"1568807331" priority:"H" project:"Irakaskuntza.GIF" status:"completed" tags:"segurtasuna" uuid:"5f4c9fa1-7bc1-46b2-994a-a54355e22925"]
+---
+time 1568807334
+old [description:"Prestatu asignaturaren aurkezpena" entry:"1553528848" modified:"1559219719" project:"Irakaskuntza.MACC" status:"pending" tags:"billable,sir" uuid:"ec37f31e-1d72-4af5-8056-2925a4e3dcd8"]
+new [description:"Prestatu asignaturaren aurkezpena" end:"1568807333" entry:"1553528848" modified:"1568807334" project:"Irakaskuntza.MACC" status:"completed" tags:"billable,sir" uuid:"ec37f31e-1d72-4af5-8056-2925a4e3dcd8"]
+---
+time 1568807337
+old [description:"Auditoria tresna externoak begiratu" entry:"1557122842" modified:"1559118509" project:"Ikerketa.SEGURONA" status:"pending" tags:"billable" uuid:"873cc6cc-1f6d-491a-80cb-531ba37a0655"]
+new [description:"Auditoria tresna externoak begiratu" end:"1568807337" entry:"1557122842" modified:"1568807337" project:"Ikerketa.SEGURONA" status:"completed" tags:"billable" uuid:"873cc6cc-1f6d-491a-80cb-531ba37a0655"]
+---
+time 1568807338
+old [description:"Oronako TFSrako sarbidea eskatu." entry:"1559118488" modified:"1559118496" project:"Ikerketa.SEGURONA" status:"pending" tags:"billable" uuid:"e56ae8e8-d8be-41b6-8775-4a5e2062a54f"]
+new [description:"Oronako TFSrako sarbidea eskatu." end:"1568807338" entry:"1559118488" modified:"1568807338" project:"Ikerketa.SEGURONA" status:"completed" tags:"billable" uuid:"e56ae8e8-d8be-41b6-8775-4a5e2062a54f"]
+---
+time 1568807341
+old [description:"Compartir encuesta MONDRAGON OPENINAC" entry:"1562083668" modified:"1562083668" status:"pending" uuid:"ce2bdf87-3a83-4799-af92-a80e588a01d3"]
+new [description:"Compartir encuesta MONDRAGON OPENINAC" end:"1568807341" entry:"1562083668" modified:"1568807341" status:"completed" uuid:"ce2bdf87-3a83-4799-af92-a80e588a01d3"]
+---
+time 1568807374
+new [description:"AWSn alta eman" due:"1568930400" entry:"1568807374" modified:"1568807374" project:"Irakaskuntza.MACC" status:"pending" tags:"billable,sir" uuid:"06c7e605-ae87-438a-8296-20ab0be205e9"]
+---
+time 1568819295
+new [description:"Oronako fakturazioa uztail bukaerarako kalkulatu" due:"1568930400" entry:"1568819295" modified:"1568819295" project:"Ikerketa.SEGURONA" status:"pending" tags:"billable" uuid:"35e8a2e9-ea7f-438d-b26e-d1ff0771d8c2"]
+---
+time 1568841985
+new [description:"Kapazitazioari buelta bat eman" entry:"1568841985" modified:"1568841985" status:"pending" uuid:"2dfc7a03-d1c1-4cae-bf18-6f32b96df138"]
+---
+time 1568845699
+old [description:"Kapazitazioari buelta bat eman" entry:"1568841985" modified:"1568841985" status:"pending" uuid:"2dfc7a03-d1c1-4cae-bf18-6f32b96df138"]
+new [description:"Kapazitazioari buelta bat eman kongreso top?" entry:"1568841985" modified:"1568845699" status:"pending" uuid:"2dfc7a03-d1c1-4cae-bf18-6f32b96df138"]
+---
+time 1568850675
+new [description:"Mudle: praktika, hashen kontuak, python" entry:"1568850675" modified:"1568850675" status:"pending" uuid:"58113ce6-75dd-4653-9720-eb6f9fdee1ff"]
+---
+time 1568877788
+new [description:"Aurkezpena eta akta igo extranetera" entry:"1568877788" modified:"1568877788" project:"Ikerketa.SEGURONA" status:"pending" tags:"billable" uuid:"347b6858-2b78-418f-aaf6-004a8c946455"]
+---
+time 1568903372
+old [description:"Oronako fakturazioa uztail bukaerarako kalkulatu" due:"1568930400" entry:"1568819295" modified:"1568819295" project:"Ikerketa.SEGURONA" status:"pending" tags:"billable" uuid:"35e8a2e9-ea7f-438d-b26e-d1ff0771d8c2"]
+new [description:"Oronako fakturazioa uztail bukaerarako kalkulatu" due:"1568930400" end:"1568903372" entry:"1568819295" modified:"1568903372" project:"Ikerketa.SEGURONA" status:"completed" tags:"billable" uuid:"35e8a2e9-ea7f-438d-b26e-d1ff0771d8c2"]
+---
+time 1568903384
+old [description:"Mudle: praktika, hashen kontuak, python" entry:"1568850675" modified:"1568850675" status:"pending" uuid:"58113ce6-75dd-4653-9720-eb6f9fdee1ff"]
+new [description:"Mudle: praktika, hashen kontuak, python" end:"1568903384" entry:"1568850675" modified:"1568903384" status:"completed" uuid:"58113ce6-75dd-4653-9720-eb6f9fdee1ff"]
+---
+time 1568903387
+old [description:"Kapazitazioari buelta bat eman kongreso top?" entry:"1568841985" modified:"1568845699" status:"pending" uuid:"2dfc7a03-d1c1-4cae-bf18-6f32b96df138"]
+new [description:"Kapazitazioari buelta bat eman kongreso top?" end:"1568903387" entry:"1568841985" modified:"1568903387" status:"completed" uuid:"2dfc7a03-d1c1-4cae-bf18-6f32b96df138"]
+---
+time 1569228455
+new [description:"Akta bilera" due:"1569276000" entry:"1569228455" modified:"1569228455" project:"Ikerketa.SEGURONA" status:"pending" tags:"billable,kudeaketa" uuid:"a2f7f3f6-d93d-4efe-9585-a5f034b260bd"]
+---
+time 1569228525
+new [description:"OpenSSL lab" due:"1569448800" entry:"1569228525" modified:"1569228525" project:"Irakaskuntza.MACC" status:"pending" tags:"billable,sir" uuid:"c208de08-43d4-4009-bb56-e9fd555df8c7"]
+---
+time 1569329481
+new [description:"Prestatu ICS securityko inkestarekin aurkezpena" due:"1569535200" entry:"1569329481" modified:"1569329481" project:"Ikerketa.OPENINAC" status:"pending" tags:"billable,kudeaketa" uuid:"70c636dc-07b3-4df3-829e-6d034e634908"]
+---
+time 1569492303
+old [description:"Prestatu ICS securityko inkestarekin aurkezpena" due:"1569535200" entry:"1569329481" modified:"1569329481" project:"Ikerketa.OPENINAC" status:"pending" tags:"billable,kudeaketa" uuid:"70c636dc-07b3-4df3-829e-6d034e634908"]
+new [description:"Prestatu ICS securityko inkestarekin aurkezpena" due:"1569535200" end:"1569492303" entry:"1569329481" modified:"1569492303" project:"Ikerketa.OPENINAC" status:"completed" tags:"billable,kudeaketa" uuid:"70c636dc-07b3-4df3-829e-6d034e634908"]
+---
+time 1570095938
+old [description:"Akta bilera" due:"1569276000" entry:"1569228455" modified:"1569228455" project:"Ikerketa.SEGURONA" status:"pending" tags:"billable,kudeaketa" uuid:"a2f7f3f6-d93d-4efe-9585-a5f034b260bd"]
+new [description:"Akta bilera" due:"1569276000" end:"1570095938" entry:"1569228455" modified:"1570095938" project:"Ikerketa.SEGURONA" status:"completed" tags:"billable,kudeaketa" uuid:"a2f7f3f6-d93d-4efe-9585-a5f034b260bd"]
+---
+time 1571740036
+old [description:"OpenSSL lab" due:"1569448800" entry:"1569228525" modified:"1569228525" project:"Irakaskuntza.MACC" status:"pending" tags:"billable,sir" uuid:"c208de08-43d4-4009-bb56-e9fd555df8c7"]
+new [description:"OpenSSL lab" due:"1569448800" end:"1571740036" entry:"1569228525" modified:"1571740036" project:"Irakaskuntza.MACC" status:"completed" tags:"billable,sir" uuid:"c208de08-43d4-4009-bb56-e9fd555df8c7"]
+---
+time 1571740042
+old [description:"Aurkezpena eta akta igo extranetera" entry:"1568877788" modified:"1568877788" project:"Ikerketa.SEGURONA" status:"pending" tags:"billable" uuid:"347b6858-2b78-418f-aaf6-004a8c946455"]
+new [description:"Aurkezpena eta akta igo extranetera" end:"1571740042" entry:"1568877788" modified:"1571740042" project:"Ikerketa.SEGURONA" status:"completed" tags:"billable" uuid:"347b6858-2b78-418f-aaf6-004a8c946455"]
+---
+time 1571835509
+old [description:"AWSn alta eman" due:"1568930400" entry:"1568807374" modified:"1568807374" project:"Irakaskuntza.MACC" status:"pending" tags:"billable,sir" uuid:"06c7e605-ae87-438a-8296-20ab0be205e9"]
+new [description:"AWSn alta eman" due:"1568930400" end:"1571835509" entry:"1568807374" modified:"1571835509" project:"Irakaskuntza.MACC" status:"completed" tags:"billable,sir" uuid:"06c7e605-ae87-438a-8296-20ab0be205e9"]
+---
+time 1588252984
+new [description:"Errepasatu fingerprinting dokumentua" entry:"1588252984" modified:"1588252984" project:"Ikerketa.OPENINAC" status:"pending" uuid:"68150302-fe65-4c7a-b5d3-62a7f715d89f"]
+---
+time 1588252990
+old [description:"Retos entregableak egin" entry:"1553528889" modified:"1554986361" project:"Ikerketa.SEGURONA" status:"pending" tags:"billable" uuid:"59a53226-d5a7-45aa-a2b3-6c484f249c0f"]
+new [description:"Retos entregableak egin" end:"1588252990" entry:"1553528889" modified:"1588252990" project:"Ikerketa.SEGURONA" status:"completed" tags:"billable" uuid:"59a53226-d5a7-45aa-a2b3-6c484f249c0f"]
+---
+time 1588252996
+old [annotation_1560245439:"peer review, fw-en praktika" description:"Praktikak birmoldatu" entry:"1560245411" modified:"1560245439" project:"Irakaskuntza.GIF" status:"pending" tags:"segurtasuna,billable" uuid:"c0636bcd-5477-42c5-97b4-943df45049b7"]
+new [annotation_1560245439:"peer review, fw-en praktika" description:"Praktikak birmoldatu" end:"1588252996" entry:"1560245411" modified:"1588252996" project:"Irakaskuntza.GIF" status:"completed" tags:"segurtasuna,billable" uuid:"c0636bcd-5477-42c5-97b4-943df45049b7"]
+---
+time 1588253002
+old [description:"TFS instalatu eta probatu" due:"1569794400" entry:"1559154841" modified:"1567431751" project:"Ikerketa.SEGURONA" status:"pending" tags:"billable" uuid:"40fc70ea-01f4-442f-8536-45265e07f02f"]
+new [description:"TFS instalatu eta probatu" due:"1569794400" end:"1588253000" entry:"1559154841" modified:"1588253002" project:"Ikerketa.SEGURONA" status:"deleted" tags:"billable" uuid:"40fc70ea-01f4-442f-8536-45265e07f02f"]
+---
+time 1588253006
+old [description:"Vigilancia tecnologica" due:"1559599200" entry:"1559143286" modified:"1559143286" project:"Ikerketa.IBAT" status:"pending" tags:"billable" uuid:"244866bd-7d1c-495a-8935-4fbcbb35da0e"]
+new [description:"Vigilancia tecnologica" due:"1559599200" end:"1588253006" entry:"1559143286" modified:"1588253006" project:"Ikerketa.IBAT" status:"completed" tags:"billable" uuid:"244866bd-7d1c-495a-8935-4fbcbb35da0e"]
+---
+time 1588579034
+new [description:"Akaitz konbokatu" entry:"1588579034" modified:"1588579034" status:"pending" tags:"in" uuid:"7259635c-165d-409d-ac58-8b7673ff9313"]
+---
+time 1588579361
+new [description:"Dokumentuak batu" entry:"1588579361" modified:"1588579361" status:"pending" tags:"in" uuid:"0a58a810-e744-40f7-a90a-74f3821c7c07"]
+---
+time 1588579535
+old [description:"Akaitz konbokatu" entry:"1588579034" modified:"1588579034" status:"pending" tags:"in" uuid:"7259635c-165d-409d-ac58-8b7673ff9313"]
+new [description:"Akaitz konbokatu" entry:"1588579034" modified:"1588579535" project:"Ikerketa.OPENINAC" status:"pending" uuid:"7259635c-165d-409d-ac58-8b7673ff9313"]
+---
+time 1588579716
+new [description:"Akaitzen paperra irakurri" entry:"1588579716" modified:"1588579716" status:"pending" tags:"in" uuid:"1f64faa5-a404-4711-8b10-03db664006a5"]
+---
+time 1588579782
+old [description:"Akaitzen paperra irakurri" entry:"1588579716" modified:"1588579716" status:"pending" tags:"in" uuid:"1f64faa5-a404-4711-8b10-03db664006a5"]
+new [annotation_1588579782:"http:\/\/dl.ifip.org\/db\/conf\/im\/im2019-ws2-dissect\/191664.pdf" description:"Akaitzen paperra irakurri" entry:"1588579716" modified:"1588579782" status:"pending" tags:"in" uuid:"1f64faa5-a404-4711-8b10-03db664006a5"]
+---
+time 1588586640
+new [description:"Softsec galdetegia prestatu" entry:"1588586640" modified:"1588586640" status:"pending" tags:"in" uuid:"cf1ab7ac-f5dd-4f41-ada8-b234ccd8de41"]
+---
+time 1588595705
+new [description:"Osquery script eta konfigurazioa pasatu Akaitzi" entry:"1588595705" modified:"1588595705" status:"pending" tags:"in" uuid:"bf9c9d2e-b7de-4c2c-80af-1d1db06eb721"]
+---
+time 1588597371
+new [description:"Konbokatu TFM bilera" entry:"1588597371" modified:"1588597371" status:"pending" tags:"in" uuid:"63b4b19d-9c44-438e-9bac-98813ae5b026"]
+---
+time 1588627103
+old [description:"Dokumentuak batu" entry:"1588579361" modified:"1588579361" status:"pending" tags:"in" uuid:"0a58a810-e744-40f7-a90a-74f3821c7c07"]
+new [description:"+billable pro:Ikerketa.SEGURONA" entry:"1588579361" modified:"1588627103" status:"pending" tags:"in" uuid:"0a58a810-e744-40f7-a90a-74f3821c7c07"]
+---
+time 1588628698
+new [description:"Arbola genealogikoarekin jarraitu" entry:"1588628698" modified:"1588628698" status:"pending" tags:"in" uuid:"682bc594-18b4-443a-ac59-1c3a688aad68"]
+---
+time 1588628708
+new [description:"Corteinglesera deitu" entry:"1588628708" modified:"1588628708" status:"pending" tags:"in" uuid:"68823842-3ee5-4a07-bfc7-0abc95cbe4b2"]
+---
+time 1588664263
+new [description:"Okangoko zenbakiak" entry:"1588664263" modified:"1588664263" status:"pending" tags:"in" uuid:"239c59f4-8db8-4a50-bf47-0bc086481b02"]
+---
+time 1588684167
+new [description:"Imanoli ping egin ea zelan doan" entry:"1588684167" modified:"1588684167" status:"pending" tags:"in" uuid:"d19f4970-aa23-4e79-9044-f255733b4c49"]
+---
+time 1588685712
+old [description:"Akaitz konbokatu" entry:"1588579034" modified:"1588579535" project:"Ikerketa.OPENINAC" status:"pending" uuid:"7259635c-165d-409d-ac58-8b7673ff9313"]
+new [description:"Akaitz konbokatu" end:"1588685712" entry:"1588579034" modified:"1588685712" project:"Ikerketa.OPENINAC" status:"completed" uuid:"7259635c-165d-409d-ac58-8b7673ff9313"]
+---
+time 1588685748
+new [description:"Bidali dokumentua" entry:"1588685748" modified:"1588685748" status:"pending" tags:"in" uuid:"a1ef4881-b2ee-499c-83f3-c1ac2b9950f7"]
+---
+time 1588685881
+old [description:"Konbokatu TFM bilera" entry:"1588597371" modified:"1588597371" status:"pending" tags:"in" uuid:"63b4b19d-9c44-438e-9bac-98813ae5b026"]
+new [description:"Konbokatu TFM bilera" end:"1588685881" entry:"1588597371" modified:"1588685881" status:"completed" tags:"in" uuid:"63b4b19d-9c44-438e-9bac-98813ae5b026"]
+---
+time 1588685897
+old [description:"+billable pro:Ikerketa.SEGURONA" entry:"1588579361" modified:"1588627103" status:"pending" tags:"in" uuid:"0a58a810-e744-40f7-a90a-74f3821c7c07"]
+new [description:"Dokumentuak batu" entry:"1588579361" modified:"1588685897" status:"pending" tags:"in" uuid:"0a58a810-e744-40f7-a90a-74f3821c7c07"]
+---
+time 1588685907
+new [description:"billable" entry:"1588685907" modified:"1588685907" status:"pending" uuid:"913e5bf9-354c-4db8-8344-f908d2974f3a"]
+---
+time 1588685924
+old [description:"Dokumentuak batu" entry:"1588579361" modified:"1588685897" status:"pending" tags:"in" uuid:"0a58a810-e744-40f7-a90a-74f3821c7c07"]
+new [description:"Dokumentuak batu" entry:"1588579361" modified:"1588685924" project:"Ikerketa.SEGURONA" status:"pending" tags:"in" uuid:"0a58a810-e744-40f7-a90a-74f3821c7c07"]
+---
+time 1588703613
+new [description:"Idatzi OETrena ikasleei" due:"1588629600" entry:"1588703613" modified:"1588703613" status:"pending" uuid:"51fd6edb-ebbc-4b09-9b8a-4c276e5a1a53"]
+---
+time 1588706922
+old [description:"Idatzi OETrena ikasleei" due:"1588629600" entry:"1588703613" modified:"1588703613" status:"pending" uuid:"51fd6edb-ebbc-4b09-9b8a-4c276e5a1a53"]
+new [description:"Idatzi OETrena ikasleei" due:"1588629600" end:"1588706922" entry:"1588703613" modified:"1588706922" status:"completed" uuid:"51fd6edb-ebbc-4b09-9b8a-4c276e5a1a53"]
+---
+time 1588712940
+old [description:"Errepasatu fingerprinting dokumentua" entry:"1588252984" modified:"1588252984" project:"Ikerketa.OPENINAC" status:"pending" uuid:"68150302-fe65-4c7a-b5d3-62a7f715d89f"]
+new [description:"Errepasatu fingerprinting dokumentua" due:"1588716000" entry:"1588252984" modified:"1588712940" project:"Ikerketa.OPENINAC" status:"pending" uuid:"68150302-fe65-4c7a-b5d3-62a7f715d89f"]
+---
+time 1588713432
+old [annotation_1588579782:"http:\/\/dl.ifip.org\/db\/conf\/im\/im2019-ws2-dissect\/191664.pdf" description:"Akaitzen paperra irakurri" entry:"1588579716" modified:"1588579782" status:"pending" tags:"in" uuid:"1f64faa5-a404-4711-8b10-03db664006a5"]
+new [annotation_1588579782:"http:\/\/dl.ifip.org\/db\/conf\/im\/im2019-ws2-dissect\/191664.pdf" description:"Akaitzen paperra irakurri" entry:"1588579716" modified:"1588713432" project:"Ikerketa.OPENINAC" status:"pending" tags:"in" uuid:"1f64faa5-a404-4711-8b10-03db664006a5"]
+---
+time 1588713443
+old [annotation_1588579782:"http:\/\/dl.ifip.org\/db\/conf\/im\/im2019-ws2-dissect\/191664.pdf" description:"Akaitzen paperra irakurri" entry:"1588579716" modified:"1588713432" project:"Ikerketa.OPENINAC" status:"pending" tags:"in" uuid:"1f64faa5-a404-4711-8b10-03db664006a5"]
+new [annotation_1588579782:"http:\/\/dl.ifip.org\/db\/conf\/im\/im2019-ws2-dissect\/191664.pdf" description:"Akaitzen paperra irakurri" entry:"1588579716" modified:"1588713443" project:"Ikerketa.OPENINAC" status:"pending" tags:"in,billable" uuid:"1f64faa5-a404-4711-8b10-03db664006a5"]
+---
+time 1588713447
+old [annotation_1588579782:"http:\/\/dl.ifip.org\/db\/conf\/im\/im2019-ws2-dissect\/191664.pdf" description:"Akaitzen paperra irakurri" entry:"1588579716" modified:"1588713443" project:"Ikerketa.OPENINAC" status:"pending" tags:"in,billable" uuid:"1f64faa5-a404-4711-8b10-03db664006a5"]
+new [annotation_1588579782:"http:\/\/dl.ifip.org\/db\/conf\/im\/im2019-ws2-dissect\/191664.pdf" description:"Akaitzen paperra irakurri" entry:"1588579716" modified:"1588713447" project:"Ikerketa.OPENINAC" status:"pending" tags:"billable" uuid:"1f64faa5-a404-4711-8b10-03db664006a5"]
+---
+time 1588713481
+old [description:"Softsec galdetegia prestatu" entry:"1588586640" modified:"1588586640" status:"pending" tags:"in" uuid:"cf1ab7ac-f5dd-4f41-ada8-b234ccd8de41"]
+new [description:"Softsec galdetegia prestatu" entry:"1588586640" modified:"1588713481" project:"Irakaskuntza.MACC" status:"pending" tags:"in" uuid:"cf1ab7ac-f5dd-4f41-ada8-b234ccd8de41"]
+---
+time 1588713491
+old [description:"Softsec galdetegia prestatu" entry:"1588586640" modified:"1588713481" project:"Irakaskuntza.MACC" status:"pending" tags:"in" uuid:"cf1ab7ac-f5dd-4f41-ada8-b234ccd8de41"]
+new [description:"Softsec galdetegia prestatu" entry:"1588586640" modified:"1588713491" project:"Irakaskuntza.MACC" status:"pending" tags:"softsec,in,klaseak-prestatu" uuid:"cf1ab7ac-f5dd-4f41-ada8-b234ccd8de41"]
+---
+time 1588713497
+old [description:"Softsec galdetegia prestatu" entry:"1588586640" modified:"1588713491" project:"Irakaskuntza.MACC" status:"pending" tags:"softsec,in,klaseak-prestatu" uuid:"cf1ab7ac-f5dd-4f41-ada8-b234ccd8de41"]
+new [description:"Softsec galdetegia prestatu" entry:"1588586640" modified:"1588713497" project:"Irakaskuntza.MACC" status:"pending" tags:"softsec,klaseak-prestatu" uuid:"cf1ab7ac-f5dd-4f41-ada8-b234ccd8de41"]
+---
+time 1588713505
+old [description:"Osquery script eta konfigurazioa pasatu Akaitzi" entry:"1588595705" modified:"1588595705" status:"pending" tags:"in" uuid:"bf9c9d2e-b7de-4c2c-80af-1d1db06eb721"]
+new [description:"Osquery script eta konfigurazioa pasatu Akaitzi" entry:"1588595705" modified:"1588713505" status:"pending" tags:"in,billable" uuid:"bf9c9d2e-b7de-4c2c-80af-1d1db06eb721"]
+---
+time 1588713511
+old [description:"Osquery script eta konfigurazioa pasatu Akaitzi" entry:"1588595705" modified:"1588713505" status:"pending" tags:"in,billable" uuid:"bf9c9d2e-b7de-4c2c-80af-1d1db06eb721"]
+new [description:"Osquery script eta konfigurazioa pasatu Akaitzi" entry:"1588595705" modified:"1588713511" status:"pending" tags:"billable" uuid:"bf9c9d2e-b7de-4c2c-80af-1d1db06eb721"]
+---
+time 1588713518
+old [description:"Osquery script eta konfigurazioa pasatu Akaitzi" entry:"1588595705" modified:"1588713511" status:"pending" tags:"billable" uuid:"bf9c9d2e-b7de-4c2c-80af-1d1db06eb721"]
+new [description:"Osquery script eta konfigurazioa pasatu Akaitzi" entry:"1588595705" modified:"1588713518" project:"Ikerketa.PROPHESY" status:"pending" tags:"billable" uuid:"bf9c9d2e-b7de-4c2c-80af-1d1db06eb721"]
+---
+time 1588713527
+old [description:"Imanoli ping egin ea zelan doan" entry:"1588684167" modified:"1588684167" status:"pending" tags:"in" uuid:"d19f4970-aa23-4e79-9044-f255733b4c49"]
+new [description:"Imanoli ping egin ea zelan doan" entry:"1588684167" modified:"1588713527" project:"Ikerketa.SEGURONA" status:"pending" tags:"in" uuid:"d19f4970-aa23-4e79-9044-f255733b4c49"]
+---
+time 1588713539
+old [description:"billable" entry:"1588685907" modified:"1588685907" status:"pending" uuid:"913e5bf9-354c-4db8-8344-f908d2974f3a"]
+new [description:"billable" end:"1588713539" entry:"1588685907" modified:"1588713539" status:"deleted" uuid:"913e5bf9-354c-4db8-8344-f908d2974f3a"]
+---
+time 1588713542
+old [description:"Bidali dokumentua" entry:"1588685748" modified:"1588685748" status:"pending" tags:"in" uuid:"a1ef4881-b2ee-499c-83f3-c1ac2b9950f7"]
+new [description:"Bidali dokumentua" end:"1588713542" entry:"1588685748" modified:"1588713542" status:"deleted" tags:"in" uuid:"a1ef4881-b2ee-499c-83f3-c1ac2b9950f7"]
+---
+time 1588713660
+old [description:"Arbola genealogikoarekin jarraitu" entry:"1588628698" modified:"1588628698" status:"pending" tags:"in" uuid:"682bc594-18b4-443a-ac59-1c3a688aad68"]
+new [description:"Arbola genealogikoarekin jarraitu" entry:"1588628698" modified:"1588713660" status:"pending" tags:"pertsonala" uuid:"682bc594-18b4-443a-ac59-1c3a688aad68"]
+---
+time 1588713667
+old [description:"Corteinglesera deitu" entry:"1588628708" modified:"1588628708" status:"pending" tags:"in" uuid:"68823842-3ee5-4a07-bfc7-0abc95cbe4b2"]
+new [description:"Corteinglesera deitu" entry:"1588628708" modified:"1588713667" status:"pending" tags:"pertsonala" uuid:"68823842-3ee5-4a07-bfc7-0abc95cbe4b2"]
+---
+time 1588713670
+old [description:"Okangoko zenbakiak" entry:"1588664263" modified:"1588664263" status:"pending" tags:"in" uuid:"239c59f4-8db8-4a50-bf47-0bc086481b02"]
+new [description:"Okangoko zenbakiak" entry:"1588664263" modified:"1588713670" status:"pending" tags:"pertsonala" uuid:"239c59f4-8db8-4a50-bf47-0bc086481b02"]
+---
+time 1588713715
+old [description:"Dokumentuak batu" entry:"1588579361" modified:"1588685924" project:"Ikerketa.SEGURONA" status:"pending" tags:"in" uuid:"0a58a810-e744-40f7-a90a-74f3821c7c07"]
+new [description:"Dokumentuak batu" entry:"1588579361" modified:"1588713715" project:"Ikerketa.SEGURONA" status:"pending" tags:"billable" uuid:"0a58a810-e744-40f7-a90a-74f3821c7c07"]
+---
+time 1588713727
+old [description:"Imanoli ping egin ea zelan doan" entry:"1588684167" modified:"1588713527" project:"Ikerketa.SEGURONA" status:"pending" tags:"in" uuid:"d19f4970-aa23-4e79-9044-f255733b4c49"]
+new [description:"Imanoli ping egin ea zelan doan" entry:"1588684167" modified:"1588713727" project:"Ikerketa.SEGURONA" status:"pending" tags:"billable" uuid:"d19f4970-aa23-4e79-9044-f255733b4c49"]
+---
+time 1588775003
+new [description:"Anderrek eginiko ikasgai osagarriena gainbegiratu eta igo" entry:"1588775003" modified:"1588775003" status:"pending" tags:"in" uuid:"fef8dc48-7a69-419a-ae31-7863e2d1b889"]
+---
+time 1588780987
+new [description:"LIP gradukoa zehaztu" entry:"1588780987" modified:"1588780987" status:"pending" tags:"in" uuid:"2d5ceff8-dc10-4b36-8677-3ed8afcba9cb"]
+---
+time 1588804522
+old [description:"Errepasatu fingerprinting dokumentua" due:"1588716000" entry:"1588252984" modified:"1588712940" project:"Ikerketa.OPENINAC" status:"pending" uuid:"68150302-fe65-4c7a-b5d3-62a7f715d89f"]
+new [description:"Errepasatu fingerprinting dokumentua" due:"1588716000" end:"1588804522" entry:"1588252984" modified:"1588804522" project:"Ikerketa.OPENINAC" status:"completed" uuid:"68150302-fe65-4c7a-b5d3-62a7f715d89f"]
+---
+time 1588861983
+old [annotation_1588579782:"http:\/\/dl.ifip.org\/db\/conf\/im\/im2019-ws2-dissect\/191664.pdf" description:"Akaitzen paperra irakurri" entry:"1588579716" modified:"1588713447" project:"Ikerketa.OPENINAC" status:"pending" tags:"billable" uuid:"1f64faa5-a404-4711-8b10-03db664006a5"]
+new [annotation_1588579782:"http:\/\/dl.ifip.org\/db\/conf\/im\/im2019-ws2-dissect\/191664.pdf" description:"Akaitzen paperra irakurri" end:"1588861983" entry:"1588579716" modified:"1588861983" project:"Ikerketa.OPENINAC" status:"completed" tags:"billable" uuid:"1f64faa5-a404-4711-8b10-03db664006a5"]
+---
+time 1588862123
+old [description:"Osquery script eta konfigurazioa pasatu Akaitzi" entry:"1588595705" modified:"1588713518" project:"Ikerketa.PROPHESY" status:"pending" tags:"billable" uuid:"bf9c9d2e-b7de-4c2c-80af-1d1db06eb721"]
+new [description:"Osquery script eta konfigurazioa pasatu Akaitzi" end:"1588862123" entry:"1588595705" modified:"1588862123" project:"Ikerketa.PROPHESY" status:"completed" tags:"billable" uuid:"bf9c9d2e-b7de-4c2c-80af-1d1db06eb721"]
+---
+time 1588863643
+old [description:"Anderrek eginiko ikasgai osagarriena gainbegiratu eta igo" entry:"1588775003" modified:"1588775003" status:"pending" tags:"in" uuid:"fef8dc48-7a69-419a-ae31-7863e2d1b889"]
+new [description:"Anderrek eginiko ikasgai osagarriena gainbegiratu eta igo" entry:"1588775003" modified:"1588863643" project:"Irakaskuntza.MACC" status:"pending" tags:"billable" uuid:"fef8dc48-7a69-419a-ae31-7863e2d1b889"]
+---
+time 1588863730
+new [description:"Maialenen SoTA errebisatu" entry:"1588863730" modified:"1588863730" status:"pending" tags:"in" uuid:"38f6e7b5-58f7-4f40-9ce2-3e4059efae49"]
+---
+time 1588943928
+new [description:"Erik Perezi feedbacka eman" entry:"1588943928" modified:"1588943928" status:"pending" tags:"in" uuid:"45462187-fe04-431a-a256-0002eac731c3"]
+---
+time 1588959295
+new [description:"Graduko LIPen hitzorduak lotu" entry:"1588959295" modified:"1588959295" status:"pending" tags:"in" uuid:"42d8fc47-16f7-49df-ac0b-b50d806c7767"]
+---
+time 1588960854
+old [description:"LIP gradukoa zehaztu" entry:"1588780987" modified:"1588780987" status:"pending" tags:"in" uuid:"2d5ceff8-dc10-4b36-8677-3ed8afcba9cb"]
+new [description:"LIP gradukoa zehaztu" end:"1588960852" entry:"1588780987" modified:"1588960854" status:"deleted" tags:"in" uuid:"2d5ceff8-dc10-4b36-8677-3ed8afcba9cb"]
+---
+time 1589140524
+old [description:"Softsec galdetegia prestatu" entry:"1588586640" modified:"1588713497" project:"Irakaskuntza.MACC" status:"pending" tags:"softsec,klaseak-prestatu" uuid:"cf1ab7ac-f5dd-4f41-ada8-b234ccd8de41"]
+new [description:"Softsec galdetegia prestatu" end:"1589140524" entry:"1588586640" modified:"1589140524" project:"Irakaskuntza.MACC" status:"completed" tags:"softsec,klaseak-prestatu" uuid:"cf1ab7ac-f5dd-4f41-ada8-b234ccd8de41"]
+---
+time 1589207452
+new [description:"MSPC OSquery konpondu eta Akaitzi bidali" entry:"1589207452" modified:"1589207452" status:"pending" tags:"in" uuid:"9fd1703a-fd3b-4d94-a5f2-73ce52e430ac"]
+---
+time 1589216203
+old [description:"Erik Perezi feedbacka eman" entry:"1588943928" modified:"1588943928" status:"pending" tags:"in" uuid:"45462187-fe04-431a-a256-0002eac731c3"]
+new [description:"Erik Perezi feedbacka eman" end:"1589216203" entry:"1588943928" modified:"1589216203" status:"completed" tags:"in" uuid:"45462187-fe04-431a-a256-0002eac731c3"]
+---
+time 1589216203
+old [description:"Graduko LIPen hitzorduak lotu" entry:"1588959295" modified:"1588959295" status:"pending" tags:"in" uuid:"42d8fc47-16f7-49df-ac0b-b50d806c7767"]
+new [description:"Graduko LIPen hitzorduak lotu" end:"1589216203" entry:"1588959295" modified:"1589216203" status:"completed" tags:"in" uuid:"42d8fc47-16f7-49df-ac0b-b50d806c7767"]
+---
+time 1589316996
+new [description:"CRITIS2020 papers" entry:"1589316996" modified:"1589316996" status:"pending" tags:"in" uuid:"ec42d621-fb31-477f-8ea1-f3f222bca6b1"]
+---
+time 1589317016
+old [description:"CRITIS2020 papers" entry:"1589316996" modified:"1589316996" status:"pending" tags:"in" uuid:"ec42d621-fb31-477f-8ea1-f3f222bca6b1"]
+new [description:"june" due:"1589493600" entry:"1589316996" modified:"1589317016" status:"pending" tags:"in" uuid:"ec42d621-fb31-477f-8ea1-f3f222bca6b1"]
+---
+time 1589317039
+old [description:"june" due:"1589493600" entry:"1589316996" modified:"1589317016" status:"pending" tags:"in" uuid:"ec42d621-fb31-477f-8ea1-f3f222bca6b1"]
+new [description:"CRITIS2020 papers" due:"1589493600" entry:"1589316996" modified:"1589317039" status:"pending" tags:"in" uuid:"ec42d621-fb31-477f-8ea1-f3f222bca6b1"]
+---
+time 1589317084
+old [description:"CRITIS2020 papers" due:"1589493600" entry:"1589316996" modified:"1589317039" status:"pending" tags:"in" uuid:"ec42d621-fb31-477f-8ea1-f3f222bca6b1"]
+new [description:"CRITIS2020 papers" due:"1592172000" entry:"1589316996" modified:"1589317084" status:"pending" tags:"in" uuid:"ec42d621-fb31-477f-8ea1-f3f222bca6b1"]
+---
+time 1589317094
+old [description:"CRITIS2020 papers" due:"1592172000" entry:"1589316996" modified:"1589317084" status:"pending" tags:"in" uuid:"ec42d621-fb31-477f-8ea1-f3f222bca6b1"]
+new [description:"CRITIS2020 papers" due:"1592172000" entry:"1589316996" modified:"1589317094" project:"Ikerketa.PeerReview" status:"pending" tags:"in" uuid:"ec42d621-fb31-477f-8ea1-f3f222bca6b1"]
+---
+time 1589317127
+old [description:"Anderrek eginiko ikasgai osagarriena gainbegiratu eta igo" entry:"1588775003" modified:"1588863643" project:"Irakaskuntza.MACC" status:"pending" tags:"billable" uuid:"fef8dc48-7a69-419a-ae31-7863e2d1b889"]
+new [description:"Anderrek eginiko ikasgai osagarriena gainbegiratu eta igo" due:"1590789600" entry:"1588775003" modified:"1589317127" project:"Irakaskuntza.MACC" status:"pending" tags:"billable" uuid:"fef8dc48-7a69-419a-ae31-7863e2d1b889"]
+---
+time 1589909462
+new [description:"Osquery begiratu eskolako zerbitzarian" entry:"1589909462" modified:"1589909462" status:"pending" tags:"in" uuid:"aa3d42b3-b6a2-4269-aa61-b103e8afdc56"]
+---
+time 1589909747
+old [description:"Maialenen SoTA errebisatu" entry:"1588863730" modified:"1588863730" status:"pending" tags:"in" uuid:"38f6e7b5-58f7-4f40-9ce2-3e4059efae49"]
+new [description:"Maialenen SoTA errebisatu" end:"1589909747" entry:"1588863730" modified:"1589909747" status:"completed" tags:"in" uuid:"38f6e7b5-58f7-4f40-9ce2-3e4059efae49"]
+---
+time 1589983227
+new [description:"kapazitazioa" entry:"1589983227" modified:"1589983227" status:"pending" tags:"in" uuid:"8df2c10c-eb5f-4bd5-8c72-1a59a2587790"]
+---
+time 1590090662
+new [description:"Integratu prophesy" entry:"1590090662" modified:"1590090662" status:"pending" tags:"in" uuid:"5345b06d-adde-4ae2-b675-285683dcaf41"]
+---
+time 1590090691
+new [description:"CP-ABE kodea igo" entry:"1590090691" modified:"1590090691" status:"pending" tags:"in" uuid:"e5159a40-99cc-4ecf-8673-8d19606a7128"]
+---
+time 1590095569
+old [description:"Imanoli ping egin ea zelan doan" entry:"1588684167" modified:"1588713727" project:"Ikerketa.SEGURONA" status:"pending" tags:"billable" uuid:"d19f4970-aa23-4e79-9044-f255733b4c49"]
+new [description:"Imanoli ping egin ea zelan doan" end:"1590095569" entry:"1588684167" modified:"1590095569" project:"Ikerketa.SEGURONA" status:"completed" tags:"billable" uuid:"d19f4970-aa23-4e79-9044-f255733b4c49"]
+---
+time 1590095586
+old [description:"MSPC OSquery konpondu eta Akaitzi bidali" entry:"1589207452" modified:"1589207452" status:"pending" tags:"in" uuid:"9fd1703a-fd3b-4d94-a5f2-73ce52e430ac"]
+new [description:"MSPC OSquery konpondu eta Akaitzi bidali" end:"1590095586" entry:"1589207452" modified:"1590095586" status:"completed" tags:"in" uuid:"9fd1703a-fd3b-4d94-a5f2-73ce52e430ac"]
+---
+time 1590095587
+old [description:"Osquery begiratu eskolako zerbitzarian" entry:"1589909462" modified:"1589909462" status:"pending" tags:"in" uuid:"aa3d42b3-b6a2-4269-aa61-b103e8afdc56"]
+new [description:"Osquery begiratu eskolako zerbitzarian" end:"1590095587" entry:"1589909462" modified:"1590095587" status:"completed" tags:"in" uuid:"aa3d42b3-b6a2-4269-aa61-b103e8afdc56"]
+---
+time 1590095590
+old [description:"kapazitazioa" entry:"1589983227" modified:"1589983227" status:"pending" tags:"in" uuid:"8df2c10c-eb5f-4bd5-8c72-1a59a2587790"]
+new [description:"kapazitazioa" end:"1590095590" entry:"1589983227" modified:"1590095590" status:"completed" tags:"in" uuid:"8df2c10c-eb5f-4bd5-8c72-1a59a2587790"]
+---
+time 1590095619
+old [description:"Integratu prophesy" entry:"1590090662" modified:"1590090662" status:"pending" tags:"in" uuid:"5345b06d-adde-4ae2-b675-285683dcaf41"]
+new [description:"Integratu ADSa" entry:"1590090662" modified:"1590095619" project:"Ikerketa.PROPHESY" status:"pending" tags:"billable" uuid:"5345b06d-adde-4ae2-b675-285683dcaf41"]
+---
+time 1590095646
+old [description:"CP-ABE kodea igo" entry:"1590090691" modified:"1590090691" status:"pending" tags:"in" uuid:"e5159a40-99cc-4ecf-8673-8d19606a7128"]
+new [description:"CP-ABE kodea igo" entry:"1590090691" modified:"1590095646" project:"Ikerketa.PROPHESY" status:"pending" tags:"billable" uuid:"e5159a40-99cc-4ecf-8673-8d19606a7128"]
+---
+time 1590095789
+new [description:"Markel LIP ebaluatu" entry:"1590095789" modified:"1590095789" status:"pending" tags:"in" uuid:"76ba5790-8387-49e8-983a-e0280c8de607"]
+---
+time 1590531929
+new [description:"MACC PG berria esan" entry:"1590531929" modified:"1590531929" status:"pending" tags:"in" uuid:"1a0138ea-1705-43db-a1e5-1c3c2ef807d3"]
+---
+time 1591037336
+old [description:"Markel LIP ebaluatu" entry:"1590095789" modified:"1590095789" status:"pending" tags:"in" uuid:"76ba5790-8387-49e8-983a-e0280c8de607"]
+new [description:"Markel LIP ebaluatu" end:"1591037336" entry:"1590095789" modified:"1591037336" status:"completed" tags:"in" uuid:"76ba5790-8387-49e8-983a-e0280c8de607"]
+---
+time 1591037336
+old [description:"MACC PG berria esan" entry:"1590531929" modified:"1590531929" status:"pending" tags:"in" uuid:"1a0138ea-1705-43db-a1e5-1c3c2ef807d3"]
+new [description:"MACC PG berria esan" end:"1591037336" entry:"1590531929" modified:"1591037336" status:"completed" tags:"in" uuid:"1a0138ea-1705-43db-a1e5-1c3c2ef807d3"]
+---
+time 1592750933
+old [description:"CRITIS2020 papers" due:"1592172000" entry:"1589316996" modified:"1589317094" project:"Ikerketa.PeerReview" status:"pending" tags:"in" uuid:"ec42d621-fb31-477f-8ea1-f3f222bca6b1"]
+new [description:"CRITIS2020 papers" due:"1592172000" end:"1592750933" entry:"1589316996" modified:"1592750933" project:"Ikerketa.PeerReview" status:"completed" tags:"in" uuid:"ec42d621-fb31-477f-8ea1-f3f222bca6b1"]
+---
+time 1592846248
+new [description:"Push code to PROPHESY Gitlab" entry:"1592846248" modified:"1592846248" status:"pending" uuid:"99a1cbb9-fce4-406d-8e41-81ad37a229da"]
+---
+time 1593078580
+new [description:"Tapiador konbokatu tribunalera" entry:"1593078580" modified:"1593078580" status:"pending" uuid:"232cf864-fee4-4d09-81da-b52ead9cd899"]
+---
+time 1593209637
+new [description:"Push code to PROPHESY repo" entry:"1593209637" modified:"1593209637" status:"pending" uuid:"89a60e39-5e12-455b-9710-286de38aea98"]
+---
+time 1594909313
+old [description:"Dokumentuak batu" entry:"1588579361" modified:"1588713715" project:"Ikerketa.SEGURONA" status:"pending" tags:"billable" uuid:"0a58a810-e744-40f7-a90a-74f3821c7c07"]
+new [description:"Dokumentuak batu" end:"1594909307" entry:"1588579361" modified:"1594909313" project:"Ikerketa.SEGURONA" status:"completed" tags:"billable" uuid:"0a58a810-e744-40f7-a90a-74f3821c7c07"]
+---
+time 1594909314
+old [description:"Corteinglesera deitu" entry:"1588628708" modified:"1588713667" status:"pending" tags:"pertsonala" uuid:"68823842-3ee5-4a07-bfc7-0abc95cbe4b2"]
+new [description:"Corteinglesera deitu" end:"1594909313" entry:"1588628708" modified:"1594909314" status:"completed" tags:"pertsonala" uuid:"68823842-3ee5-4a07-bfc7-0abc95cbe4b2"]
+---
+time 1594909314
+old [description:"Integratu ADSa" entry:"1590090662" modified:"1590095619" project:"Ikerketa.PROPHESY" status:"pending" tags:"billable" uuid:"5345b06d-adde-4ae2-b675-285683dcaf41"]
+new [description:"Integratu ADSa" end:"1594909314" entry:"1590090662" modified:"1594909314" project:"Ikerketa.PROPHESY" status:"completed" tags:"billable" uuid:"5345b06d-adde-4ae2-b675-285683dcaf41"]
+---
+time 1594909316
+old [description:"Tapiador konbokatu tribunalera" entry:"1593078580" modified:"1593078580" status:"pending" uuid:"232cf864-fee4-4d09-81da-b52ead9cd899"]
+new [description:"Tapiador konbokatu tribunalera" end:"1594909314" entry:"1593078580" modified:"1594909316" status:"completed" uuid:"232cf864-fee4-4d09-81da-b52ead9cd899"]
+---
+time 1595365265
+new [description:"Oronako testak egin HVSaren gainean" entry:"1595365265" modified:"1595365265" status:"pending" uuid:"72870656-2900-43d0-bd2f-40cbb9d8ec5d"]
+---
+time 1595365277
+new [description:"Keepass-era pasa Ikerlaneko VPNko datuak" entry:"1595365277" modified:"1595365277" status:"pending" uuid:"b0dbb5c2-3610-4f0c-94b4-05c2d79fb870"]
+---
+time 1595950727
+new [description:"Lantaldeko bilerarako prestatu urteroko dokumentuak berrerabilgarriak direnak" entry:"1595950727" modified:"1595950727" status:"pending" uuid:"52087f03-f799-4e3d-99cc-9ac649448819"]
+---
+time 1595950745
+old [description:"Lantaldeko bilerarako prestatu urteroko dokumentuak berrerabilgarriak direnak" entry:"1595950727" modified:"1595950727" status:"pending" uuid:"52087f03-f799-4e3d-99cc-9ac649448819"]
+new [description:"Lantaldeko bilerarako prestatu urteroko dokumentuak berrerabilgarriak direnak" entry:"1595950727" modified:"1595950745" project:"Irakaskuntza.MACC" status:"pending" uuid:"52087f03-f799-4e3d-99cc-9ac649448819"]
+---
+time 1595950758
+old [description:"Lantaldeko bilerarako prestatu urteroko dokumentuak berrerabilgarriak direnak" entry:"1595950727" modified:"1595950745" project:"Irakaskuntza.MACC" status:"pending" uuid:"52087f03-f799-4e3d-99cc-9ac649448819"]
+new [description:"Lantaldeko bilerarako prestatu urteroko dokumentuak berrerabilgarriak direnak" entry:"1595950727" modified:"1595950758" project:"Irakaskuntza.MACC" status:"pending" tags:"billable" uuid:"52087f03-f799-4e3d-99cc-9ac649448819"]
+---
+time 1595950769
+new [description:"Orona password policy" entry:"1595950769" modified:"1595950769" status:"pending" uuid:"24b652b6-b86d-4fe3-af1d-57d58844a6e7"]
+---
+time 1595950791
+old [description:"Orona password policy" entry:"1595950769" modified:"1595950769" status:"pending" uuid:"24b652b6-b86d-4fe3-af1d-57d58844a6e7"]
+new [description:"Orona password policy" entry:"1595950769" modified:"1595950791" project:"Ikerketa.SEGURONA" status:"pending" uuid:"24b652b6-b86d-4fe3-af1d-57d58844a6e7"]
+---
+time 1595950794
+old [description:"Orona password policy" entry:"1595950769" modified:"1595950791" project:"Ikerketa.SEGURONA" status:"pending" uuid:"24b652b6-b86d-4fe3-af1d-57d58844a6e7"]
+new [description:"Orona password policy" entry:"1595950769" modified:"1595950794" project:"Ikerketa.SEGURONA" status:"pending" tags:"billable" uuid:"24b652b6-b86d-4fe3-af1d-57d58844a6e7"]
+---
+time 1595950813
+new [description:"Oinarrizko testak HVS gainean" entry:"1595950813" modified:"1595950813" status:"pending" uuid:"7d91c6d8-8a6b-432b-a629-cc4ea6362abe"]
+---
+time 1595950823
+old [description:"Oinarrizko testak HVS gainean" entry:"1595950813" modified:"1595950813" status:"pending" uuid:"7d91c6d8-8a6b-432b-a629-cc4ea6362abe"]
+new [description:"Oinarrizko testak HVS gainean" entry:"1595950813" modified:"1595950823" project:"Ikerketa.SEGURONA" status:"pending" uuid:"7d91c6d8-8a6b-432b-a629-cc4ea6362abe"]
+---
+time 1595950826
+old [description:"Oinarrizko testak HVS gainean" entry:"1595950813" modified:"1595950823" project:"Ikerketa.SEGURONA" status:"pending" uuid:"7d91c6d8-8a6b-432b-a629-cc4ea6362abe"]
+new [description:"Oinarrizko testak HVS gainean" entry:"1595950813" modified:"1595950826" project:"Ikerketa.SEGURONA" status:"pending" tags:"billable" uuid:"7d91c6d8-8a6b-432b-a629-cc4ea6362abe"]
+---
+time 1595950863
+old [description:"Oronako testak egin HVSaren gainean" entry:"1595365265" modified:"1595365265" status:"pending" uuid:"72870656-2900-43d0-bd2f-40cbb9d8ec5d"]
+new [description:"Oronako testak egin HVSaren gainean" end:"1595950863" entry:"1595365265" modified:"1595950863" status:"deleted" uuid:"72870656-2900-43d0-bd2f-40cbb9d8ec5d"]
+---
+time 1595951044
+old [description:"Keepass-era pasa Ikerlaneko VPNko datuak" entry:"1595365277" modified:"1595365277" status:"pending" uuid:"b0dbb5c2-3610-4f0c-94b4-05c2d79fb870"]
+new [description:"Keepass-era pasa Ikerlaneko VPNko datuak" end:"1595951044" entry:"1595365277" modified:"1595951044" status:"completed" uuid:"b0dbb5c2-3610-4f0c-94b4-05c2d79fb870"]
+---
+time 1595951047
+old [description:"Push code to PROPHESY repo" entry:"1593209637" modified:"1593209637" status:"pending" uuid:"89a60e39-5e12-455b-9710-286de38aea98"]
+new [description:"Push code to PROPHESY repo" end:"1595951047" entry:"1593209637" modified:"1595951047" status:"deleted" uuid:"89a60e39-5e12-455b-9710-286de38aea98"]
+---
+time 1597219459
+new [description:"IJIS paper review" entry:"1597219459" modified:"1597219459" status:"pending" uuid:"1d47a551-b960-47a3-9a1f-ece8de1c6083"]
+---
+time 1599025694
+new [description:"IJIS artikulua errebisatu" entry:"1599025694" modified:"1599025694" status:"pending" uuid:"34de2cb6-fdb4-4402-ad33-b1d833d33e02"]
+---
+time 1599025702
+new [description:"ICIMP2020 artikulua errebisatu" entry:"1599025702" modified:"1599025702" status:"pending" uuid:"3dbc6dee-bc12-463e-8a2a-82ec37b75b0a"]
+---
+time 1599025710
+old [description:"Lantaldeko bilerarako prestatu urteroko dokumentuak berrerabilgarriak direnak" entry:"1595950727" modified:"1595950758" project:"Irakaskuntza.MACC" status:"pending" tags:"billable" uuid:"52087f03-f799-4e3d-99cc-9ac649448819"]
+new [description:"Lantaldeko bilerarako prestatu urteroko dokumentuak berrerabilgarriak direnak" end:"1599025710" entry:"1595950727" modified:"1599025710" project:"Irakaskuntza.MACC" status:"completed" tags:"billable" uuid:"52087f03-f799-4e3d-99cc-9ac649448819"]
+---
+time 1599113531
+old [description:"IJIS paper review" entry:"1597219459" modified:"1597219459" status:"pending" uuid:"1d47a551-b960-47a3-9a1f-ece8de1c6083"]
+new [description:"IJIS paper review" end:"1599113528" entry:"1597219459" modified:"1599113531" status:"completed" uuid:"1d47a551-b960-47a3-9a1f-ece8de1c6083"]
+---
+time 1599113531
+old [description:"IJIS artikulua errebisatu" entry:"1599025694" modified:"1599025694" status:"pending" uuid:"34de2cb6-fdb4-4402-ad33-b1d833d33e02"]
+new [description:"IJIS artikulua errebisatu" end:"1599113531" entry:"1599025694" modified:"1599113531" status:"completed" uuid:"34de2cb6-fdb4-4402-ad33-b1d833d33e02"]
+---
+time 1599113531
+old [description:"ICIMP2020 artikulua errebisatu" entry:"1599025702" modified:"1599025702" status:"pending" uuid:"3dbc6dee-bc12-463e-8a2a-82ec37b75b0a"]
+new [description:"ICIMP2020 artikulua errebisatu" end:"1599113531" entry:"1599025702" modified:"1599113531" status:"completed" uuid:"3dbc6dee-bc12-463e-8a2a-82ec37b75b0a"]
+---
+time 1599117266
+new [description:"Azalpen laburra maniobra Deep Learning" entry:"1599117266" modified:"1599117266" status:"pending" uuid:"1310d2dd-350e-46f9-905c-def928e0412a"]
+---
+time 1599117327
+new [description:"Gehitu cppd vuln aurkitzea SCAP erabilita bertsioa edo CVE erabilita" entry:"1599117327" modified:"1599117327" status:"pending" uuid:"7a40e92f-023a-4afb-894e-6c02c08dfa1d"]
+---
+time 1600168457
+new [description:"M36 PROPHESY monitoring report" entry:"1600168457" modified:"1600168457" status:"pending" uuid:"1b958ad3-0e7b-41f7-b3d8-6c829a1399a6"]
+---
+time 1600172077
+new [description:"MACC: Planoa, formularioa, ATHLON ta ordezkaria" entry:"1600172077" modified:"1600172077" status:"pending" uuid:"747d7c2f-848a-43e4-bd76-2e9feb395094"]
+---
+time 1600240564
+new [description:"Read reading group paper" entry:"1600240564" modified:"1600240564" status:"pending" uuid:"3a72bcef-61f4-47f2-bba1-608cebfe8d56"]
+---
+time 1600240868
+old [description:"Orona password policy" entry:"1595950769" modified:"1595950794" project:"Ikerketa.SEGURONA" status:"pending" tags:"billable" uuid:"24b652b6-b86d-4fe3-af1d-57d58844a6e7"]
+new [description:"Orona password policy" end:"1600240868" entry:"1595950769" modified:"1600240868" project:"Ikerketa.SEGURONA" status:"completed" tags:"billable" uuid:"24b652b6-b86d-4fe3-af1d-57d58844a6e7"]
+---
+time 1600243725
+new [description:"ordaindu aldundia" entry:"1600243725" modified:"1600243725" status:"pending" uuid:"6f14df21-27c4-4564-b31e-a50b0e9ce7de"]
+---
+time 1600248839
+old [description:"MACC: Planoa, formularioa, ATHLON ta ordezkaria" entry:"1600172077" modified:"1600172077" status:"pending" uuid:"747d7c2f-848a-43e4-bd76-2e9feb395094"]
+new [description:"MACC: Planoa, formularioa, ATHLON, ordezkaria ta ikasle txartelak" entry:"1600172077" modified:"1600248839" status:"pending" uuid:"747d7c2f-848a-43e4-bd76-2e9feb395094"]
+---
+time 1600249021
+old [description:"MACC: Planoa, formularioa, ATHLON, ordezkaria ta ikasle txartelak" entry:"1600172077" modified:"1600248839" status:"pending" uuid:"747d7c2f-848a-43e4-bd76-2e9feb395094"]
+new [description:"MACC: Planoa, formularioa, ATHLON, ordezkaria, talde-lanari buruzko asuntua ta ikasle txartelak" entry:"1600172077" modified:"1600249021" status:"pending" uuid:"747d7c2f-848a-43e4-bd76-2e9feb395094"]
+---
+time 1600847044
+new [description:"Include WP3 summary with impact in PROPHESY M36" entry:"1600847044" modified:"1600847044" status:"pending" uuid:"f265d57f-74ae-4fa9-a0db-05e4b77c4e98"]
+---
+time 1600847067
+new [description:"Include KPI calculation details in PROPHESY Excel" entry:"1600847067" modified:"1600847067" status:"pending" uuid:"7129552d-2497-4285-9379-0833ba71d83a"]
+---
+time 1601641295
+new [description:"Security algorithm when the ML is running" entry:"1601641295" modified:"1601641295" status:"pending" uuid:"ad7b81f9-8fd8-4168-bdb9-c7b7a4a64bcf"]
+---
+time 1601643221
+new [description:"Read Dani TFM" entry:"1601643221" modified:"1601643221" status:"pending" uuid:"2406db33-2665-45e1-9822-3a255788e836"]
+---
+time 1601965399
+new [description:"Papypal kendu" entry:"1601965399" modified:"1601965399" status:"pending" uuid:"b1218398-608c-4301-9197-9bccd6aefe1d"]
+---
+time 1602066021
+new [description:"ATL igo Oronako TFSra" entry:"1602066021" modified:"1602066021" status:"pending" uuid:"b427daf1-5eed-458f-ae33-d651e332728f"]
+---
+time 1602147113
+old [description:"Include WP3 summary with impact in PROPHESY M36" entry:"1600847044" modified:"1600847044" status:"pending" uuid:"f265d57f-74ae-4fa9-a0db-05e4b77c4e98"]
+new [description:"Include WP3 summary with impact in PROPHESY M36" end:"1602147113" entry:"1600847044" modified:"1602147113" status:"completed" uuid:"f265d57f-74ae-4fa9-a0db-05e4b77c4e98"]
+---
+time 1602147113
+old [description:"Include KPI calculation details in PROPHESY Excel" entry:"1600847067" modified:"1600847067" status:"pending" uuid:"7129552d-2497-4285-9379-0833ba71d83a"]
+new [description:"Include KPI calculation details in PROPHESY Excel" end:"1602147113" entry:"1600847067" modified:"1602147113" status:"completed" uuid:"7129552d-2497-4285-9379-0833ba71d83a"]
+---
+time 1602147118
+old [description:"ordaindu aldundia" entry:"1600243725" modified:"1600243725" status:"pending" uuid:"6f14df21-27c4-4564-b31e-a50b0e9ce7de"]
+new [description:"ordaindu aldundia" end:"1602147118" entry:"1600243725" modified:"1602147118" status:"completed" uuid:"6f14df21-27c4-4564-b31e-a50b0e9ce7de"]
+---
+time 1602147129
+old [description:"Read Dani TFM" entry:"1601643221" modified:"1601643221" status:"pending" uuid:"2406db33-2665-45e1-9822-3a255788e836"]
+new [description:"Read Dani TFM" end:"1602147129" entry:"1601643221" modified:"1602147129" status:"completed" uuid:"2406db33-2665-45e1-9822-3a255788e836"]
+---
+time 1602147141
+old [description:"MACC: Planoa, formularioa, ATHLON, ordezkaria, talde-lanari buruzko asuntua ta ikasle txartelak" entry:"1600172077" modified:"1600249021" status:"pending" uuid:"747d7c2f-848a-43e4-bd76-2e9feb395094"]
+new [description:"MACC: Planoa, formularioa, ATHLON, ordezkaria, talde-lanari buruzko asuntua ta ikasle txartelak" end:"1602147141" entry:"1600172077" modified:"1602147141" status:"completed" uuid:"747d7c2f-848a-43e4-bd76-2e9feb395094"]
+---
+time 1602147144
+old [description:"M36 PROPHESY monitoring report" entry:"1600168457" modified:"1600168457" status:"pending" uuid:"1b958ad3-0e7b-41f7-b3d8-6c829a1399a6"]
+new [description:"M36 PROPHESY monitoring report" end:"1602147144" entry:"1600168457" modified:"1602147144" status:"completed" uuid:"1b958ad3-0e7b-41f7-b3d8-6c829a1399a6"]
+---
+time 1602147300
+new [description:"Idatzi Alvarori planifikazioa egiteko" entry:"1602147300" modified:"1602147300" status:"pending" uuid:"31fc32bd-e0da-4238-9ba8-f8438bc41fc0"]
+---
+time 1602149974
+new [description:"HVSan smart fuzzing" entry:"1602149974" modified:"1602149974" status:"pending" uuid:"fdec2143-f5b9-4ad0-9ae7-2a5794fd02c5"]
+---
+time 1602150621
+new [description:"Amuchastegui eta Huarteren TFG konpetentziak esleitu" entry:"1602150621" modified:"1602150621" status:"pending" uuid:"ddbd6c33-c9eb-43a4-b3de-8c47079b6b64"]
+---
+time 1602155665
+new [description:"Segurtasuneko zertifikatuak gainbegiratu" entry:"1602155665" modified:"1602155665" status:"pending" uuid:"302c2242-8f9e-484e-98c0-2b218a8d5fd9"]
+---
+time 1602258071
+new [description:"allow late allowance" entry:"1602258071" modified:"1602258071" status:"pending" uuid:"085c1ac4-f9e1-4b5d-8b7e-5b4e823e8811"]
+---
+time 1603185271
+old [description:"Papypal kendu" entry:"1601965399" modified:"1601965399" status:"pending" uuid:"b1218398-608c-4301-9197-9bccd6aefe1d"]
+new [description:"Papypal kendu" end:"1603185271" entry:"1601965399" modified:"1603185271" status:"completed" uuid:"b1218398-608c-4301-9197-9bccd6aefe1d"]
+---
+time 1603185394
+old [description:"Idatzi Alvarori planifikazioa egiteko" entry:"1602147300" modified:"1602147300" status:"pending" uuid:"31fc32bd-e0da-4238-9ba8-f8438bc41fc0"]
+new [description:"Idatzi Alvarori planifikazioa egiteko" end:"1603185394" entry:"1602147300" modified:"1603185394" status:"completed" uuid:"31fc32bd-e0da-4238-9ba8-f8438bc41fc0"]
+---
+time 1603185440
+new [description:"Ekhiri pasatu Deep Learning-eko kontua" entry:"1603185440" modified:"1603185440" status:"pending" uuid:"5ea9a68a-6a87-4c69-a249-8ed7cf8ebb9a"]
+---
+time 1603186383
+new [description:"Datasetak jaitsi eta Dropboxera igo Eskolan" entry:"1603186383" modified:"1603186383" status:"pending" uuid:"93f0c21b-b359-4f0a-9164-e6e4f9e52a2b"]
+---
+time 1603186642
+new [description:"Idatzi jarduera aldaketen planen berri ikasleei" entry:"1603186642" modified:"1603186642" status:"pending" uuid:"56d082f5-7606-43d1-a71c-bffdea2204e7"]
+---
+time 1603188931
+new [description:"Backup to Dropbox" entry:"1603188931" modified:"1603188931" status:"pending" uuid:"d6baf98a-9d27-48c6-b85a-630eb1f13f2e"]
+---
+time 1603196731
+old [description:"allow late allowance" entry:"1602258071" modified:"1602258071" status:"pending" uuid:"085c1ac4-f9e1-4b5d-8b7e-5b4e823e8811"]
+new [description:"allow late allowance" end:"1603196731" entry:"1602258071" modified:"1603196731" status:"deleted" uuid:"085c1ac4-f9e1-4b5d-8b7e-5b4e823e8811"]
+---
+time 1603200354
+new [description:"Feedbacka nola izan beharko zen aztertu, infor titulu taldea" entry:"1603200354" modified:"1603200354" status:"pending" uuid:"0b492cbd-aa70-4f51-b8d5-4decf72ab756"]
+---
+time 1603288446
+new [description:"Best paper award raid" entry:"1603288446" modified:"1603288446" status:"pending" uuid:"7447e3a9-2977-416d-98b4-700c925f5256"]
+---
+time 1603302332
+new [description:"Hodei Agirre eta Unai Ramos feedbacka eman" entry:"1603302332" modified:"1603302332" status:"pending" uuid:"984e0ed3-d0d0-4d1c-984e-70f1e1f96874"]
+---
+time 1603349649
+new [description:"Propuesta orokorrak OCFrako" entry:"1603349649" modified:"1603349649" status:"pending" uuid:"9711f747-5b0f-4863-9029-d47a1c9b58b9"]
+---
+time 1603435974
+old [description:"Idatzi jarduera aldaketen planen berri ikasleei" entry:"1603186642" modified:"1603186642" status:"pending" uuid:"56d082f5-7606-43d1-a71c-bffdea2204e7"]
+new [description:"Idatzi jarduera aldaketen planen berri ikasleei" end:"1603435974" entry:"1603186642" modified:"1603435974" status:"completed" uuid:"56d082f5-7606-43d1-a71c-bffdea2204e7"]
+---
+time 1603445677
+new [description:"IBAT fuzzer sartu martxan" entry:"1603445677" modified:"1603445677" status:"pending" uuid:"23e20241-4f05-4232-ad7a-7c76532be482"]
+---
+time 1603446755
+new [description:"Bideratu vendor\/modelo PLC Openinaceko laborategirako" entry:"1603446755" modified:"1603446755" status:"pending" uuid:"9d18c8ff-4c16-44da-b807-cbe2f78e384e"]
+---
+time 1603700047
+old [description:"Ekhiri pasatu Deep Learning-eko kontua" entry:"1603185440" modified:"1603185440" status:"pending" uuid:"5ea9a68a-6a87-4c69-a249-8ed7cf8ebb9a"]
+new [description:"Ekhiri pasatu Deep Learning-eko kontua" end:"1603700047" entry:"1603185440" modified:"1603700047" status:"completed" uuid:"5ea9a68a-6a87-4c69-a249-8ed7cf8ebb9a"]
+---
+time 1603700326
+old [description:"Bideratu vendor\/modelo PLC Openinaceko laborategirako" entry:"1603446755" modified:"1603446755" status:"pending" uuid:"9d18c8ff-4c16-44da-b807-cbe2f78e384e"]
+new [description:"Bideratu vendor\/modelo PLC Openinaceko laborategirako" end:"1603700326" entry:"1603446755" modified:"1603700326" status:"completed" uuid:"9d18c8ff-4c16-44da-b807-cbe2f78e384e"]
+---
+time 1603873761
+old [description:"Datasetak jaitsi eta Dropboxera igo Eskolan" entry:"1603186383" modified:"1603186383" status:"pending" uuid:"93f0c21b-b359-4f0a-9164-e6e4f9e52a2b"]
+new [description:"Datasetak jaitsi eta Dropboxera igo Eskolan" end:"1603873761" entry:"1603186383" modified:"1603873761" status:"completed" uuid:"93f0c21b-b359-4f0a-9164-e6e4f9e52a2b"]
+---
+time 1603873764
+old [description:"Hodei Agirre eta Unai Ramos feedbacka eman" entry:"1603302332" modified:"1603302332" status:"pending" uuid:"984e0ed3-d0d0-4d1c-984e-70f1e1f96874"]
+new [description:"Hodei Agirre eta Unai Ramos feedbacka eman" end:"1603873764" entry:"1603302332" modified:"1603873764" status:"completed" uuid:"984e0ed3-d0d0-4d1c-984e-70f1e1f96874"]
+---
+time 1603873770
+old [description:"Best paper award raid" entry:"1603288446" modified:"1603288446" status:"pending" uuid:"7447e3a9-2977-416d-98b4-700c925f5256"]
+new [description:"Best paper award raid" end:"1603873770" entry:"1603288446" modified:"1603873770" status:"completed" uuid:"7447e3a9-2977-416d-98b4-700c925f5256"]
+---
+time 1603902587
+new [description:"RECSI paper" entry:"1603902587" modified:"1603902587" status:"pending" uuid:"ce5a810e-10f9-4134-a2fa-ca28711cf35d"]
+---
+time 1604318660
+new [description:"M Amutxastegiren planifikazioa pasatu praktiken programara" entry:"1604318660" modified:"1604318660" status:"pending" uuid:"4889a705-bb61-4f55-90e5-840c451e3b96"]
+---
+time 1604318926
+new [description:"IBAT: martxan jarri fuzzerra" entry:"1604318926" modified:"1604318926" status:"pending" uuid:"d13bb088-a122-4f6f-ab72-dadcbb41ffa4"]
+---
+time 1604326564
+new [description:"Certimacc amaitu analisia eta ikasleen analisia" entry:"1604326564" modified:"1604326564" status:"pending" uuid:"3efca849-c7af-4cdc-b79e-352c409f0f8a"]
+---
+time 1604434357
+new [description:"TFG\/TFM jarraipena egin Enaitzen korreoa" entry:"1604434357" modified:"1604434357" status:"pending" uuid:"1163df4e-b4b7-4802-aa8a-34d63719547f"]
+---
+time 1604584081
+old [description:"RECSI paper" entry:"1603902587" modified:"1603902587" status:"pending" uuid:"ce5a810e-10f9-4134-a2fa-ca28711cf35d"]
+new [description:"RECSI paper" end:"1604584081" entry:"1603902587" modified:"1604584081" status:"completed" uuid:"ce5a810e-10f9-4134-a2fa-ca28711cf35d"]
+---
+time 1604584084
+old [description:"IBAT fuzzer sartu martxan" entry:"1603445677" modified:"1603445677" status:"pending" uuid:"23e20241-4f05-4232-ad7a-7c76532be482"]
+new [description:"IBAT fuzzer sartu martxan" end:"1604584084" entry:"1603445677" modified:"1604584084" status:"completed" uuid:"23e20241-4f05-4232-ad7a-7c76532be482"]
+---
+time 1604588651
+new [description:"Ikasleen CVak bidali OCFri" entry:"1604588651" modified:"1604588651" status:"pending" uuid:"657b867b-cb7a-4741-a337-5db22d35e402"]
+---
+time 1604590414
+old [description:"Security algorithm when the ML is running" entry:"1601641295" modified:"1601641295" status:"pending" uuid:"ad7b81f9-8fd8-4168-bdb9-c7b7a4a64bcf"]
+new [description:"Security algorithm when the ML is running" end:"1604590414" entry:"1601641295" modified:"1604590414" status:"completed" uuid:"ad7b81f9-8fd8-4168-bdb9-c7b7a4a64bcf"]
+---
+time 1604592908
+new [description:"INFOR: Online mindmap nabigagarria" entry:"1604592908" modified:"1604592908" status:"pending" uuid:"289ba452-77ed-4f85-94bb-14b8e3c8a496"]
+---
+time 1604741249
+new [description:"Graduko jakintza mapa" entry:"1604741249" modified:"1604741249" status:"pending" uuid:"a0579481-98af-4d54-b50c-8554d7166cd1"]
+---
+time 1604840334
+old [description:"Graduko jakintza mapa" entry:"1604741249" modified:"1604741249" status:"pending" uuid:"a0579481-98af-4d54-b50c-8554d7166cd1"]
+new [description:"Graduko jakintza mapa" end:"1604840334" entry:"1604741249" modified:"1604840334" status:"completed" uuid:"a0579481-98af-4d54-b50c-8554d7166cd1"]
+---
+time 1604939016
+new [description:"Igo SIND Dropboxera" entry:"1604939016" modified:"1604939016" status:"pending" uuid:"88ad0f30-15c8-4c81-9705-da12e6297ae1"]
+---
+time 1604939073
+old [description:"Feedbacka nola izan beharko zen aztertu, infor titulu taldea" entry:"1603200354" modified:"1603200354" status:"pending" uuid:"0b492cbd-aa70-4f51-b8d5-4decf72ab756"]
+new [description:"Feedbacka nola izan beharko zen aztertu, infor titulu taldea" end:"1604939073" entry:"1603200354" modified:"1604939073" status:"completed" uuid:"0b492cbd-aa70-4f51-b8d5-4decf72ab756"]
+---
+time 1604939079
+old [description:"INFOR: Online mindmap nabigagarria" entry:"1604592908" modified:"1604592908" status:"pending" uuid:"289ba452-77ed-4f85-94bb-14b8e3c8a496"]
+new [description:"INFOR: Online mindmap nabigagarria" end:"1604939079" entry:"1604592908" modified:"1604939079" status:"completed" uuid:"289ba452-77ed-4f85-94bb-14b8e3c8a496"]
+---
+time 1604939083
+old [description:"Ikasleen CVak bidali OCFri" entry:"1604588651" modified:"1604588651" status:"pending" uuid:"657b867b-cb7a-4741-a337-5db22d35e402"]
+new [description:"Ikasleen CVak bidali OCFri" end:"1604939083" entry:"1604588651" modified:"1604939083" status:"completed" uuid:"657b867b-cb7a-4741-a337-5db22d35e402"]
+---
+time 1604991748
+new [description:"Igo Carmine Dropbox-era" entry:"1604991748" modified:"1604991748" status:"pending" uuid:"e0762072-289d-4f8d-b3a3-25cf13db14ae"]
+---
+time 1604991790
+old [description:"CP-ABE kodea igo" entry:"1590090691" modified:"1590095646" project:"Ikerketa.PROPHESY" status:"pending" tags:"billable" uuid:"e5159a40-99cc-4ecf-8673-8d19606a7128"]
+new [description:"CP-ABE kodea igo" end:"1604991790" entry:"1590090691" modified:"1604991790" project:"Ikerketa.PROPHESY" status:"deleted" tags:"billable" uuid:"e5159a40-99cc-4ecf-8673-8d19606a7128"]
+---
+time 1604991793
+old [description:"Push code to PROPHESY Gitlab" entry:"1592846248" modified:"1592846248" status:"pending" uuid:"99a1cbb9-fce4-406d-8e41-81ad37a229da"]
+new [description:"Push code to PROPHESY Gitlab" end:"1604991793" entry:"1592846248" modified:"1604991793" status:"deleted" uuid:"99a1cbb9-fce4-406d-8e41-81ad37a229da"]
+---
+time 1604991795
+old [description:"Azalpen laburra maniobra Deep Learning" entry:"1599117266" modified:"1599117266" status:"pending" uuid:"1310d2dd-350e-46f9-905c-def928e0412a"]
+new [description:"Azalpen laburra maniobra Deep Learning" end:"1604991795" entry:"1599117266" modified:"1604991795" status:"completed" uuid:"1310d2dd-350e-46f9-905c-def928e0412a"]
+---
+time 1604991811
+old [description:"IBAT: martxan jarri fuzzerra" entry:"1604318926" modified:"1604318926" status:"pending" uuid:"d13bb088-a122-4f6f-ab72-dadcbb41ffa4"]
+new [description:"IBAT: martxan jarri fuzzerra" end:"1604991811" entry:"1604318926" modified:"1604991811" status:"completed" uuid:"d13bb088-a122-4f6f-ab72-dadcbb41ffa4"]
+---
+time 1604991817
+old [description:"HVSan smart fuzzing" entry:"1602149974" modified:"1602149974" status:"pending" uuid:"fdec2143-f5b9-4ad0-9ae7-2a5794fd02c5"]
+new [description:"HVSan smart fuzzing" end:"1604991817" entry:"1602149974" modified:"1604991817" status:"completed" uuid:"fdec2143-f5b9-4ad0-9ae7-2a5794fd02c5"]
+---
+time 1604991821
+old [description:"Igo Carmine Dropbox-era" entry:"1604991748" modified:"1604991748" status:"pending" uuid:"e0762072-289d-4f8d-b3a3-25cf13db14ae"]
+new [description:"Igo Carmine Dropbox-era" end:"1604991821" entry:"1604991748" modified:"1604991821" status:"completed" uuid:"e0762072-289d-4f8d-b3a3-25cf13db14ae"]
+---
+time 1605260608
+new [description:"SIR errekuperazioko galderak" entry:"1605260608" modified:"1605260608" status:"pending" uuid:"29b68e17-ef79-4279-ba37-6455afbda432"]
+---
+time 1605510196
+old [description:"Segurtasuneko zertifikatuak gainbegiratu" entry:"1602155665" modified:"1602155665" status:"pending" uuid:"302c2242-8f9e-484e-98c0-2b218a8d5fd9"]
+new [description:"Segurtasuneko zertifikatuak gainbegiratu" entry:"1602155665" modified:"1605510196" project:"Ikerketa.OPENINAC" status:"pending" uuid:"302c2242-8f9e-484e-98c0-2b218a8d5fd9"]
+---
+time 1605510199
+old [description:"Segurtasuneko zertifikatuak gainbegiratu" entry:"1602155665" modified:"1605510196" project:"Ikerketa.OPENINAC" status:"pending" uuid:"302c2242-8f9e-484e-98c0-2b218a8d5fd9"]
+new [description:"Segurtasuneko zertifikatuak gainbegiratu" entry:"1602155665" modified:"1605510199" priority:"H" project:"Ikerketa.OPENINAC" status:"pending" uuid:"302c2242-8f9e-484e-98c0-2b218a8d5fd9"]
+---
+time 1605510213
+old [description:"Segurtasuneko zertifikatuak gainbegiratu" entry:"1602155665" modified:"1605510199" priority:"H" project:"Ikerketa.OPENINAC" status:"pending" uuid:"302c2242-8f9e-484e-98c0-2b218a8d5fd9"]
+new [description:"Segurtasuneko zertifikatuak gainbegiratu" entry:"1602155665" modified:"1605510213" priority:"H" status:"pending" uuid:"302c2242-8f9e-484e-98c0-2b218a8d5fd9"]
+---
+time 1605510216
+old [description:"Segurtasuneko zertifikatuak gainbegiratu" entry:"1602155665" modified:"1605510213" priority:"H" status:"pending" uuid:"302c2242-8f9e-484e-98c0-2b218a8d5fd9"]
+new [description:"Segurtasuneko zertifikatuak gainbegiratu" entry:"1602155665" modified:"1605510216" status:"pending" uuid:"302c2242-8f9e-484e-98c0-2b218a8d5fd9"]
+---
+time 1605510225
+old [description:"Propuesta orokorrak OCFrako" entry:"1603349649" modified:"1603349649" status:"pending" uuid:"9711f747-5b0f-4863-9029-d47a1c9b58b9"]
+new [description:"Propuesta orokorrak OCFrako" entry:"1603349649" modified:"1605510225" priority:"H" status:"pending" uuid:"9711f747-5b0f-4863-9029-d47a1c9b58b9"]
+---
+time 1605510232
+old [description:"Propuesta orokorrak OCFrako" entry:"1603349649" modified:"1605510225" priority:"H" status:"pending" uuid:"9711f747-5b0f-4863-9029-d47a1c9b58b9"]
+new [description:"Propuesta orokorrak OCFrako" entry:"1603349649" modified:"1605510232" priority:"H" project:"Ikerketa.OPENINAC" status:"pending" uuid:"9711f747-5b0f-4863-9029-d47a1c9b58b9"]
+---
+time 1605510877
+new [description:"Moztu bideoa Openshotekin" entry:"1605510877" modified:"1605510877" status:"pending" uuid:"4c176d31-7291-448d-adb4-202c73a9b264"]
+---
+time 1605602451
+new [description:"TFM deskargoak" entry:"1605602451" modified:"1605602451" status:"pending" uuid:"2eec2209-dd83-448e-a794-7589a15bde02"]
+---
+time 1605644415
+new [description:"markel elorza dokumentazioa" entry:"1605644415" modified:"1605644415" status:"pending" uuid:"6e184249-878a-4686-906b-5aaec8cb2ed9"]
+---
+time 1605644427
+new [description:"titulu taldea konpromisoak" entry:"1605644427" modified:"1605644427" status:"pending" uuid:"8e439847-a3ad-48cb-a2e1-7589ed7cafff"]
+---
+time 1605857021
+old [description:"Amuchastegui eta Huarteren TFG konpetentziak esleitu" entry:"1602150621" modified:"1602150621" status:"pending" uuid:"ddbd6c33-c9eb-43a4-b3de-8c47079b6b64"]
+new [description:"Amuchastegui eta Huarteren TFG konpetentziak esleitu" end:"1605857021" entry:"1602150621" modified:"1605857021" status:"completed" uuid:"ddbd6c33-c9eb-43a4-b3de-8c47079b6b64"]
+---
+time 1605857025
+old [description:"M Amutxastegiren planifikazioa pasatu praktiken programara" entry:"1604318660" modified:"1604318660" status:"pending" uuid:"4889a705-bb61-4f55-90e5-840c451e3b96"]
+new [description:"M Amutxastegiren planifikazioa pasatu praktiken programara" end:"1605857025" entry:"1604318660" modified:"1605857025" status:"completed" uuid:"4889a705-bb61-4f55-90e5-840c451e3b96"]
+---
+time 1605857036
+old [description:"Moztu bideoa Openshotekin" entry:"1605510877" modified:"1605510877" status:"pending" uuid:"4c176d31-7291-448d-adb4-202c73a9b264"]
+new [description:"Moztu bideoa Openshotekin" end:"1605857036" entry:"1605510877" modified:"1605857036" status:"completed" uuid:"4c176d31-7291-448d-adb4-202c73a9b264"]
+---
+time 1606205979
+new [description:"Josu Palaciosen GBLa landu" entry:"1606205979" modified:"1606205979" status:"pending" uuid:"567e703d-2b56-4e48-bfc6-dfbbb1f19e02"]
+---
+time 1606208597
+new [description:"Igo kodea TFSra" entry:"1606208597" modified:"1606208597" status:"pending" uuid:"787dd137-f6ef-4f3a-a934-c91f6d0e79c5"]
+---
+time 1606208611
+old [description:"Gehitu cppd vuln aurkitzea SCAP erabilita bertsioa edo CVE erabilita" entry:"1599117327" modified:"1599117327" status:"pending" uuid:"7a40e92f-023a-4afb-894e-6c02c08dfa1d"]
+new [description:"Gehitu cppd vuln aurkitzea SCAP erabilita bertsioa edo CVE erabilita" end:"1606208611" entry:"1599117327" modified:"1606208611" status:"deleted" uuid:"7a40e92f-023a-4afb-894e-6c02c08dfa1d"]
+---
+time 1606208627
+old [description:"TFG\/TFM jarraipena egin Enaitzen korreoa" entry:"1604434357" modified:"1604434357" status:"pending" uuid:"1163df4e-b4b7-4802-aa8a-34d63719547f"]
+new [description:"TFG\/TFM jarraipena egin Enaitzen korreoa" end:"1606208627" entry:"1604434357" modified:"1606208627" status:"completed" uuid:"1163df4e-b4b7-4802-aa8a-34d63719547f"]
+---
+time 1606208630
+old [description:"SIR errekuperazioko galderak" entry:"1605260608" modified:"1605260608" status:"pending" uuid:"29b68e17-ef79-4279-ba37-6455afbda432"]
+new [description:"SIR errekuperazioko galderak" end:"1606208630" entry:"1605260608" modified:"1606208630" status:"completed" uuid:"29b68e17-ef79-4279-ba37-6455afbda432"]
+---
+time 1606208637
+old [description:"TFM deskargoak" entry:"1605602451" modified:"1605602451" status:"pending" uuid:"2eec2209-dd83-448e-a794-7589a15bde02"]
+new [description:"TFM deskargoak" end:"1606208637" entry:"1605602451" modified:"1606208637" status:"completed" uuid:"2eec2209-dd83-448e-a794-7589a15bde02"]
+---
+time 1606208705
+new [description:"TFM deskarguak" entry:"1606208705" modified:"1606208705" status:"pending" uuid:"09b57172-6e09-4341-a6f6-7e882cfd96ea"]
+---
+time 1606208782
+old [description:"TFM deskarguak" entry:"1606208705" modified:"1606208705" status:"pending" uuid:"09b57172-6e09-4341-a6f6-7e882cfd96ea"]
+new [description:"TFM deskargoak eskatu Alvaro eta Mikeli" entry:"1606208705" modified:"1606208782" project:"Irakaskuntza.MACC" status:"pending" tags:"billable" until:"1604185200" uuid:"09b57172-6e09-4341-a6f6-7e882cfd96ea"]
+---
+time 1606208783
+old [description:"TFM deskargoak eskatu Alvaro eta Mikeli" entry:"1606208705" modified:"1606208782" project:"Irakaskuntza.MACC" status:"pending" tags:"billable" until:"1604185200" uuid:"09b57172-6e09-4341-a6f6-7e882cfd96ea"]
+new [description:"TFM deskargoak eskatu Alvaro eta Mikeli" end:"1606208783" entry:"1606208705" modified:"1606208783" project:"Irakaskuntza.MACC" status:"deleted" tags:"billable" until:"1604185200" uuid:"09b57172-6e09-4341-a6f6-7e882cfd96ea"]
+---
+time 1606208800
+old [description:"Josu Palaciosen GBLa landu" entry:"1606205979" modified:"1606205979" status:"pending" uuid:"567e703d-2b56-4e48-bfc6-dfbbb1f19e02"]
+new [description:"Josu Palaciosen GBLa landu" end:"1606208800" entry:"1606205979" modified:"1606208800" status:"deleted" uuid:"567e703d-2b56-4e48-bfc6-dfbbb1f19e02"]
+---
+time 1606226656
+new [description:"MACC PBL hito intermedio" entry:"1606226656" modified:"1606226656" status:"pending" uuid:"659fbe66-3801-49c0-b3f6-5d45b98d4372"]
+---
+time 1606373058
+old [description:"markel elorza dokumentazioa" entry:"1605644415" modified:"1605644415" status:"pending" uuid:"6e184249-878a-4686-906b-5aaec8cb2ed9"]
+new [description:"markel elorza dokumentazioa" end:"1606373058" entry:"1605644415" modified:"1606373058" status:"completed" uuid:"6e184249-878a-4686-906b-5aaec8cb2ed9"]
+---
+time 1606463590
+new [description:"Prestatu webinar diapoak" entry:"1606463590" modified:"1606463590" status:"pending" uuid:"a0f2c5e9-3e7c-46c4-9aa6-1559ed5b65cc"]
+---
+time 1606495035
+old [description:"Propuesta orokorrak OCFrako" entry:"1603349649" modified:"1605510232" priority:"H" project:"Ikerketa.OPENINAC" status:"pending" uuid:"9711f747-5b0f-4863-9029-d47a1c9b58b9"]
+new [description:"Propuesta orokorrak OCFrako" end:"1606495035" entry:"1603349649" modified:"1606495035" priority:"H" project:"Ikerketa.OPENINAC" status:"completed" uuid:"9711f747-5b0f-4863-9029-d47a1c9b58b9"]
+---
+time 1606495047
+old [description:"Read reading group paper" entry:"1600240564" modified:"1600240564" status:"pending" uuid:"3a72bcef-61f4-47f2-bba1-608cebfe8d56"]
+new [description:"Read reading group paper" end:"1606495047" entry:"1600240564" modified:"1606495047" status:"completed" uuid:"3a72bcef-61f4-47f2-bba1-608cebfe8d56"]
+---
+time 1606495053
+old [description:"titulu taldea konpromisoak" entry:"1605644427" modified:"1605644427" status:"pending" uuid:"8e439847-a3ad-48cb-a2e1-7589ed7cafff"]
+new [description:"titulu taldea konpromisoak" end:"1606495053" entry:"1605644427" modified:"1606495053" status:"completed" uuid:"8e439847-a3ad-48cb-a2e1-7589ed7cafff"]
+---
+time 1606495056
+old [description:"Igo kodea TFSra" entry:"1606208597" modified:"1606208597" status:"pending" uuid:"787dd137-f6ef-4f3a-a934-c91f6d0e79c5"]
+new [description:"Igo kodea TFSra" end:"1606495056" entry:"1606208597" modified:"1606495056" status:"completed" uuid:"787dd137-f6ef-4f3a-a934-c91f6d0e79c5"]
+---
+time 1606495060
+old [description:"MACC PBL hito intermedio" entry:"1606226656" modified:"1606226656" status:"pending" uuid:"659fbe66-3801-49c0-b3f6-5d45b98d4372"]
+new [description:"MACC PBL hito intermedio" end:"1606495060" entry:"1606226656" modified:"1606495060" status:"completed" uuid:"659fbe66-3801-49c0-b3f6-5d45b98d4372"]
+---
+time 1606495070
+old [description:"Segurtasuneko zertifikatuak gainbegiratu" entry:"1602155665" modified:"1605510216" status:"pending" uuid:"302c2242-8f9e-484e-98c0-2b218a8d5fd9"]
+new [description:"Segurtasuneko zertifikatuak gainbegiratu" end:"1606495070" entry:"1602155665" modified:"1606495070" status:"completed" uuid:"302c2242-8f9e-484e-98c0-2b218a8d5fd9"]
+---
+time 1606495078
+old [description:"Oinarrizko testak HVS gainean" entry:"1595950813" modified:"1595950826" project:"Ikerketa.SEGURONA" status:"pending" tags:"billable" uuid:"7d91c6d8-8a6b-432b-a629-cc4ea6362abe"]
+new [description:"Oinarrizko testak HVS gainean" end:"1606495078" entry:"1595950813" modified:"1606495078" project:"Ikerketa.SEGURONA" status:"completed" tags:"billable" uuid:"7d91c6d8-8a6b-432b-a629-cc4ea6362abe"]
+---
+time 1606665991
+new [description:"ATL: Testak beste dispositiboetan" entry:"1606665991" modified:"1606665991" status:"pending" uuid:"9a5b23ad-17b9-4d02-a4e8-ffab931a216e"]
+---
+time 1606678060
+new [description:"Coursera Software Security jaitsi" entry:"1606678060" modified:"1606678060" status:"pending" uuid:"693dee62-97f1-4aff-8e59-0a588b3acff5"]
+---
+time 1606722267
+new [description:"TFM MACC deskargu partziala eginarazi eta data jarri" entry:"1606722267" modified:"1606722267" status:"pending" uuid:"bece6814-ae57-4d2c-8ba3-06dae2336b95"]
+---
+time 1606770101
+new [description:"Konektatu ssh hvs-ra" entry:"1606770101" modified:"1606770101" status:"pending" uuid:"83396dca-18f3-4023-b9eb-cb038933a94d"]
+---
+time 1606770113
+new [description:"Nola sortu DSa" entry:"1606770113" modified:"1606770113" status:"pending" uuid:"c1bc432e-b122-43c9-a672-737a9aa38bb9"]
+---
+time 1606806452
+old [description:"TFM MACC deskargu partziala eginarazi eta data jarri" entry:"1606722267" modified:"1606722267" status:"pending" uuid:"bece6814-ae57-4d2c-8ba3-06dae2336b95"]
+new [description:"TFM MACC deskargu partziala eginarazi eta data jarri" end:"1606806452" entry:"1606722267" modified:"1606806452" status:"completed" uuid:"bece6814-ae57-4d2c-8ba3-06dae2336b95"]
+---
+time 1606812203
+new [description:"Graded lab zuzendu" entry:"1606812203" modified:"1606812203" status:"pending" uuid:"0357f8d5-948f-41f5-b685-9dcaaa562352"]
+---
+time 1606908697
+old [description:"Igo SIND Dropboxera" entry:"1604939016" modified:"1604939016" status:"pending" uuid:"88ad0f30-15c8-4c81-9705-da12e6297ae1"]
+new [description:"Igo SIND Dropboxera" end:"1606908696" entry:"1604939016" modified:"1606908697" status:"completed" uuid:"88ad0f30-15c8-4c81-9705-da12e6297ae1"]
+---
+time 1606908699
+old [description:"Certimacc amaitu analisia eta ikasleen analisia" entry:"1604326564" modified:"1604326564" status:"pending" uuid:"3efca849-c7af-4cdc-b79e-352c409f0f8a"]
+new [description:"Certimacc amaitu analisia eta ikasleen analisia" end:"1606908699" entry:"1604326564" modified:"1606908699" status:"completed" uuid:"3efca849-c7af-4cdc-b79e-352c409f0f8a"]
+---
+time 1606927867
+new [description:"2. seihilekoko ordutegiak deskargetan" entry:"1606927867" modified:"1606927867" status:"pending" uuid:"f4b612dc-dcd9-4210-8619-29367eaecc15"]
+---
+time 1606989917
+old [description:"2. seihilekoko ordutegiak deskargetan" entry:"1606927867" modified:"1606927867" status:"pending" uuid:"f4b612dc-dcd9-4210-8619-29367eaecc15"]
+new [description:"2. seihilekoko ordutegiak deskargetan" due:"1607724000" entry:"1606927867" modified:"1606989917" status:"waiting" uuid:"f4b612dc-dcd9-4210-8619-29367eaecc15" wait:"1607468400"]
+---
+time 1606989927
+old [description:"Konektatu ssh hvs-ra" entry:"1606770101" modified:"1606770101" status:"pending" uuid:"83396dca-18f3-4023-b9eb-cb038933a94d"]
+new [description:"Konektatu ssh hvs-ra" end:"1606989927" entry:"1606770101" modified:"1606989927" status:"completed" uuid:"83396dca-18f3-4023-b9eb-cb038933a94d"]
+---
+time 1607083906
+old [description:"Graded lab zuzendu" entry:"1606812203" modified:"1606812203" status:"pending" uuid:"0357f8d5-948f-41f5-b685-9dcaaa562352"]
+new [description:"Graded lab zuzendu" end:"1607083906" entry:"1606812203" modified:"1607083906" status:"completed" uuid:"0357f8d5-948f-41f5-b685-9dcaaa562352"]
+---
+time 1607083909
+old [description:"Coursera Software Security jaitsi" entry:"1606678060" modified:"1606678060" status:"pending" uuid:"693dee62-97f1-4aff-8e59-0a588b3acff5"]
+new [description:"Coursera Software Security jaitsi" end:"1607083909" entry:"1606678060" modified:"1607083909" status:"completed" uuid:"693dee62-97f1-4aff-8e59-0a588b3acff5"]
+---
+time 1607453936
+new [description:"Deskargu partzialaren data ezarri" entry:"1607453936" modified:"1607453936" status:"pending" uuid:"36e91df9-368f-4c2e-b6de-5ec153f1d293"]
+---
+time 1607454261
+new [description:"Gogorarazi Xaviri bilerarena" entry:"1607454261" modified:"1607454261" status:"pending" uuid:"2de79686-c643-4897-864f-8da4ff27d524"]
+---
+time 1607493548
+new [description:"Oronako pasahitza aldatu" entry:"1607493548" modified:"1607493548" status:"pending" uuid:"78c0f11b-c0c1-446e-b357-7ce98b389b6c"]
+---
+time 1607507231
+new [description:"POPBLko aurkezpena eta lehen entregarena prestatu" entry:"1607507231" modified:"1607507231" status:"pending" uuid:"6f9b1f29-6d89-4af5-ac3f-31e609d4a593"]
+---
+time 1607688053
+new [description:"Big Data SOA Hadoop egin" entry:"1607688053" modified:"1607688053" status:"pending" uuid:"0e56639d-bb8d-4189-ae8b-636eb104b464"]
+---
+time 1607688082
+new [description:"Alvaro deskarguko notak sartu aplikatiboan" entry:"1607688082" modified:"1607688082" status:"pending" uuid:"2be5de20-9258-46c4-a58f-aa2ffa3a7547"]
+---
+time 1607691621
+new [description:"TFGen konepentziak esleitu" entry:"1607691621" modified:"1607691621" status:"pending" uuid:"f4e42f9f-98ca-40f9-b3ba-addc522bc881"]
+---
+time 1607695357
+old [description:"Alvaro deskarguko notak sartu aplikatiboan" entry:"1607688082" modified:"1607688082" status:"pending" uuid:"2be5de20-9258-46c4-a58f-aa2ffa3a7547"]
+new [description:"Alvaro deskarguko notak sartu aplikatiboan" end:"1607695357" entry:"1607688082" modified:"1607695357" status:"completed" uuid:"2be5de20-9258-46c4-a58f-aa2ffa3a7547"]
+---
+time 1607799217
+new [description:"Zuzeu oparia Patreon idatzi" entry:"1607799217" modified:"1607799217" status:"pending" uuid:"9c455583-8d2c-4aa9-811d-69a5c0c3c1e6"]
+---
+time 1607944010
+old [description:"Zuzeu oparia Patreon idatzi" entry:"1607799217" modified:"1607799217" status:"pending" uuid:"9c455583-8d2c-4aa9-811d-69a5c0c3c1e6"]
+new [description:"Zuzeu oparia Patreon idatzi" end:"1607944010" entry:"1607799217" modified:"1607944010" status:"completed" uuid:"9c455583-8d2c-4aa9-811d-69a5c0c3c1e6"]
+---
+time 1607944074
+old [description:"Gogorarazi Xaviri bilerarena" entry:"1607454261" modified:"1607454261" status:"pending" uuid:"2de79686-c643-4897-864f-8da4ff27d524"]
+new [description:"Gogorarazi Xaviri bilerarena" end:"1607944074" entry:"1607454261" modified:"1607944074" status:"completed" uuid:"2de79686-c643-4897-864f-8da4ff27d524"]
+---
+time 1607944080
+old [description:"Deskargu partzialaren data ezarri" entry:"1607453936" modified:"1607453936" status:"pending" uuid:"36e91df9-368f-4c2e-b6de-5ec153f1d293"]
+new [description:"Deskargu partzialaren data ezarri" end:"1607944080" entry:"1607453936" modified:"1607944080" status:"completed" uuid:"36e91df9-368f-4c2e-b6de-5ec153f1d293"]
+---
+time 1607944103
+old [description:"POPBLko aurkezpena eta lehen entregarena prestatu" entry:"1607507231" modified:"1607507231" status:"pending" uuid:"6f9b1f29-6d89-4af5-ac3f-31e609d4a593"]
+new [description:"POPBLko aurkezpena eta lehen entregarena prestatu" end:"1607944103" entry:"1607507231" modified:"1607944103" status:"completed" uuid:"6f9b1f29-6d89-4af5-ac3f-31e609d4a593"]
+---
+time 1608032536
+new [description:"Orona ATL akta" entry:"1608032536" modified:"1608032536" status:"pending" uuid:"658e2078-027e-4be7-8233-9cb4d2dd35d1"]
+---
+time 1608039330
+new [description:"Arautegi akademikoa irakurri behar izateko mezua bidali" entry:"1608039330" modified:"1608039330" status:"pending" uuid:"e4f54171-a390-4a51-9834-43ee072da5f5"]
+---
+time 1608039363
+new [description:"Hezkuntza eta ebaluaketa gida irakurri" entry:"1608039363" modified:"1608039363" status:"pending" uuid:"c7c8dcd3-8344-4ba3-8ef3-37a0f67fbbed"]
+---
+time 1608039677
+new [description:"POPBLaren definizioa egin Alainekin" entry:"1608039677" modified:"1608039677" status:"pending" uuid:"93ea573f-fc73-4c43-8be7-4ed1212414de"]
+---
+time 1608039883
+old [description:"POPBLaren definizioa egin Alainekin" entry:"1608039677" modified:"1608039677" status:"pending" uuid:"93ea573f-fc73-4c43-8be7-4ed1212414de"]
+new [description:"POPBLaren konpetentzien pisuak definitu Alainekin" entry:"1608039677" modified:"1608039883" status:"pending" uuid:"93ea573f-fc73-4c43-8be7-4ed1212414de"]
+---
+time 1608040290
+new [description:"Seihilekoko MUdle ikastaroa bete" entry:"1608040290" modified:"1608040290" status:"pending" uuid:"178bac1d-e7ca-4f7f-93e9-c569d82dae61"]
+---
+time 1608106823
+new [description:"I40 laborategian ze maketa behar den definitu eta Excelean jarri" entry:"1608106823" modified:"1608106823" status:"pending" uuid:"799fb703-2179-4d04-ac87-31f33ba13ffe"]
+---
+time 1608108994
+new [description:"CERTIMACCerako CEH liburua gure edukiekin alderatu" entry:"1608108994" modified:"1608108994" status:"pending" uuid:"cbe83dd7-4afd-4ce6-83ff-0f175f902811"]
+---
+time 1608218062
+old [description:"Prestatu webinar diapoak" entry:"1606463590" modified:"1606463590" status:"pending" uuid:"a0f2c5e9-3e7c-46c4-9aa6-1559ed5b65cc"]
+new [description:"Prestatu webinar diapoak" end:"1608218062" entry:"1606463590" modified:"1608218062" status:"completed" uuid:"a0f2c5e9-3e7c-46c4-9aa6-1559ed5b65cc"]
+---
+time 1608218069
+old [description:"TFGen konepentziak esleitu" entry:"1607691621" modified:"1607691621" status:"pending" uuid:"f4e42f9f-98ca-40f9-b3ba-addc522bc881"]
+new [description:"TFGen konepentziak esleitu" end:"1608218069" entry:"1607691621" modified:"1608218069" status:"completed" uuid:"f4e42f9f-98ca-40f9-b3ba-addc522bc881"]
+---
+time 1608219199
+old [description:"Arautegi akademikoa irakurri behar izateko mezua bidali" entry:"1608039330" modified:"1608039330" status:"pending" uuid:"e4f54171-a390-4a51-9834-43ee072da5f5"]
+new [description:"Arautegi akademikoa irakurri behar izateko mezua bidali" end:"1608219199" entry:"1608039330" modified:"1608219199" status:"completed" uuid:"e4f54171-a390-4a51-9834-43ee072da5f5"]
+---
+time 1608272987
+new [description:"Errebisatu Maialenen erantzuna errebisoreei" entry:"1608272987" modified:"1608272987" status:"pending" uuid:"8030a785-8055-4f33-8f09-c1763c0776d4"]
+---
+time 1608294465
+new [description:"MACCeko errekuperaketak jarri" entry:"1608294465" modified:"1608294465" status:"pending" uuid:"fb9a6743-0dcc-4d4a-b484-f86f32e91798"]
+---
+time 1608496736
+new [description:"Konpetentzia tranbertsalen kalkulu-orria sortu" entry:"1608496736" modified:"1608496736" status:"pending" uuid:"9dc2f2ba-0ab1-48c6-8d73-179a4ca4789b"]
+---
+time 1608544053
+old [description:"MACCeko errekuperaketak jarri" entry:"1608294465" modified:"1608294465" status:"pending" uuid:"fb9a6743-0dcc-4d4a-b484-f86f32e91798"]
+new [description:"MACCeko errekuperaketak jarri" end:"1608544053" entry:"1608294465" modified:"1608544053" status:"completed" uuid:"fb9a6743-0dcc-4d4a-b484-f86f32e91798"]
+---
+time 1608549515
+new [description:"IoT SOA errepasatu" entry:"1608549515" modified:"1608549515" status:"pending" uuid:"8d9c23e2-46cb-4278-a0e5-35a04a559618"]
+---
+time 1608572998
+old [description:"Big Data SOA Hadoop egin" entry:"1607688053" modified:"1607688053" status:"pending" uuid:"0e56639d-bb8d-4189-ae8b-636eb104b464"]
+new [description:"Big Data SOA Hadoop egin" end:"1608572998" entry:"1607688053" modified:"1608572998" status:"completed" uuid:"0e56639d-bb8d-4189-ae8b-636eb104b464"]
+---
+time 1608573005
+old [description:"Errebisatu Maialenen erantzuna errebisoreei" entry:"1608272987" modified:"1608272987" status:"pending" uuid:"8030a785-8055-4f33-8f09-c1763c0776d4"]
+new [description:"Errebisatu Maialenen erantzuna errebisoreei" end:"1608573005" entry:"1608272987" modified:"1608573005" status:"completed" uuid:"8030a785-8055-4f33-8f09-c1763c0776d4"]
+---
+time 1609749176
+old [description:"Oronako pasahitza aldatu" entry:"1607493548" modified:"1607493548" status:"pending" uuid:"78c0f11b-c0c1-446e-b357-7ce98b389b6c"]
+new [description:"Oronako pasahitza aldatu" end:"1609749176" entry:"1607493548" modified:"1609749176" status:"completed" uuid:"78c0f11b-c0c1-446e-b357-7ce98b389b6c"]
+---
+time 1609749543
+old [description:"Hezkuntza eta ebaluaketa gida irakurri" entry:"1608039363" modified:"1608039363" status:"pending" uuid:"c7c8dcd3-8344-4ba3-8ef3-37a0f67fbbed"]
+new [description:"Hezkuntza eta ebaluaketa gida irakurri" end:"1609749543" entry:"1608039363" modified:"1609749543" status:"completed" uuid:"c7c8dcd3-8344-4ba3-8ef3-37a0f67fbbed"]
+---
+time 1609751095
+old [description:"POPBLaren konpetentzien pisuak definitu Alainekin" entry:"1608039677" modified:"1608039883" status:"pending" uuid:"93ea573f-fc73-4c43-8be7-4ed1212414de"]
+new [description:"POPBLaren konpetentzien pisuak definitu Alainekin" end:"1609751095" entry:"1608039677" modified:"1609751095" status:"completed" uuid:"93ea573f-fc73-4c43-8be7-4ed1212414de"]
+---
+time 1609751352
+new [description:"COIOTEko bertsioen CVErena begiratu" entry:"1609751352" modified:"1609751352" status:"pending" uuid:"bc0eac9f-4672-4402-aa12-469f69530ac8"]
+---
+time 1609965036
+new [description:"Galderak errekuperaketa SIR" entry:"1609965036" modified:"1609965036" status:"pending" uuid:"63182b55-5901-4489-af5a-2a6aca4e75f1"]
+---
+time 1610010225
+new [description:"IJISeko paperra errebisatu" entry:"1610010225" modified:"1610010225" status:"pending" uuid:"39b8ab12-dc22-4bcf-b5d5-b5081a8d22bf"]
+---
+time 1610022491
+old [description:"Galderak errekuperaketa SIR" entry:"1609965036" modified:"1609965036" status:"pending" uuid:"63182b55-5901-4489-af5a-2a6aca4e75f1"]
+new [description:"Galderak errekuperaketa SIR" end:"1610022491" entry:"1609965036" modified:"1610022491" status:"completed" uuid:"63182b55-5901-4489-af5a-2a6aca4e75f1"]
+---
+time 1610102930
+old [description:"IJISeko paperra errebisatu" entry:"1610010225" modified:"1610010225" status:"pending" uuid:"39b8ab12-dc22-4bcf-b5d5-b5081a8d22bf"]
+new [description:"IJISeko paperra errebisatu" end:"1610102930" entry:"1610010225" modified:"1610102930" status:"completed" uuid:"39b8ab12-dc22-4bcf-b5d5-b5081a8d22bf"]
+---
+time 1610432296
+new [description:"Review TDSC" entry:"1610432296" modified:"1610432296" status:"pending" uuid:"3a6e4d1f-912a-45e3-8f65-628b2a2141b5"]
+---
+time 1610645635
+old [description:"IoT SOA errepasatu" entry:"1608549515" modified:"1608549515" status:"pending" uuid:"8d9c23e2-46cb-4278-a0e5-35a04a559618"]
+new [description:"IoT SOA errepasatu" end:"1610645635" entry:"1608549515" modified:"1610645635" status:"completed" uuid:"8d9c23e2-46cb-4278-a0e5-35a04a559618"]
+---
+time 1610693996
+old [description:"Anderrek eginiko ikasgai osagarriena gainbegiratu eta igo" due:"1590789600" entry:"1588775003" modified:"1589317127" project:"Irakaskuntza.MACC" status:"pending" tags:"billable" uuid:"fef8dc48-7a69-419a-ae31-7863e2d1b889"]
+new [description:"Anderrek eginiko ikasgai osagarriena gainbegiratu eta igo" due:"1590789600" entry:"1588775003" modified:"1610693996" project:"Irakaskuntza.MACC" status:"waiting" tags:"billable" uuid:"fef8dc48-7a69-419a-ae31-7863e2d1b889" wait:"1617055200"]
+---
+time 1610694006
+old [description:"2. seihilekoko ordutegiak deskargetan" due:"1607724000" entry:"1606927867" modified:"1606989917" status:"pending" uuid:"f4b612dc-dcd9-4210-8619-29367eaecc15"]
+new [description:"2. seihilekoko ordutegiak deskargetan" due:"1607724000" end:"1610694006" entry:"1606927867" modified:"1610694006" status:"completed" uuid:"f4b612dc-dcd9-4210-8619-29367eaecc15"]
+---
+time 1610694882
+old [description:"Backup to Dropbox" entry:"1603188931" modified:"1603188931" status:"pending" uuid:"d6baf98a-9d27-48c6-b85a-630eb1f13f2e"]
+new [description:"Aurkitu Dropbox-era backupa egiteko era" entry:"1603188931" modified:"1610694882" status:"pending" uuid:"d6baf98a-9d27-48c6-b85a-630eb1f13f2e"]
+---
+time 1610696408
+new [description:"Eguneratu dotfileak eta VIT .vit\/config.ini gehitu" entry:"1610696408" modified:"1610696408" status:"pending" uuid:"72e35eae-4bcb-485b-9ba0-bc55184a5cf1"]
+---
+time 1610696739
+new [description:"Dokumentatu konpetentzia transbertsalen kalkulua" entry:"1610696739" modified:"1610696739" status:"pending" uuid:"3a358a4b-4658-44f7-8669-bbb8ff197566"]
+---
+time 1610698809
+old [description:"Dokumentatu konpetentzia transbertsalen kalkulua" entry:"1610696739" modified:"1610696739" status:"pending" uuid:"3a358a4b-4658-44f7-8669-bbb8ff197566"]
+new [description:"Dokumentatu konpetentzia transbertsalen kalkulua" end:"1610698809" entry:"1610696739" modified:"1610698809" status:"deleted" uuid:"3a358a4b-4658-44f7-8669-bbb8ff197566"]
+---
+time 1610699458
+old [description:"Konpetentzia tranbertsalen kalkulu-orria sortu" entry:"1608496736" modified:"1608496736" status:"pending" uuid:"9dc2f2ba-0ab1-48c6-8d73-179a4ca4789b"]
+new [description:"Konpetentzia tranbertsalen kalkulu-orria sortu" end:"1610699458" entry:"1608496736" modified:"1610699458" status:"deleted" uuid:"9dc2f2ba-0ab1-48c6-8d73-179a4ca4789b"]
+---
+time 1610699488
+new [description:"POPBLrako ebaluaziorako kalkulu-orriak sortu" entry:"1610699488" modified:"1610699488" status:"pending" uuid:"c77d653d-f6b6-4085-b803-7163413a301d"]
+---
+time 1610715748
+new [description:"MACC ikasleei Belbin lanketa egiteko eskatu" entry:"1610715748" modified:"1610715748" status:"pending" uuid:"e11ae58a-0030-4861-af36-46051003d1e9"]
+---
+time 1610715767
+old [description:"MACC ikasleei Belbin lanketa egiteko eskatu" entry:"1610715748" modified:"1610715748" status:"pending" uuid:"e11ae58a-0030-4861-af36-46051003d1e9"]
+new [annotation_1610715767:"Mail: https:\/\/mail.google.com\/mail\/u\/0\/#inbox\/FMfcgxwKkRMtthHXPMxqhpKhrwPSmbzg" description:"MACC ikasleei Belbin lanketa egiteko eskatu" entry:"1610715748" modified:"1610715767" status:"pending" uuid:"e11ae58a-0030-4861-af36-46051003d1e9"]
+---
+time 1610715838
+old [annotation_1610715767:"Mail: https:\/\/mail.google.com\/mail\/u\/0\/#inbox\/FMfcgxwKkRMtthHXPMxqhpKhrwPSmbzg" description:"MACC ikasleei Belbin lanketa egiteko eskatu" entry:"1610715748" modified:"1610715767" status:"pending" uuid:"e11ae58a-0030-4861-af36-46051003d1e9"]
+new [annotation_1610715767:"Mail: Fwd: Actividad no evaluable" description:"MACC ikasleei Belbin lanketa egiteko eskatu" entry:"1610715748" modified:"1610715838" status:"waiting" uuid:"e11ae58a-0030-4861-af36-46051003d1e9" wait:"1611925367"]
+---
+time 1610729751
+new [description:"Ekaineko GBL deskargu partziala eginarazi" entry:"1610729751" modified:"1610729751" status:"pending" uuid:"b80ad413-686b-439d-aa5a-e2c6a2308348"]
+---
+time 1610729786
+old [description:"Ekaineko GBL deskargu partziala eginarazi" entry:"1610729751" modified:"1610729751" status:"pending" uuid:"b80ad413-686b-439d-aa5a-e2c6a2308348"]
+new [annotation_1610729755:"Mail from Osane: Ingeniaritza Informatika GBL tutoreok" description:"Ekaineko GBL deskargu partziala eginarazi" entry:"1610729751" modified:"1610729786" status:"waiting" uuid:"b80ad413-686b-439d-aa5a-e2c6a2308348" wait:"1620597600"]
+---
+time 1610729800
+old [description:"POPBLrako ebaluaziorako kalkulu-orriak sortu" entry:"1610699488" modified:"1610699488" status:"pending" uuid:"c77d653d-f6b6-4085-b803-7163413a301d"]
+new [description:"MACC POPBLrako ebaluaziorako kalkulu-orriak sortu" entry:"1610699488" modified:"1610729800" status:"pending" uuid:"c77d653d-f6b6-4085-b803-7163413a301d"]
+---
+time 1611044854
+new [description:"Deitu Berrizera" entry:"1611044854" modified:"1611044854" status:"pending" uuid:"68bb7d87-cf0a-464e-a47d-be12ddba3e81"]
+---
+time 1611053516
+old [description:"Deitu Berrizera" entry:"1611044854" modified:"1611044854" status:"pending" uuid:"68bb7d87-cf0a-464e-a47d-be12ddba3e81"]
+new [description:"Deitu Berrizera" end:"1611053516" entry:"1611044854" modified:"1611053516" status:"completed" uuid:"68bb7d87-cf0a-464e-a47d-be12ddba3e81"]
+---
+time 1611159298
+new [description:"Instalatu Boofuzz IBATeko ordenagailuan" entry:"1611159298" modified:"1611159298" status:"pending" uuid:"72c6460b-2e4c-4b67-b06f-0444860ae8c5"]
+---
+time 1611161316
+new [description:"iBolt seriekoa begiratu" entry:"1611161316" modified:"1611161316" status:"pending" uuid:"44872df8-e354-4c11-833f-751fb6f12611"]
+---
+time 1611213580
+new [description:"MACC POPBLrako aurkezpen eta defentsen kalendarioa sortu" entry:"1611213580" modified:"1611213580" status:"pending" uuid:"9fcd318b-154b-4c4b-b819-d94e82ae10ed"]
+---
+time 1611300081
+new [description:"Irakasleen inkesten datuak landu FL artikulurako" entry:"1611300081" modified:"1611300081" status:"pending" uuid:"88dae0d7-89da-4d7a-af17-112745018064"]
+---
+time 1611334997
+old [description:"MACC POPBLrako aurkezpen eta defentsen kalendarioa sortu" entry:"1611213580" modified:"1611213580" status:"pending" uuid:"9fcd318b-154b-4c4b-b819-d94e82ae10ed"]
+new [description:"MACC POPBLrako aurkezpen eta defentsen kalendarioa sortu" end:"1611334997" entry:"1611213580" modified:"1611334997" status:"completed" uuid:"9fcd318b-154b-4c4b-b819-d94e82ae10ed"]
+---
+time 1611587420
+new [description:"Errebisatu ITELE kargak" entry:"1611587420" modified:"1611587420" status:"pending" uuid:"afb775bb-bde8-4aa1-b0c3-c362791b0f44"]
+---
+time 1611587452
+new [description:"Bidali errekisitoen dokumentuak eta ATL profilak Imanoli" entry:"1611587452" modified:"1611587452" status:"pending" uuid:"6d6c4b01-7472-4a5a-82fb-0fefcc31f45a"]
+---
+time 1611590359
+new [description:"Plan de desarrollo de area bete zutabeak" entry:"1611590359" modified:"1611590359" status:"pending" uuid:"ac1f0730-bbc4-4cb1-ac6d-10cfd6be06da"]
+---
+time 1611652354
+new [description:"Auditoriak egin ATL dispositiboei" entry:"1611652354" modified:"1611652354" status:"pending" uuid:"3393cffb-dc54-4ebb-95d5-0a0a59682a70"]
+---
+time 1611657195
+old [description:"Errebisatu ITELE kargak" entry:"1611587420" modified:"1611587420" status:"pending" uuid:"afb775bb-bde8-4aa1-b0c3-c362791b0f44"]
+new [description:"Errebisatu ITELE kargak" end:"1611657195" entry:"1611587420" modified:"1611657195" status:"completed" uuid:"afb775bb-bde8-4aa1-b0c3-c362791b0f44"]
+---
+time 1611661414
+new [description:"Irakurri Datos en la aplicación dok Openinac" entry:"1611661414" modified:"1611661414" status:"pending" uuid:"e0769374-ef3c-438d-bfc0-3b534d48bc44"]
+---
+time 1611784121
+old [description:"MACC POPBLrako ebaluaziorako kalkulu-orriak sortu" entry:"1610699488" modified:"1610729800" status:"pending" uuid:"c77d653d-f6b6-4085-b803-7163413a301d"]
+new [description:"MACC POPBLrako ebaluaziorako kalkulu-orriak sortu" end:"1611784121" entry:"1610699488" modified:"1611784121" status:"completed" uuid:"c77d653d-f6b6-4085-b803-7163413a301d"]
+---
+time 1612334175
+new [description:"Maevari eskatu informazio gehiago CEH-ri buruz" entry:"1612334175" modified:"1612334175" status:"pending" uuid:"9cecf523-fb59-4255-b8b2-d18f234942e3"]
+---
+time 1612334207
+new [description:"POPBLa zuzendu" entry:"1612334207" modified:"1612334207" status:"pending" uuid:"24f89d1d-c838-4080-bd08-a6b7177c7a4d"]
+---
+time 1612429347
+new [description:"TLS eta gutun digitalen kontzeptua sartu klasean" entry:"1612429347" modified:"1612429347" status:"pending" uuid:"7dea5398-f579-4158-85ff-43072984d404"]
+---
+time 1612431049
+new [description:"Inprimatu eta eskaneatu firmatuta fakturazio termikoa" entry:"1612431049" modified:"1612431049" status:"pending" uuid:"38a00ab6-03a0-4776-937b-5f3acd5b3d9c"]
+---
+time 1612456912
+old [description:"POPBLa zuzendu" entry:"1612334207" modified:"1612334207" status:"pending" uuid:"24f89d1d-c838-4080-bd08-a6b7177c7a4d"]
+new [description:"POPBLa zuzendu" end:"1612456912" entry:"1612334207" modified:"1612456912" status:"completed" uuid:"24f89d1d-c838-4080-bd08-a6b7177c7a4d"]
+---
+time 1612456917
+old [description:"Maevari eskatu informazio gehiago CEH-ri buruz" entry:"1612334175" modified:"1612334175" status:"pending" uuid:"9cecf523-fb59-4255-b8b2-d18f234942e3"]
+new [description:"Maevari eskatu informazio gehiago CEH-ri buruz" end:"1612456917" entry:"1612334175" modified:"1612456917" status:"completed" uuid:"9cecf523-fb59-4255-b8b2-d18f234942e3"]
+---
+time 1612456922
+old [description:"Irakurri Datos en la aplicación dok Openinac" entry:"1611661414" modified:"1611661414" status:"pending" uuid:"e0769374-ef3c-438d-bfc0-3b534d48bc44"]
+new [description:"Irakurri Datos en la aplicación dok Openinac" end:"1612456922" entry:"1611661414" modified:"1612456922" status:"completed" uuid:"e0769374-ef3c-438d-bfc0-3b534d48bc44"]
+---
+time 1612456929
+old [description:"Irakasleen inkesten datuak landu FL artikulurako" entry:"1611300081" modified:"1611300081" status:"pending" uuid:"88dae0d7-89da-4d7a-af17-112745018064"]
+new [description:"Irakasleen inkesten datuak landu FL artikulurako" end:"1612456929" entry:"1611300081" modified:"1612456929" status:"completed" uuid:"88dae0d7-89da-4d7a-af17-112745018064"]
+---
+time 1612534543
+new [description:"Konpondu infosecera sarrera" entry:"1612534543" modified:"1612534543" status:"pending" uuid:"847d76c3-d8ad-4152-8a95-bf8d23b39bec"]
+---
+time 1612767667
+old [description:"Konpondu infosecera sarrera" entry:"1612534543" modified:"1612534543" status:"pending" uuid:"847d76c3-d8ad-4152-8a95-bf8d23b39bec"]
+new [description:"Konpondu infosecera sarrera" end:"1612767667" entry:"1612534543" modified:"1612767667" status:"completed" uuid:"847d76c3-d8ad-4152-8a95-bf8d23b39bec"]
+---
+time 1612769498
+old [description:"Inprimatu eta eskaneatu firmatuta fakturazio termikoa" entry:"1612431049" modified:"1612431049" status:"pending" uuid:"38a00ab6-03a0-4776-937b-5f3acd5b3d9c"]
+new [description:"Inprimatu eta eskaneatu firmatuta fakturazio termikoa" end:"1612769498" entry:"1612431049" modified:"1612769498" status:"completed" uuid:"38a00ab6-03a0-4776-937b-5f3acd5b3d9c"]
+---
+time 1612785487
+new [description:"Aitor Landari idatzi ea zelan hasi den GBLa" entry:"1612785487" modified:"1612785487" status:"pending" uuid:"78802cd4-9fbb-489a-b6d4-25140303211c"]
+---
+time 1612785491
+old [annotation_1610715767:"Mail: Fwd: Actividad no evaluable" description:"MACC ikasleei Belbin lanketa egiteko eskatu" entry:"1610715748" modified:"1610715838" status:"pending" uuid:"e11ae58a-0030-4861-af36-46051003d1e9"]
+new [annotation_1610715767:"Mail: Fwd: Actividad no evaluable" description:"MACC ikasleei Belbin lanketa egiteko eskatu" end:"1612785491" entry:"1610715748" modified:"1612785491" status:"completed" uuid:"e11ae58a-0030-4861-af36-46051003d1e9"]
+---
+time 1612785510
+old [description:"Aitor Landari idatzi ea zelan hasi den GBLa" entry:"1612785487" modified:"1612785487" status:"pending" uuid:"78802cd4-9fbb-489a-b6d4-25140303211c"]
+new [description:"Aitor Landari idatzi ea zelan hasi den GBLa" entry:"1612785487" modified:"1612785510" status:"waiting" uuid:"78802cd4-9fbb-489a-b6d4-25140303211c" wait:"1614553200"]
+---
+time 1612785642
+new [description:"Aitor Landa konpetentziak, planifikazioa eta pliegoak" entry:"1612785642" modified:"1612785642" status:"pending" uuid:"2cc79913-6ab1-467c-a739-d31b3c7c523d"]
+---
+time 1612785664
+old [description:"Aitor Landa konpetentziak, planifikazioa eta pliegoak" entry:"1612785642" modified:"1612785642" status:"pending" uuid:"2cc79913-6ab1-467c-a739-d31b3c7c523d"]
+new [description:"Aitor Landa konpetentziak, planifikazioa eta pliegoak" entry:"1612785642" modified:"1612785664" status:"waiting" uuid:"2cc79913-6ab1-467c-a739-d31b3c7c523d" wait:"1615071600"]
+---
+time 1612785670
+new [description:"Aitor Landa deskargua" entry:"1612785670" modified:"1612785670" status:"pending" uuid:"9960a4d5-8233-4926-9886-76f4effa1dfc"]
+---
+time 1612785694
+old [description:"Aitor Landa deskargua" entry:"1612785670" modified:"1612785670" status:"pending" uuid:"9960a4d5-8233-4926-9886-76f4effa1dfc"]
+new [description:"Aitor Landa deskargua" entry:"1612785670" modified:"1612785694" status:"waiting" uuid:"9960a4d5-8233-4926-9886-76f4effa1dfc" wait:"1617228000"]
+---
+time 1612789166
+new [description:"Idatzi testua ebaluazioa FL artikulurako" entry:"1612789166" modified:"1612789166" status:"pending" uuid:"ff0eeec9-930d-4efa-b788-1e5beb85c24a"]
+---
+time 1612820300
+new [description:"PRL dokumentua ikusi ea bete duten GBL" entry:"1612820300" modified:"1612820300" status:"pending" uuid:"105a38a6-9964-42b4-8dd5-77ec30829195"]
+---
+time 1612865358
+old [description:"PRL dokumentua ikusi ea bete duten GBL" entry:"1612820300" modified:"1612820300" status:"pending" uuid:"105a38a6-9964-42b4-8dd5-77ec30829195"]
+new [description:"PRL dokumentua ikusi ea bete duten GBL" end:"1612865358" entry:"1612820300" modified:"1612865358" status:"completed" uuid:"105a38a6-9964-42b4-8dd5-77ec30829195"]
+---
+time 1612877969
+new [description:"POPBL poster aldaketa begiratu eta talden arazoak begiratu" entry:"1612877969" modified:"1612877969" status:"pending" uuid:"7890b722-d86e-46eb-9596-cb604b4e795f"]
+---
+time 1612882223
+old [description:"TLS eta gutun digitalen kontzeptua sartu klasean" entry:"1612429347" modified:"1612429347" status:"pending" uuid:"7dea5398-f579-4158-85ff-43072984d404"]
+new [description:"TLS eta gutun digitalen kontzeptua sartu klasean" end:"1612882223" entry:"1612429347" modified:"1612882223" status:"completed" uuid:"7dea5398-f579-4158-85ff-43072984d404"]
+---
+time 1612882225
+old [description:"Plan de desarrollo de area bete zutabeak" entry:"1611590359" modified:"1611590359" status:"pending" uuid:"ac1f0730-bbc4-4cb1-ac6d-10cfd6be06da"]
+new [description:"Plan de desarrollo de area bete zutabeak" end:"1612882225" entry:"1611590359" modified:"1612882225" status:"completed" uuid:"ac1f0730-bbc4-4cb1-ac6d-10cfd6be06da"]
+---
+time 1613387587
+old [description:"POPBL poster aldaketa begiratu eta talden arazoak begiratu" entry:"1612877969" modified:"1612877969" status:"pending" uuid:"7890b722-d86e-46eb-9596-cb604b4e795f"]
+new [description:"POPBL poster aldaketa begiratu eta talden arazoak begiratu" end:"1613387587" entry:"1612877969" modified:"1613387587" status:"completed" uuid:"7890b722-d86e-46eb-9596-cb604b4e795f"]
+---
+time 1613387591
+old [description:"Idatzi testua ebaluazioa FL artikulurako" entry:"1612789166" modified:"1612789166" status:"pending" uuid:"ff0eeec9-930d-4efa-b788-1e5beb85c24a"]
+new [description:"Idatzi testua ebaluazioa FL artikulurako" end:"1613387591" entry:"1612789166" modified:"1613387591" status:"completed" uuid:"ff0eeec9-930d-4efa-b788-1e5beb85c24a"]
+---
+time 1613563746
+new [description:"Eguneratu OPENINAC akta" entry:"1613563746" modified:"1613563746" status:"pending" uuid:"51938d48-d295-4154-b816-387e8e7e68b5"]
+---
+time 1613569797
+new [description:"CV Elkartek EJ" entry:"1613569797" modified:"1613569797" status:"pending" uuid:"faf220ca-3f8c-4958-a5a3-145f59ea6fc7"]
+---
+time 1613658844
+new [description:"Jaurlaritza CV biak igo Dropboxera" entry:"1613658844" modified:"1613658844" status:"pending" uuid:"6c771334-bad0-4093-94ed-6e83f7b66df8"]
+---
+time 1613658935
+new [description:"Igo sarbide-kontroleko diapoak" entry:"1613658935" modified:"1613658935" status:"pending" uuid:"4ebdba4d-5513-4127-8c8b-4b1a79e6ae4b"]
+---
+time 1613729257
+new [description:"Check if in OpenSCAP an empty test (no pass) can be added" entry:"1613729257" modified:"1613729257" status:"pending" uuid:"d0f5c983-d07c-4d08-adcd-d99254912d77"]
+---
+time 1613938388
+new [description:"Ikertramoak eskatu" entry:"1613938388" modified:"1613938388" status:"pending" uuid:"07597c50-6e88-4206-9d2a-e7e02df12507"]
+---
+time 1613945193
+new [description:"PC membership CV aplikatiboan" entry:"1613945193" modified:"1613945193" status:"pending" uuid:"68ef7c65-4a23-41e1-be36-0a222bba384f"]
+---
+time 1613945217
+new [description:"IBAT delivrable" entry:"1613945217" modified:"1613945217" status:"pending" uuid:"b08a50d2-f895-4954-b583-5fa6dab062ea"]
+---
+time 1614765573
+old [description:"IBAT delivrable" entry:"1613945217" modified:"1613945217" status:"pending" uuid:"b08a50d2-f895-4954-b583-5fa6dab062ea"]
+new [description:"IBAT delivrable" end:"1614765573" entry:"1613945217" modified:"1614765573" status:"completed" uuid:"b08a50d2-f895-4954-b583-5fa6dab062ea"]
+---
+time 1614765575
+old [description:"Ikertramoak eskatu" entry:"1613938388" modified:"1613938388" status:"pending" uuid:"07597c50-6e88-4206-9d2a-e7e02df12507"]
+new [description:"Ikertramoak eskatu" end:"1614765575" entry:"1613938388" modified:"1614765575" status:"completed" uuid:"07597c50-6e88-4206-9d2a-e7e02df12507"]
+---
+time 1614765577
+old [description:"Igo sarbide-kontroleko diapoak" entry:"1613658935" modified:"1613658935" status:"pending" uuid:"4ebdba4d-5513-4127-8c8b-4b1a79e6ae4b"]
+new [description:"Igo sarbide-kontroleko diapoak" end:"1614765577" entry:"1613658935" modified:"1614765577" status:"completed" uuid:"4ebdba4d-5513-4127-8c8b-4b1a79e6ae4b"]
+---
+time 1614765579
+old [description:"Jaurlaritza CV biak igo Dropboxera" entry:"1613658844" modified:"1613658844" status:"pending" uuid:"6c771334-bad0-4093-94ed-6e83f7b66df8"]
+new [description:"Jaurlaritza CV biak igo Dropboxera" end:"1614765579" entry:"1613658844" modified:"1614765579" status:"completed" uuid:"6c771334-bad0-4093-94ed-6e83f7b66df8"]
+---
+time 1614765580
+old [description:"CV Elkartek EJ" entry:"1613569797" modified:"1613569797" status:"pending" uuid:"faf220ca-3f8c-4958-a5a3-145f59ea6fc7"]
+new [description:"CV Elkartek EJ" end:"1614765580" entry:"1613569797" modified:"1614765580" status:"completed" uuid:"faf220ca-3f8c-4958-a5a3-145f59ea6fc7"]
+---
+time 1614765583
+old [description:"Aitor Landari idatzi ea zelan hasi den GBLa" entry:"1612785487" modified:"1612785510" status:"pending" uuid:"78802cd4-9fbb-489a-b6d4-25140303211c"]
+new [description:"Aitor Landari idatzi ea zelan hasi den GBLa" end:"1614765583" entry:"1612785487" modified:"1614765583" status:"completed" uuid:"78802cd4-9fbb-489a-b6d4-25140303211c"]
+---
+time 1614787869
+new [description:"Baja eman UEUn" entry:"1614787869" modified:"1614787869" status:"pending" uuid:"494279bc-730c-47f8-865e-a3c287a83545"]
+---
+time 1615187536
+new [description:"Academia partnership irakurri CE" entry:"1615187536" modified:"1615187536" status:"pending" uuid:"76759e88-f242-4e1a-b63c-4e2add787606"]
+---
+time 1615332281
+new [description:"azterketa SEC" entry:"1615332281" modified:"1615332281" status:"pending" uuid:"d8ea5b09-a365-47c3-afc9-309a162d3292"]
+---
+time 1615389265
+old [description:"iBolt seriekoa begiratu" entry:"1611161316" modified:"1611161316" status:"pending" uuid:"44872df8-e354-4c11-833f-751fb6f12611"]
+new [description:"iBolt seriekoa begiratu" end:"1615389265" entry:"1611161316" modified:"1615389265" status:"completed" uuid:"44872df8-e354-4c11-833f-751fb6f12611"]
+---
+time 1615389269
+old [description:"Eguneratu OPENINAC akta" entry:"1613563746" modified:"1613563746" status:"pending" uuid:"51938d48-d295-4154-b816-387e8e7e68b5"]
+new [description:"Eguneratu OPENINAC akta" end:"1615389269" entry:"1613563746" modified:"1615389269" status:"completed" uuid:"51938d48-d295-4154-b816-387e8e7e68b5"]
+---
+time 1615389276
+old [description:"PC membership CV aplikatiboan" entry:"1613945193" modified:"1613945193" status:"pending" uuid:"68ef7c65-4a23-41e1-be36-0a222bba384f"]
+new [description:"PC membership CV aplikatiboan" end:"1615389276" entry:"1613945193" modified:"1615389276" status:"completed" uuid:"68ef7c65-4a23-41e1-be36-0a222bba384f"]
+---
+time 1615389281
+old [description:"Review TDSC" entry:"1610432296" modified:"1610432296" status:"pending" uuid:"3a6e4d1f-912a-45e3-8f65-628b2a2141b5"]
+new [description:"Review TDSC" end:"1615389281" entry:"1610432296" modified:"1615389281" status:"completed" uuid:"3a6e4d1f-912a-45e3-8f65-628b2a2141b5"]
+---
+time 1615389284
+old [description:"CERTIMACCerako CEH liburua gure edukiekin alderatu" entry:"1608108994" modified:"1608108994" status:"pending" uuid:"cbe83dd7-4afd-4ce6-83ff-0f175f902811"]
+new [description:"CERTIMACCerako CEH liburua gure edukiekin alderatu" end:"1615389284" entry:"1608108994" modified:"1615389284" status:"completed" uuid:"cbe83dd7-4afd-4ce6-83ff-0f175f902811"]
+---
+time 1615389290
+old [description:"I40 laborategian ze maketa behar den definitu eta Excelean jarri" entry:"1608106823" modified:"1608106823" status:"pending" uuid:"799fb703-2179-4d04-ac87-31f33ba13ffe"]
+new [description:"I40 laborategian ze maketa behar den definitu eta Excelean jarri" end:"1615389290" entry:"1608106823" modified:"1615389290" status:"deleted" uuid:"799fb703-2179-4d04-ac87-31f33ba13ffe"]
+---
+time 1615389292
+old [description:"Seihilekoko MUdle ikastaroa bete" entry:"1608040290" modified:"1608040290" status:"pending" uuid:"178bac1d-e7ca-4f7f-93e9-c569d82dae61"]
+new [description:"Seihilekoko MUdle ikastaroa bete" end:"1615389292" entry:"1608040290" modified:"1615389292" status:"completed" uuid:"178bac1d-e7ca-4f7f-93e9-c569d82dae61"]
+---
+time 1615389307
+old [description:"Aitor Landa konpetentziak, planifikazioa eta pliegoak" entry:"1612785642" modified:"1612785664" status:"pending" uuid:"2cc79913-6ab1-467c-a739-d31b3c7c523d"]
+new [description:"Aitor Landa konpetentziak, planifikazioa eta pliegoak" end:"1615389307" entry:"1612785642" modified:"1615389307" status:"completed" uuid:"2cc79913-6ab1-467c-a739-d31b3c7c523d"]
+---
+time 1615389828
+new [description:"SEC Software segurtasuna gaiko diapoak egokitu" entry:"1615389828" modified:"1615389828" status:"pending" uuid:"c04eb00b-628c-4171-a6e7-19bfc8b5b51c"]
+---
+time 1615461488
+new [description:"Joxean Koret lortu: bi ordu eta bi ordu" entry:"1615461488" modified:"1615461488" status:"pending" uuid:"e4e36a97-3969-42b6-9712-8576800af533"]
+---
+time 1615548572
+new [description:"Plan de desarrollo personal" entry:"1615548572" modified:"1615548572" status:"pending" uuid:"1412c3ca-bc49-4713-80f2-06386b699654"]
+---
+time 1615801012
+new [description:"Plannint secsoft" entry:"1615801012" modified:"1615801012" status:"pending" uuid:"3e20998c-7498-4dd2-a8ca-f7df0d921ad1"]
+---
+time 1615898524
+old [description:"Joxean Koret lortu: bi ordu eta bi ordu" entry:"1615461488" modified:"1615461488" status:"pending" uuid:"e4e36a97-3969-42b6-9712-8576800af533"]
+new [description:"Joxean Koret lortu: bi ordu eta bi ordu" end:"1615898524" entry:"1615461488" modified:"1615898524" status:"completed" uuid:"e4e36a97-3969-42b6-9712-8576800af533"]
+---
+time 1615898530
+old [description:"azterketa SEC" entry:"1615332281" modified:"1615332281" status:"pending" uuid:"d8ea5b09-a365-47c3-afc9-309a162d3292"]
+new [description:"azterketa SEC" end:"1615898530" entry:"1615332281" modified:"1615898530" status:"completed" uuid:"d8ea5b09-a365-47c3-afc9-309a162d3292"]
+---
+time 1616059423
+new [description:"Planning sec IS ordurako" entry:"1616059423" modified:"1616059423" status:"pending" uuid:"02318df4-bee2-459e-951b-611ddc22b16e"]
+---
+time 1616063068
+old [description:"SEC Software segurtasuna gaiko diapoak egokitu" entry:"1615389828" modified:"1615389828" status:"pending" uuid:"c04eb00b-628c-4171-a6e7-19bfc8b5b51c"]
+new [description:"SEC Software segurtasuna gaiko diapoak egokitu" end:"1616063068" entry:"1615389828" modified:"1616063068" status:"completed" uuid:"c04eb00b-628c-4171-a6e7-19bfc8b5b51c"]
+---
+time 1616063070
+old [description:"Academia partnership irakurri CE" entry:"1615187536" modified:"1615187536" status:"pending" uuid:"76759e88-f242-4e1a-b63c-4e2add787606"]
+new [description:"Academia partnership irakurri CE" end:"1616063070" entry:"1615187536" modified:"1616063070" status:"completed" uuid:"76759e88-f242-4e1a-b63c-4e2add787606"]
+---
+time 1616351029
+new [description:"EVEra deitu 946.620.600 eta galdetu ea dokumentazioa nola desglosatu behar den" entry:"1616351029" modified:"1616351029" status:"pending" uuid:"40e7855f-1683-4ece-b4d9-0c55908e3d39"]
+---
+time 1616351727
+old [description:"EVEra deitu 946.620.600 eta galdetu ea dokumentazioa nola desglosatu behar den" entry:"1616351029" modified:"1616351029" status:"pending" uuid:"40e7855f-1683-4ece-b4d9-0c55908e3d39"]
+new [description:"EVEra deitu 946.620.600 eta galdetu ea dokumentazioa nola desglosatu behar den eta hasitako obrena nola bideratu" entry:"1616351029" modified:"1616351727" status:"pending" uuid:"40e7855f-1683-4ece-b4d9-0c55908e3d39"]
+---
+time 1616747101
+new [description:"Begiratu segurtasun fisikoko ariketak" entry:"1616747101" modified:"1616747101" status:"pending" uuid:"cc3232f9-462f-41b5-9e82-f9b525658b8b"]
+---
+time 1617031164
+old [description:"Plan de desarrollo personal" entry:"1615548572" modified:"1615548572" status:"pending" uuid:"1412c3ca-bc49-4713-80f2-06386b699654"]
+new [description:"Plan de desarrollo personal" end:"1617031164" entry:"1615548572" modified:"1617031164" status:"completed" uuid:"1412c3ca-bc49-4713-80f2-06386b699654"]
+---
+time 1617031166
+old [description:"EVEra deitu 946.620.600 eta galdetu ea dokumentazioa nola desglosatu behar den eta hasitako obrena nola bideratu" entry:"1616351029" modified:"1616351727" status:"pending" uuid:"40e7855f-1683-4ece-b4d9-0c55908e3d39"]
+new [description:"EVEra deitu 946.620.600 eta galdetu ea dokumentazioa nola desglosatu behar den eta hasitako obrena nola bideratu" end:"1617031166" entry:"1616351029" modified:"1617031166" status:"completed" uuid:"40e7855f-1683-4ece-b4d9-0c55908e3d39"]
+---
+time 1617093717
+old [description:"Planning sec IS ordurako" entry:"1616059423" modified:"1616059423" status:"pending" uuid:"02318df4-bee2-459e-951b-611ddc22b16e"]
+new [description:"Planning sec IS ordurako" end:"1617093717" entry:"1616059423" modified:"1617093717" status:"completed" uuid:"02318df4-bee2-459e-951b-611ddc22b16e"]
+---
+time 1617094544
+new [description:"POPBL6 aurkezpena prestatu" entry:"1617094544" modified:"1617094544" status:"pending" uuid:"cb6521df-21b9-4280-88fe-aded55664574"]
+---
+time 1617101417
+new [description:"SEFI sarrera berrikusi" entry:"1617101417" modified:"1617101417" status:"pending" uuid:"caa9f63c-4cf1-4c5c-9a60-4348194e290e"]
+---
+time 1617886936
+new [description:"Konpilatu Joxeanen ariketak" entry:"1617886936" modified:"1617886936" status:"pending" uuid:"22df141b-a6e2-44fa-81f0-7fff7de79cc3"]
+---
+time 1618301849
+old [description:"Begiratu segurtasun fisikoko ariketak" entry:"1616747101" modified:"1616747101" status:"pending" uuid:"cc3232f9-462f-41b5-9e82-f9b525658b8b"]
+new [description:"Begiratu segurtasun fisikoko ariketak" end:"1618301849" entry:"1616747101" modified:"1618301849" status:"completed" uuid:"cc3232f9-462f-41b5-9e82-f9b525658b8b"]
+---
+time 1618313112
+new [description:"Joxean Doc54" entry:"1618313112" modified:"1618313112" status:"pending" uuid:"6bd1a4d3-f935-435b-a444-eb9f0f747190"]
+---
+time 1618313121
+old [description:"Aitor Landa deskargua" entry:"1612785670" modified:"1612785694" status:"pending" uuid:"9960a4d5-8233-4926-9886-76f4effa1dfc"]
+new [description:"Aitor Landa deskargua" end:"1618313121" entry:"1612785670" modified:"1618313121" status:"completed" uuid:"9960a4d5-8233-4926-9886-76f4effa1dfc"]
+---
+time 1618325337
+new [description:"DUAL ikastaroarena begiratu" entry:"1618325337" modified:"1618325337" status:"pending" uuid:"03a1f454-ecd6-4629-8f75-3337acde02a9"]
+---
+time 1618406815
+new [description:"MACC Softsec POPBL errubrikak errepasatu" entry:"1618406815" modified:"1618406815" status:"pending" uuid:"7536fa97-2882-4b37-b807-7710a5529ec8"]
+---
+time 1618406825
+old [description:"COIOTEko bertsioen CVErena begiratu" entry:"1609751352" modified:"1609751352" status:"pending" uuid:"bc0eac9f-4672-4402-aa12-469f69530ac8"]
+new [description:"COIOTEko bertsioen CVErena begiratu" end:"1618406825" entry:"1609751352" modified:"1618406825" status:"completed" uuid:"bc0eac9f-4672-4402-aa12-469f69530ac8"]
+---
+time 1618579133
+old [description:"DUAL ikastaroarena begiratu" entry:"1618325337" modified:"1618325337" status:"pending" uuid:"03a1f454-ecd6-4629-8f75-3337acde02a9"]
+new [description:"DUAL ikastaroarena begiratu" end:"1618579133" entry:"1618325337" modified:"1618579133" status:"completed" uuid:"03a1f454-ecd6-4629-8f75-3337acde02a9"]
+---
+time 1618579134
+old [description:"MACC Softsec POPBL errubrikak errepasatu" entry:"1618406815" modified:"1618406815" status:"pending" uuid:"7536fa97-2882-4b37-b807-7710a5529ec8"]
+new [description:"MACC Softsec POPBL errubrikak errepasatu" end:"1618579134" entry:"1618406815" modified:"1618579134" status:"completed" uuid:"7536fa97-2882-4b37-b807-7710a5529ec8"]
+---
+time 1618579141
+old [description:"Konpilatu Joxeanen ariketak" entry:"1617886936" modified:"1617886936" status:"pending" uuid:"22df141b-a6e2-44fa-81f0-7fff7de79cc3"]
+new [description:"Konpilatu Joxeanen ariketak" end:"1618579141" entry:"1617886936" modified:"1618579141" status:"completed" uuid:"22df141b-a6e2-44fa-81f0-7fff7de79cc3"]
+---
+time 1618579147
+old [description:"POPBL6 aurkezpena prestatu" entry:"1617094544" modified:"1617094544" status:"pending" uuid:"cb6521df-21b9-4280-88fe-aded55664574"]
+new [description:"POPBL6 aurkezpena prestatu" end:"1618579147" entry:"1617094544" modified:"1618579147" status:"completed" uuid:"cb6521df-21b9-4280-88fe-aded55664574"]
+---
+time 1618834152
+old [description:"Joxean Doc54" entry:"1618313112" modified:"1618313112" status:"pending" uuid:"6bd1a4d3-f935-435b-a444-eb9f0f747190"]
+new [description:"Joxean Doc54" end:"1618834152" entry:"1618313112" modified:"1618834152" status:"completed" uuid:"6bd1a4d3-f935-435b-a444-eb9f0f747190"]
+---
+time 1618835470
+new [description:"MACC POPBL2 SoftSec errubrika begiratu" entry:"1618835470" modified:"1618835470" status:"pending" uuid:"b3167eef-5e35-4191-8acf-f4b083ac26f9"]
+---
+time 1618848101
+new [description:"Txemari SCyD rubrika eskatu" entry:"1618848101" modified:"1618848101" status:"pending" uuid:"9a81447a-6274-4ef2-a738-bb1450268ee0"]
+---
+time 1618917481
+old [description:"Txemari SCyD rubrika eskatu" entry:"1618848101" modified:"1618848101" status:"pending" uuid:"9a81447a-6274-4ef2-a738-bb1450268ee0"]
+new [description:"Txemari SCyD rubrika eskatu" end:"1618917481" entry:"1618848101" modified:"1618917481" status:"completed" uuid:"9a81447a-6274-4ef2-a738-bb1450268ee0"]
+---
+time 1618923363
+new [description:"imugarzari idatzi: gtest CAN ahal da? test priorizazioa OK" entry:"1618923363" modified:"1618923363" status:"pending" uuid:"01f145ad-6bf4-4ada-aeca-0ef3226a4913"]
+---
+time 1618925049
+new [description:"Orona akta bidali JPri" entry:"1618925049" modified:"1618925049" status:"pending" uuid:"a732f8b8-6fdc-4bc8-9064-e4fc25ff781b"]
+---
+time 1619018262
+new [description:"Fakturazioa Orona kalkulu-orria eta aktan" entry:"1619018262" modified:"1619018262" status:"pending" uuid:"8eb08f44-208a-40ef-b17f-a03588610525"]
+---
+time 1619037082
+new [description:"Akta OPENINAC bilera" entry:"1619037082" modified:"1619037082" status:"pending" uuid:"54ac349f-2b63-4b3c-a5c0-93649bab4412"]
+---
+time 1619091321
+old [description:"imugarzari idatzi: gtest CAN ahal da? test priorizazioa OK" entry:"1618923363" modified:"1618923363" status:"pending" uuid:"01f145ad-6bf4-4ada-aeca-0ef3226a4913"]
+new [description:"imugarzari idatzi: gtest CAN ahal da? test priorizazioa OK" end:"1619091321" entry:"1618923363" modified:"1619091321" status:"completed" uuid:"01f145ad-6bf4-4ada-aeca-0ef3226a4913"]
+---
+time 1619095251
+old [description:"SEFI sarrera berrikusi" entry:"1617101417" modified:"1617101417" status:"pending" uuid:"caa9f63c-4cf1-4c5c-9a60-4348194e290e"]
+new [description:"SEFI sarrera berrikusi" end:"1619095251" entry:"1617101417" modified:"1619095251" status:"deleted" uuid:"caa9f63c-4cf1-4c5c-9a60-4348194e290e"]
+---
+time 1619095262
+new [description:"SEFI sarrera eta teacher berrikusi" entry:"1619095262" modified:"1619095262" status:"pending" uuid:"af02ec3f-16c4-480e-83cb-7ffdfc17d6a5"]
+---
+time 1619155665
+new [description:"Identifikatu EC-Council AP izateko eman beharreko pausuak etxe barruan" entry:"1619155665" modified:"1619155665" status:"pending" uuid:"6c988de6-9da1-4f4d-a9fe-525f42cb8792"]
+---
+time 1619156541
+new [description:"Idatzi finlandesei ea OA zer" entry:"1619156541" modified:"1619156541" status:"pending" uuid:"65895b8e-d08d-465b-a6a7-b571f79ddca1"]
+---
+time 1619167418
+new [description:"Arazoaren aurkezpena aurkezteko kalendarioa" entry:"1619167418" modified:"1619167418" status:"pending" uuid:"b3f656dd-1d91-4bbd-a414-a5f0a3f781ff"]
+---
+time 1619169975
+new [description:"POPBL errubriken taula egin" entry:"1619169975" modified:"1619169975" status:"pending" uuid:"29e8e17a-8ecc-4995-bbe4-d32d9af7112f"]
+---
+time 1619178445
+old [description:"Arazoaren aurkezpena aurkezteko kalendarioa" entry:"1619167418" modified:"1619167418" status:"pending" uuid:"b3f656dd-1d91-4bbd-a414-a5f0a3f781ff"]
+new [description:"Arazoaren aurkezpena aurkezteko kalendarioa" end:"1619178445" entry:"1619167418" modified:"1619178445" status:"completed" uuid:"b3f656dd-1d91-4bbd-a414-a5f0a3f781ff"]
+---
+time 1619180918
+old [description:"Idatzi finlandesei ea OA zer" entry:"1619156541" modified:"1619156541" status:"pending" uuid:"65895b8e-d08d-465b-a6a7-b571f79ddca1"]
+new [description:"Idatzi finlandesei ea OA zer" end:"1619180918" entry:"1619156541" modified:"1619180918" status:"completed" uuid:"65895b8e-d08d-465b-a6a7-b571f79ddca1"]
+---
+time 1619181142
+new [description:"RECSI paperra erregistratu eskola" entry:"1619181142" modified:"1619181142" status:"pending" uuid:"8e8503f9-1c7b-40dd-bdd2-b78a3cff96ca"]
+---
+time 1619182979
+old [description:"SEFI sarrera eta teacher berrikusi" entry:"1619095262" modified:"1619095262" status:"pending" uuid:"af02ec3f-16c4-480e-83cb-7ffdfc17d6a5"]
+new [description:"SEFI sarrera eta teacher berrikusi" end:"1619182979" entry:"1619095262" modified:"1619182979" status:"completed" uuid:"af02ec3f-16c4-480e-83cb-7ffdfc17d6a5"]
+---
+time 1619183522
+old [description:"Akta OPENINAC bilera" entry:"1619037082" modified:"1619037082" status:"pending" uuid:"54ac349f-2b63-4b3c-a5c0-93649bab4412"]
+new [description:"Akta OPENINAC bilera" end:"1619183522" entry:"1619037082" modified:"1619183522" status:"completed" uuid:"54ac349f-2b63-4b3c-a5c0-93649bab4412"]
+---
+time 1619183524
+old [description:"Fakturazioa Orona kalkulu-orria eta aktan" entry:"1619018262" modified:"1619018262" status:"pending" uuid:"8eb08f44-208a-40ef-b17f-a03588610525"]
+new [description:"Fakturazioa Orona kalkulu-orria eta aktan" end:"1619183524" entry:"1619018262" modified:"1619183524" status:"completed" uuid:"8eb08f44-208a-40ef-b17f-a03588610525"]
+---
+time 1619183528
+old [description:"MACC POPBL2 SoftSec errubrika begiratu" entry:"1618835470" modified:"1618835470" status:"pending" uuid:"b3167eef-5e35-4191-8acf-f4b083ac26f9"]
+new [description:"MACC POPBL2 SoftSec errubrika begiratu" end:"1619183528" entry:"1618835470" modified:"1619183528" status:"completed" uuid:"b3167eef-5e35-4191-8acf-f4b083ac26f9"]
+---
+time 1619184905
+old [description:"Orona ATL akta" entry:"1608032536" modified:"1608032536" status:"pending" uuid:"658e2078-027e-4be7-8233-9cb4d2dd35d1"]
+new [description:"Orona ATL akta" end:"1619184905" entry:"1608032536" modified:"1619184905" status:"completed" uuid:"658e2078-027e-4be7-8233-9cb4d2dd35d1"]
+---
+time 1619299498
+new [description:"Sareflix korreoak bideratu hamahirura" entry:"1619299498" modified:"1619299498" status:"pending" uuid:"cf14194a-49ca-49d2-afce-937e9a494684"]
+---
+time 1619440278
+old [description:"RECSI paperra erregistratu eskola" entry:"1619181142" modified:"1619181142" status:"pending" uuid:"8e8503f9-1c7b-40dd-bdd2-b78a3cff96ca"]
+new [description:"RECSI paperra erregistratu eskola" end:"1619440278" entry:"1619181142" modified:"1619440278" status:"completed" uuid:"8e8503f9-1c7b-40dd-bdd2-b78a3cff96ca"]
+---
+time 1619440327
+old [description:"Baja eman UEUn" entry:"1614787869" modified:"1614787869" status:"pending" uuid:"494279bc-730c-47f8-865e-a3c287a83545"]
+new [description:"Baja eman UEUn" entry:"1614787869" modified:"1619440327" status:"waiting" uuid:"494279bc-730c-47f8-865e-a3c287a83545" wait:"1609542000"]
+---
+time 1619444005
+new [description:"Security reqs softsec macc" entry:"1619444005" modified:"1619444005" status:"pending" uuid:"c8b855a4-0f66-43a5-a0c5-724dd110721e"]
+---
+time 1619446858
+new [description:"Secure exceptions hartu SS3P liburutik Softsec" entry:"1619446858" modified:"1619446858" status:"pending" uuid:"8656b172-961d-4fc1-96b4-ccc0f8e82afe"]
+---
+time 1619592769
+new [description:"GBLen 2. deskargu partziala zehaztu" entry:"1619592769" modified:"1619592769" status:"pending" uuid:"77f4ec5c-ce70-497b-954f-5d1710995412"]
+---
+time 1619617050
+new [description:"Urkiren TFMa gainbegiratu" entry:"1619617050" modified:"1619617050" status:"pending" uuid:"470f00c0-c831-4a64-8853-f18aa3f76d43"]
+---
+time 1619617110
+new [description:"Aitor Osari erakutsi Oronako plaka" entry:"1619617110" modified:"1619617110" status:"pending" uuid:"0d3fb5dd-d47a-4f60-897f-a60135bad322"]
+---
+time 1619619017
+new [description:"Graduko POPBL irizpideak bateratu" entry:"1619619017" modified:"1619619017" status:"pending" uuid:"b193b892-44db-41de-a169-66f3e8179767"]
+---
+time 1620021376
+old [description:"Security reqs softsec macc" entry:"1619444005" modified:"1619444005" status:"pending" uuid:"c8b855a4-0f66-43a5-a0c5-724dd110721e"]
+new [description:"Security reqs softsec macc" end:"1620021375" entry:"1619444005" modified:"1620021376" status:"completed" uuid:"c8b855a4-0f66-43a5-a0c5-724dd110721e"]
+---
+time 1620021378
+old [description:"POPBL errubriken taula egin" entry:"1619169975" modified:"1619169975" status:"pending" uuid:"29e8e17a-8ecc-4995-bbe4-d32d9af7112f"]
+new [description:"POPBL errubriken taula egin" end:"1620021378" entry:"1619169975" modified:"1620021378" status:"completed" uuid:"29e8e17a-8ecc-4995-bbe4-d32d9af7112f"]
+---
+time 1620026637
+new [description:"IJCIP review" entry:"1620026637" modified:"1620026637" status:"pending" uuid:"38fe7ff0-ffe0-4a54-b0a1-dc15baf41f16"]
+---
+time 1620026665
+old [description:"IJCIP review" entry:"1620026637" modified:"1620026637" status:"pending" uuid:"38fe7ff0-ffe0-4a54-b0a1-dc15baf41f16"]
+new [description:"IJCIP review" due:"1622584740" entry:"1620026637" modified:"1620026665" status:"pending" uuid:"38fe7ff0-ffe0-4a54-b0a1-dc15baf41f16"]
+---
+time 1620026670
+old [description:"Anderrek eginiko ikasgai osagarriena gainbegiratu eta igo" due:"1590789600" entry:"1588775003" modified:"1610693996" project:"Irakaskuntza.MACC" status:"pending" tags:"billable" uuid:"fef8dc48-7a69-419a-ae31-7863e2d1b889"]
+new [description:"Anderrek eginiko ikasgai osagarriena gainbegiratu eta igo" due:"1590789600" end:"1620026670" entry:"1588775003" modified:"1620026670" project:"Irakaskuntza.MACC" status:"completed" tags:"billable" uuid:"fef8dc48-7a69-419a-ae31-7863e2d1b889"]
+---
+time 1620108018
+new [description:"Ikasleei komunikatu POPBL6ko erreklamazioak noiz izango diren" entry:"1620108018" modified:"1620108018" status:"pending" uuid:"231a3335-4879-41ae-a99b-516e0d2150a5"]
+---
+time 1620131110
+old [description:"Urkiren TFMa gainbegiratu" entry:"1619617050" modified:"1619617050" status:"pending" uuid:"470f00c0-c831-4a64-8853-f18aa3f76d43"]
+new [description:"Urkiren TFMa gainbegiratu" end:"1620131110" entry:"1619617050" modified:"1620131110" status:"completed" uuid:"470f00c0-c831-4a64-8853-f18aa3f76d43"]
+---
+time 1620204476
+old [description:"GBLen 2. deskargu partziala zehaztu" entry:"1619592769" modified:"1619592769" status:"pending" uuid:"77f4ec5c-ce70-497b-954f-5d1710995412"]
+new [description:"GBLen 2. deskargu partziala zehaztu" end:"1620204476" entry:"1619592769" modified:"1620204476" status:"completed" uuid:"77f4ec5c-ce70-497b-954f-5d1710995412"]
+---
+time 1620280092
+new [description:"Joxeani idatzi generacion de codigo" entry:"1620280092" modified:"1620280092" status:"pending" uuid:"556af90d-39a9-4711-a55e-4f83d6266c85"]
+---
+time 1620291640
+new [description:"wiki.vim jarri vimwiki ordez" entry:"1620291640" modified:"1620291640" status:"pending" uuid:"82fb645d-08b7-47e7-8870-4147d09e7d91"]
+---
+time 1620291747
+old [description:"Joxeani idatzi generacion de codigo" entry:"1620280092" modified:"1620280092" status:"pending" uuid:"556af90d-39a9-4711-a55e-4f83d6266c85"]
+new [description:"Joxeani idatzi generacion de codigo" end:"1620291747" entry:"1620280092" modified:"1620291747" status:"completed" uuid:"556af90d-39a9-4711-a55e-4f83d6266c85"]
+---
+time 1620294472
+new [description:"AWS Classroom-ak jarraipena egin" entry:"1620294472" modified:"1620294472" status:"pending" uuid:"ab90d59d-bdae-48da-bf1f-3336a3da75c8"]
+---
+time 1620311594
+old [description:"Plannint secsoft" entry:"1615801012" modified:"1615801012" status:"pending" uuid:"3e20998c-7498-4dd2-a8ca-f7df0d921ad1"]
+new [description:"Plannint secsoft" end:"1620311594" entry:"1615801012" modified:"1620311594" status:"completed" uuid:"3e20998c-7498-4dd2-a8ca-f7df0d921ad1"]
+---
+time 1620663835
+new [description:"Fuzz oscap" entry:"1620663835" modified:"1620663835" status:"pending" uuid:"b7ff3f76-71fb-45e5-9ef8-5d274464157b"]
+---
+time 1620891005
+old [description:"Secure exceptions hartu SS3P liburutik Softsec" entry:"1619446858" modified:"1619446858" status:"pending" uuid:"8656b172-961d-4fc1-96b4-ccc0f8e82afe"]
+new [description:"Secure exceptions hartu SS3P liburutik Softsec" end:"1620891005" entry:"1619446858" modified:"1620891005" status:"completed" uuid:"8656b172-961d-4fc1-96b4-ccc0f8e82afe"]
+---
+time 1620891007
+old [description:"Aitor Osari erakutsi Oronako plaka" entry:"1619617110" modified:"1619617110" status:"pending" uuid:"0d3fb5dd-d47a-4f60-897f-a60135bad322"]
+new [description:"Aitor Osari erakutsi Oronako plaka" end:"1620891007" entry:"1619617110" modified:"1620891007" status:"completed" uuid:"0d3fb5dd-d47a-4f60-897f-a60135bad322"]
+---
+time 1620891017
+new [description:"Eraman bekadunari Oronako plakak" entry:"1620891017" modified:"1620891017" status:"pending" uuid:"7624ecee-7948-4868-a1df-8494f27df835"]
+---
+time 1620891051
+old [annotation_1610729755:"Mail from Osane: Ingeniaritza Informatika GBL tutoreok" description:"Ekaineko GBL deskargu partziala eginarazi" entry:"1610729751" modified:"1610729786" status:"pending" uuid:"b80ad413-686b-439d-aa5a-e2c6a2308348"]
+new [annotation_1610729755:"Mail from Osane: Ingeniaritza Informatika GBL tutoreok" description:"Ekaineko GBL deskargu partziala eginarazi" end:"1620891051" entry:"1610729751" modified:"1620891051" status:"completed" uuid:"b80ad413-686b-439d-aa5a-e2c6a2308348"]
+---
+time 1620918746
+new [description:"Ikerketako KPrako proiektuak sartu" entry:"1620918746" modified:"1620918746" status:"pending" uuid:"a1ad4a0f-7861-4c07-b6c2-ccbfc8a1ae16"]
+---
+time 1620986102
+new [description:"Begiratu ea PROPHESYko use-casea egon ahal bada maketan" entry:"1620986102" modified:"1620986102" status:"pending" uuid:"09c329f0-477d-4f66-b6fe-615e50ad8a35"]
+---
+time 1620996168
+old [description:"AWS Classroom-ak jarraipena egin" entry:"1620294472" modified:"1620294472" status:"pending" uuid:"ab90d59d-bdae-48da-bf1f-3336a3da75c8"]
+new [description:"AWS Classroom-ak jarraipena egin" end:"1620996168" entry:"1620294472" modified:"1620996168" status:"completed" uuid:"ab90d59d-bdae-48da-bf1f-3336a3da75c8"]
+---
+time 1620996179
+old [description:"Check if in OpenSCAP an empty test (no pass) can be added" entry:"1613729257" modified:"1613729257" status:"pending" uuid:"d0f5c983-d07c-4d08-adcd-d99254912d77"]
+new [description:"Check if in OpenSCAP an empty test (no pass) can be added" end:"1620996179" entry:"1613729257" modified:"1620996179" status:"completed" uuid:"d0f5c983-d07c-4d08-adcd-d99254912d77"]
+---
+time 1621260776
+old [description:"Nola sortu DSa" entry:"1606770113" modified:"1606770113" status:"pending" uuid:"c1bc432e-b122-43c9-a672-737a9aa38bb9"]
+new [description:"Nola sortu DSa" end:"1621260776" entry:"1606770113" modified:"1621260776" status:"completed" uuid:"c1bc432e-b122-43c9-a672-737a9aa38bb9"]
+---
+time 1621260782
+old [description:"Auditoriak egin ATL dispositiboei" entry:"1611652354" modified:"1611652354" status:"pending" uuid:"3393cffb-dc54-4ebb-95d5-0a0a59682a70"]
+new [description:"Auditoriak egin ATL dispositiboei" end:"1621260782" entry:"1611652354" modified:"1621260782" status:"completed" uuid:"3393cffb-dc54-4ebb-95d5-0a0a59682a70"]
+---
+time 1621341606
+new [description:"Proiektu-biltegirako proposamenak bilatu" entry:"1621341606" modified:"1621341606" status:"pending" uuid:"a1d6ff0f-23f1-40f1-93c3-1bb9fb072224"]
+---
+time 1621342102
+new [description:"Ebidentziak igotzeko eskatu irakasleei" entry:"1621342102" modified:"1621342102" status:"pending" uuid:"d53d6712-984b-440f-ae07-3b929fe0bf86"]
+---
+time 1621342430
+new [description:"INFOR: Aztertu ikasleen jarraipen bilera" entry:"1621342430" modified:"1621342430" status:"pending" uuid:"b0b8e4c6-f614-480e-9018-502dac06cb20"]
+---
+time 1621342449
+old [description:"Ebidentziak igotzeko eskatu irakasleei" entry:"1621342102" modified:"1621342102" status:"pending" uuid:"d53d6712-984b-440f-ae07-3b929fe0bf86"]
+new [description:"INFOR: Ebidentziak igotzeko eskatu irakasleei" entry:"1621342102" modified:"1621342449" status:"pending" uuid:"d53d6712-984b-440f-ae07-3b929fe0bf86"]
+---
+time 1621342469
+old [description:"Proiektu-biltegirako proposamenak bilatu" entry:"1621341606" modified:"1621341606" status:"pending" uuid:"a1d6ff0f-23f1-40f1-93c3-1bb9fb072224"]
+new [description:"INFOR: Proiektu-biltegirako boluntarioak bilatu" entry:"1621341606" modified:"1621342469" status:"pending" uuid:"a1d6ff0f-23f1-40f1-93c3-1bb9fb072224"]
+---
+time 1621454153
+new [description:"Hodeiri LIP nota ezarri" entry:"1621454153" modified:"1621454153" status:"pending" uuid:"eae07315-53ee-4ded-ae06-c43dba242c5b"]
+---
+time 1621454156
+old [description:"IJCIP review" due:"1622584740" entry:"1620026637" modified:"1620026665" status:"pending" uuid:"38fe7ff0-ffe0-4a54-b0a1-dc15baf41f16"]
+new [description:"IJCIP review" due:"1622584740" end:"1621454156" entry:"1620026637" modified:"1621454156" status:"completed" uuid:"38fe7ff0-ffe0-4a54-b0a1-dc15baf41f16"]
+---
+time 1621596136
+old [description:"ATL: Testak beste dispositiboetan" entry:"1606665991" modified:"1606665991" status:"pending" uuid:"9a5b23ad-17b9-4d02-a4e8-ffab931a216e"]
+new [description:"ATL: Testak beste dispositiboetan" end:"1621596136" entry:"1606665991" modified:"1621596136" status:"completed" uuid:"9a5b23ad-17b9-4d02-a4e8-ffab931a216e"]
+---
+time 1621599317
+old [description:"Hodeiri LIP nota ezarri" entry:"1621454153" modified:"1621454153" status:"pending" uuid:"eae07315-53ee-4ded-ae06-c43dba242c5b"]
+new [description:"Hodeiri LIP nota ezarri" end:"1621599317" entry:"1621454153" modified:"1621599317" status:"completed" uuid:"eae07315-53ee-4ded-ae06-c43dba242c5b"]
+---
+time 1621599318
+old [description:"INFOR: Proiektu-biltegirako boluntarioak bilatu" entry:"1621341606" modified:"1621342469" status:"pending" uuid:"a1d6ff0f-23f1-40f1-93c3-1bb9fb072224"]
+new [description:"INFOR: Proiektu-biltegirako boluntarioak bilatu" end:"1621599318" entry:"1621341606" modified:"1621599318" status:"completed" uuid:"a1d6ff0f-23f1-40f1-93c3-1bb9fb072224"]
+---
+time 1621835858
+new [description:"Fuzzing graded lab zuzendu" entry:"1621835858" modified:"1621835858" status:"pending" uuid:"ae29db6b-77c1-4b0c-9851-1a9366d6f298"]
+---
+time 1621838972
+old [description:"INFOR: Ebidentziak igotzeko eskatu irakasleei" entry:"1621342102" modified:"1621342449" status:"pending" uuid:"d53d6712-984b-440f-ae07-3b929fe0bf86"]
+new [description:"INFOR: Ebidentziak igotzeko eskatu irakasleei" end:"1621838972" entry:"1621342102" modified:"1621838972" status:"completed" uuid:"d53d6712-984b-440f-ae07-3b929fe0bf86"]
+---
+time 1622015922
+old [description:"Orona akta bidali JPri" entry:"1618925049" modified:"1618925049" status:"pending" uuid:"a732f8b8-6fdc-4bc8-9064-e4fc25ff781b"]
+new [description:"Orona akta bidali JPri" end:"1622015922" entry:"1618925049" modified:"1622015922" status:"completed" uuid:"a732f8b8-6fdc-4bc8-9064-e4fc25ff781b"]
+---
+time 1622033316
+new [description:"Gehitu uboot requisitoa ATLn" entry:"1622033316" modified:"1622033316" status:"pending" uuid:"4354dad1-a2de-4f74-a167-195003f09373"]
+---
+time 1622095095
+old [description:"Eguneratu dotfileak eta VIT .vit\/config.ini gehitu" entry:"1610696408" modified:"1610696408" status:"pending" uuid:"72e35eae-4bcb-485b-9ba0-bc55184a5cf1"]
+new [description:"Eguneratu dotfileak eta VIT .vit\/config.ini gehitu" end:"1622095095" entry:"1610696408" modified:"1622095095" status:"completed" uuid:"72e35eae-4bcb-485b-9ba0-bc55184a5cf1"]
+---
+time 1622099684
+new [description:"POPBLaren berregituraketa hitz egindakoa dokumentuan sartu" entry:"1622099684" modified:"1622099684" status:"pending" uuid:"235fbf01-e4b8-4202-9b8f-9400fda29982"]
+---
+time 1622109444
+old [description:"POPBLaren berregituraketa hitz egindakoa dokumentuan sartu" entry:"1622099684" modified:"1622099684" status:"pending" uuid:"235fbf01-e4b8-4202-9b8f-9400fda29982"]
+new [description:"POPBLaren berregituraketa hitz egindakoa dokumentuan sartu" end:"1622109444" entry:"1622099684" modified:"1622109444" status:"deleted" uuid:"235fbf01-e4b8-4202-9b8f-9400fda29982"]
+---
+time 1622109449
+old [description:"Ikerketako KPrako proiektuak sartu" entry:"1620918746" modified:"1620918746" status:"pending" uuid:"a1ad4a0f-7861-4c07-b6c2-ccbfc8a1ae16"]
+new [description:"Ikerketako KPrako proiektuak sartu" end:"1622109449" entry:"1620918746" modified:"1622109449" status:"completed" uuid:"a1ad4a0f-7861-4c07-b6c2-ccbfc8a1ae16"]
+---
+time 1622197053
+new [description:"Kapazitazioa TELSEC" entry:"1622197053" modified:"1622197053" status:"pending" uuid:"3dad1d49-0faf-4a97-adb7-356ee2422ed9"]
+---
+time 1622469547
+new [description:"Akta lantalde" entry:"1622469547" modified:"1622469547" status:"pending" uuid:"f4f6303f-c03c-4bff-a319-27709e90bc11"]
+---
+time 1622527357
+new [description:"FL estatistikak gehitu" entry:"1622527357" modified:"1622527357" status:"pending" uuid:"fd07e89e-d8c6-419a-b892-8816c7fc4761"]
+---
+time 1622531240
+new [description:"Jokin Tink ariketa" entry:"1622531240" modified:"1622531240" status:"pending" uuid:"9b2bb7c4-ba28-448d-8b81-1c78c62c1b1b"]
+---
+time 1622557898
+old [description:"Jokin Tink ariketa" entry:"1622531240" modified:"1622531240" status:"pending" uuid:"9b2bb7c4-ba28-448d-8b81-1c78c62c1b1b"]
+new [description:"Jokin Tink ariketa" end:"1622557898" entry:"1622531240" modified:"1622557898" status:"completed" uuid:"9b2bb7c4-ba28-448d-8b81-1c78c62c1b1b"]
+---
+time 1622559255
+old [description:"Akta lantalde" entry:"1622469547" modified:"1622469547" status:"pending" uuid:"f4f6303f-c03c-4bff-a319-27709e90bc11"]
+new [description:"Akta lantalde" end:"1622559255" entry:"1622469547" modified:"1622559255" status:"completed" uuid:"f4f6303f-c03c-4bff-a319-27709e90bc11"]
+---
+time 1622559257
+old [description:"Kapazitazioa TELSEC" entry:"1622197053" modified:"1622197053" status:"pending" uuid:"3dad1d49-0faf-4a97-adb7-356ee2422ed9"]
+new [description:"Kapazitazioa TELSEC" end:"1622559257" entry:"1622197053" modified:"1622559257" status:"completed" uuid:"3dad1d49-0faf-4a97-adb7-356ee2422ed9"]
+---
+time 1622559259
+old [description:"Fuzzing graded lab zuzendu" entry:"1621835858" modified:"1621835858" status:"pending" uuid:"ae29db6b-77c1-4b0c-9851-1a9366d6f298"]
+new [description:"Fuzzing graded lab zuzendu" end:"1622559259" entry:"1621835858" modified:"1622559259" status:"completed" uuid:"ae29db6b-77c1-4b0c-9851-1a9366d6f298"]
+---
+time 1622624717
+new [description:"OCF informazioa igo" entry:"1622624717" modified:"1622624717" status:"pending" uuid:"10aa3ad8-d3b5-4013-8bae-abb8ef9eaf48"]
+---
+time 1623070329
+old [description:"Eraman bekadunari Oronako plakak" entry:"1620891017" modified:"1620891017" status:"pending" uuid:"7624ecee-7948-4868-a1df-8494f27df835"]
+new [description:"Eraman bekadunari Oronako plakak" end:"1623070329" entry:"1620891017" modified:"1623070329" status:"completed" uuid:"7624ecee-7948-4868-a1df-8494f27df835"]
+---
+time 1623147706
+new [description:"Bidali kuestionarioak POPBL6 ikasleei" entry:"1623147706" modified:"1623147706" status:"pending" uuid:"a81cf480-59d1-4776-a99e-a74012b661f9"]
+---
+time 1623152815
+old [description:"Begiratu ea PROPHESYko use-casea egon ahal bada maketan" entry:"1620986102" modified:"1620986102" status:"pending" uuid:"09c329f0-477d-4f66-b6fe-615e50ad8a35"]
+new [description:"Begiratu ea PROPHESYko use-casea egon ahal bada maketan" end:"1623152815" entry:"1620986102" modified:"1623152815" status:"completed" uuid:"09c329f0-477d-4f66-b6fe-615e50ad8a35"]
+---
+time 1623152819
+old [description:"Ikasleei komunikatu POPBL6ko erreklamazioak noiz izango diren" entry:"1620108018" modified:"1620108018" status:"pending" uuid:"231a3335-4879-41ae-a99b-516e0d2150a5"]
+new [description:"Ikasleei komunikatu POPBL6ko erreklamazioak noiz izango diren" end:"1623152819" entry:"1620108018" modified:"1623152819" status:"completed" uuid:"231a3335-4879-41ae-a99b-516e0d2150a5"]
+---
+time 1623152832
+new [description:"Graduko irakasleei azaldu feedbackean zer komunikatu eta zer ez" entry:"1623152832" modified:"1623152832" status:"pending" uuid:"bf6dd23c-fa5a-4643-ba8b-b037fafb8501"]
+---
+time 1623157914
+new [description:"Gaztelaniara pasatu MACC segurtasuna kurtsoa" entry:"1623157914" modified:"1623157914" status:"pending" uuid:"ce6fe9ee-4600-44d5-afae-312d5d738c04"]
+---
+time 1623165084
+old [description:"Bidali kuestionarioak POPBL6 ikasleei" entry:"1623147706" modified:"1623147706" status:"pending" uuid:"a81cf480-59d1-4776-a99e-a74012b661f9"]
+new [description:"Begiratu koebaluazio irizipdeak eta bidali kuestionarioak POPBL6 ikasleei" entry:"1623147706" modified:"1623165084" status:"pending" uuid:"a81cf480-59d1-4776-a99e-a74012b661f9"]
+---
+time 1623235109
+old [description:"FL estatistikak gehitu" entry:"1622527357" modified:"1622527357" status:"pending" uuid:"fd07e89e-d8c6-419a-b892-8816c7fc4761"]
+new [description:"FL estatistikak gehitu" end:"1623235109" entry:"1622527357" modified:"1623235109" status:"completed" uuid:"fd07e89e-d8c6-419a-b892-8816c7fc4761"]
+---
+time 1623325996
+new [description:"CRITIS papers" entry:"1623325996" modified:"1623325996" status:"pending" uuid:"78612724-afde-4c72-b38d-7386e0169a79"]
+---
+time 1623326003
+old [description:"Fuzz oscap" entry:"1620663835" modified:"1620663835" status:"pending" uuid:"b7ff3f76-71fb-45e5-9ef8-5d274464157b"]
+new [description:"Fuzz oscap" end:"1623326003" entry:"1620663835" modified:"1623326003" status:"deleted" uuid:"b7ff3f76-71fb-45e5-9ef8-5d274464157b"]
+---
+time 1623326057
+old [description:"wiki.vim jarri vimwiki ordez" entry:"1620291640" modified:"1620291640" status:"pending" uuid:"82fb645d-08b7-47e7-8870-4147d09e7d91"]
+new [description:"wiki.vim jarri vimwiki ordez" end:"1623326057" entry:"1620291640" modified:"1623326057" status:"completed" uuid:"82fb645d-08b7-47e7-8870-4147d09e7d91"]
+---
+time 1623326072
+new [description:"Memoriak ebaluatu POPBL gradua" entry:"1623326072" modified:"1623326072" status:"pending" uuid:"00fe6e89-fbc2-43fe-ba52-a66f04b0079f"]
+---
+time 1623326084
+new [description:"Defentsak zuzendu MACC POPBL" entry:"1623326084" modified:"1623326084" status:"pending" uuid:"d473dc6d-317f-4dc4-a4e4-701368d519e4"]
+---
+time 1623391803
+old [description:"Baja eman UEUn" entry:"1614787869" modified:"1619440327" status:"pending" uuid:"494279bc-730c-47f8-865e-a3c287a83545"]
+new [description:"Baja eman UEUn" entry:"1614787869" modified:"1623391803" status:"waiting" uuid:"494279bc-730c-47f8-865e-a3c287a83545" wait:"1638313200"]
+---
+time 1623391927
+new [description:"TFTari fuzzing-a egin Julenen pakete inguruan" entry:"1623391927" modified:"1623391927" status:"pending" uuid:"f533e72a-ab18-4259-8981-b8240f7479b1"]
+---
+time 1623392042
+old [description:"Gehitu uboot requisitoa ATLn" entry:"1622033316" modified:"1622033316" status:"pending" uuid:"4354dad1-a2de-4f74-a167-195003f09373"]
+new [annotation_1623392021:"Queremos que la línea serie tanto en salida como en entrada estén deshabilitadas a nivel de uboot." description:"Gehitu uboot requisitoa ATLn" entry:"1622033316" modified:"1623392042" status:"pending" uuid:"4354dad1-a2de-4f74-a167-195003f09373"]
+---
+time 1623403203
+new [description:"Xabi Etxezarreta survey-a begiratu" entry:"1623403203" modified:"1623403203" status:"pending" uuid:"ce8ace36-cf24-44bb-844a-944deb284916"]
+---
+time 1623403213
+new [description:"Maialen begiratu artikuluaren egitura" entry:"1623403213" modified:"1623403213" status:"pending" uuid:"41fd5879-9b26-408a-b11c-d305d0eca5ac"]
+---
+time 1623482321
+old [description:"Defentsak zuzendu MACC POPBL" entry:"1623326084" modified:"1623326084" status:"pending" uuid:"d473dc6d-317f-4dc4-a4e4-701368d519e4"]
+new [description:"Defentsak zuzendu MACC POPBL" end:"1623482321" entry:"1623326084" modified:"1623482321" status:"completed" uuid:"d473dc6d-317f-4dc4-a4e4-701368d519e4"]
+---
+time 1623485157
+old [description:"Memoriak ebaluatu POPBL gradua" entry:"1623326072" modified:"1623326072" status:"pending" uuid:"00fe6e89-fbc2-43fe-ba52-a66f04b0079f"]
+new [description:"Memoriak ebaluatu POPBL gradua" end:"1623485157" entry:"1623326072" modified:"1623485157" status:"completed" uuid:"00fe6e89-fbc2-43fe-ba52-a66f04b0079f"]
+---
+time 1623662339
+new [description:"Idatzi Muruari igotzeko kodea" entry:"1623662339" modified:"1623662339" status:"pending" uuid:"4c349fa4-a2d1-4234-ad68-2a7b1b9da3f2"]
+---
+time 1623664291
+new [description:"POPBL2 Add documentacion trust boundaries" entry:"1623664291" modified:"1623664291" status:"pending" uuid:"3e6af3bb-ac50-4025-b1bb-54668aad3868"]
+---
+time 1623738586
+new [description:"Gehitu POPBL6 Feedback-erako fitxa" entry:"1623738586" modified:"1623738586" status:"pending" uuid:"6c3adc44-ade7-4e1a-8e73-08588582d5a2"]
+---
+time 1623738606
+old [description:"Begiratu koebaluazio irizipdeak eta bidali kuestionarioak POPBL6 ikasleei" entry:"1623147706" modified:"1623165084" status:"pending" uuid:"a81cf480-59d1-4776-a99e-a74012b661f9"]
+new [description:"Begiratu koebaluazio irizipdeak eta bidali kuestionarioak POPBL6 ikasleei" end:"1623738606" entry:"1623147706" modified:"1623738606" status:"completed" uuid:"a81cf480-59d1-4776-a99e-a74012b661f9"]
+---
+time 1623766881
+old [description:"Idatzi Muruari igotzeko kodea" entry:"1623662339" modified:"1623662339" status:"pending" uuid:"4c349fa4-a2d1-4234-ad68-2a7b1b9da3f2"]
+new [description:"Idatzi Muruari igotzeko kodea" end:"1623766881" entry:"1623662339" modified:"1623766881" status:"completed" uuid:"4c349fa4-a2d1-4234-ad68-2a7b1b9da3f2"]
+---
+time 1623845706
+new [description:"Zuzendu arazoaren analisia POPBL6" entry:"1623845706" modified:"1623845706" status:"pending" uuid:"a8f2dca2-f68b-4c83-ba96-15787aa0957b"]
+---
+time 1623931565
+old [description:"POPBL2 Add documentacion trust boundaries" entry:"1623664291" modified:"1623664291" status:"pending" uuid:"3e6af3bb-ac50-4025-b1bb-54668aad3868"]
+new [description:"POPBL2 Add documentacion trust boundaries" end:"1623931565" entry:"1623664291" modified:"1623931565" status:"completed" uuid:"3e6af3bb-ac50-4025-b1bb-54668aad3868"]
+---
+time 1624010909
+new [description:"Markelen TFGa begiratu" entry:"1624010909" modified:"1624010909" status:"pending" uuid:"5e47fd40-ad3c-4079-88fc-0db9455f96ae"]
+---
+time 1624010926
+old [description:"Zuzendu arazoaren analisia POPBL6" entry:"1623845706" modified:"1623845706" status:"pending" uuid:"a8f2dca2-f68b-4c83-ba96-15787aa0957b"]
+new [description:"Zuzendu arazoaren analisia POPBL6" end:"1624010926" entry:"1623845706" modified:"1624010926" status:"completed" uuid:"a8f2dca2-f68b-4c83-ba96-15787aa0957b"]
+---
+time 1624011070
+old [description:"CRITIS papers" entry:"1623325996" modified:"1623325996" status:"pending" uuid:"78612724-afde-4c72-b38d-7386e0169a79"]
+new [description:"CRITIS papers" end:"1624011070" entry:"1623325996" modified:"1624011070" status:"completed" uuid:"78612724-afde-4c72-b38d-7386e0169a79"]
+---
+time 1624019911
+new [description:"Defentsak POPBL6" entry:"1624019911" modified:"1624019911" status:"pending" uuid:"ff2992cf-e165-475a-8f12-ca19b7a048e8"]
+---
+time 1624268516
+new [description:"Gehitu galdera ZAPi buruz robustezari buruz POPBL6an" entry:"1624268516" modified:"1624268516" status:"pending" uuid:"6d9ed652-e211-4401-b574-820af656aeba"]
+---
+time 1624268817
+old [description:"Gehitu galdera ZAPi buruz robustezari buruz POPBL6an" entry:"1624268516" modified:"1624268516" status:"pending" uuid:"6d9ed652-e211-4401-b574-820af656aeba"]
+new [description:"Gehitu galdera ZAPi buruz robustezari buruz POPBL6an" end:"1624268817" entry:"1624268516" modified:"1624268817" status:"completed" uuid:"6d9ed652-e211-4401-b574-820af656aeba"]
+---
+time 1624271650
+old [description:"Defentsak POPBL6" entry:"1624019911" modified:"1624019911" status:"pending" uuid:"ff2992cf-e165-475a-8f12-ca19b7a048e8"]
+new [description:"Defentsak POPBL6" end:"1624271650" entry:"1624019911" modified:"1624271650" status:"completed" uuid:"ff2992cf-e165-475a-8f12-ca19b7a048e8"]
+---
+time 1624275290
+old [description:"Gaztelaniara pasatu MACC segurtasuna kurtsoa" entry:"1623157914" modified:"1623157914" status:"pending" uuid:"ce6fe9ee-4600-44d5-afae-312d5d738c04"]
+new [description:"Gaztelaniara pasatu MACC segurtasuna kurtsoa" end:"1624275290" entry:"1623157914" modified:"1624275290" status:"completed" uuid:"ce6fe9ee-4600-44d5-afae-312d5d738c04"]
+---
+time 1624278246
+old [description:"Gehitu POPBL6 Feedback-erako fitxa" entry:"1623738586" modified:"1623738586" status:"pending" uuid:"6c3adc44-ade7-4e1a-8e73-08588582d5a2"]
+new [description:"Gehitu POPBL6 Feedback-erako fitxa" end:"1624278246" entry:"1623738586" modified:"1624278246" status:"completed" uuid:"6c3adc44-ade7-4e1a-8e73-08588582d5a2"]
+---
+time 1624278252
+old [description:"Graduko irakasleei azaldu feedbackean zer komunikatu eta zer ez" entry:"1623152832" modified:"1623152832" status:"pending" uuid:"bf6dd23c-fa5a-4643-ba8b-b037fafb8501"]
+new [description:"Graduko irakasleei azaldu feedbackean zer komunikatu eta zer ez" end:"1624278252" entry:"1623152832" modified:"1624278252" status:"completed" uuid:"bf6dd23c-fa5a-4643-ba8b-b037fafb8501"]
+---
+time 1624859485
+old [description:"Markelen TFGa begiratu" entry:"1624010909" modified:"1624010909" status:"pending" uuid:"5e47fd40-ad3c-4079-88fc-0db9455f96ae"]
+new [description:"Markelen TFGa begiratu" end:"1624859485" entry:"1624010909" modified:"1624859485" status:"completed" uuid:"5e47fd40-ad3c-4079-88fc-0db9455f96ae"]
+---
+time 1624859487
+old [description:"Xabi Etxezarreta survey-a begiratu" entry:"1623403203" modified:"1623403203" status:"pending" uuid:"ce8ace36-cf24-44bb-844a-944deb284916"]
+new [description:"Xabi Etxezarreta survey-a begiratu" end:"1624859487" entry:"1623403203" modified:"1624859487" status:"completed" uuid:"ce8ace36-cf24-44bb-844a-944deb284916"]
+---
+time 1625150296
+new [description:"Jesusi esan etiketa lortzeko" entry:"1625150296" modified:"1625150296" status:"pending" uuid:"515e689b-0572-414c-ab31-379d0800dae6"]
+---
+time 1625162298
+old [description:"Jesusi esan etiketa lortzeko" entry:"1625150296" modified:"1625150296" status:"pending" uuid:"515e689b-0572-414c-ab31-379d0800dae6"]
+new [description:"Jesusi esan etiketa lortzeko" end:"1625162298" entry:"1625150296" modified:"1625162298" status:"completed" uuid:"515e689b-0572-414c-ab31-379d0800dae6"]
+---
+time 1625162317
+new [description:"Gurasoen korreora sartu" entry:"1625162317" modified:"1625162317" status:"pending" uuid:"0545bb95-ac0b-4ee3-aaab-005e855e2eb2"]
+---
+time 1625208719
+new [description:"IJCIP review" entry:"1625208719" modified:"1625208719" status:"pending" uuid:"5dedd70b-09d2-45da-a63e-6c864f87dcd9"]
+---
+time 1625208727
+new [description:"TDSC review" entry:"1625208727" modified:"1625208727" status:"pending" uuid:"f894224d-19c8-4a39-b72b-e9f68eb4fbf2"]
+---
+time 1625209852
+new [description:"Aztertu Linux hardening liburua MACCerako" entry:"1625209852" modified:"1625209852" status:"pending" uuid:"76521f42-ad3d-4ac6-9f92-307370549f51"]
+---
+time 1625238495
+new [description:"Bidali ikasleei feedback-era apuntatzeko mezua" entry:"1625238495" modified:"1625238495" status:"pending" uuid:"d50657d9-0e71-4b44-8b32-aebc36bd0f67"]
+---
+time 1625238509
+new [description:"Feedback banaketa egin" entry:"1625238509" modified:"1625238509" status:"pending" uuid:"ef623d57-fa5e-4fac-b6ac-c69382dd9c7e"]
+---
+time 1625486493
+old [description:"Bidali ikasleei feedback-era apuntatzeko mezua" entry:"1625238495" modified:"1625238495" status:"pending" uuid:"d50657d9-0e71-4b44-8b32-aebc36bd0f67"]
+new [description:"Bidali ikasleei feedback-era apuntatzeko mezua" end:"1625486493" entry:"1625238495" modified:"1625486493" status:"completed" uuid:"d50657d9-0e71-4b44-8b32-aebc36bd0f67"]
+---
+time 1625486502
+new [description:"Orona akta bidali" entry:"1625486502" modified:"1625486502" status:"pending" uuid:"5f854da8-bd91-44d5-8311-5be567511337"]
+---
+time 1625568314
+old [description:"Maialen begiratu artikuluaren egitura" entry:"1623403213" modified:"1623403213" status:"pending" uuid:"41fd5879-9b26-408a-b11c-d305d0eca5ac"]
+new [description:"Maialen begiratu artikuluaren egitura" end:"1625568314" entry:"1623403213" modified:"1625568314" status:"completed" uuid:"41fd5879-9b26-408a-b11c-d305d0eca5ac"]
+---
+time 1625568331
+old [description:"IJCIP review" entry:"1625208719" modified:"1625208719" status:"pending" uuid:"5dedd70b-09d2-45da-a63e-6c864f87dcd9"]
+new [description:"IJCIP review" end:"1625568331" entry:"1625208719" modified:"1625568331" status:"completed" uuid:"5dedd70b-09d2-45da-a63e-6c864f87dcd9"]
+---
+time 1625568336
+old [description:"Orona akta bidali" entry:"1625486502" modified:"1625486502" status:"pending" uuid:"5f854da8-bd91-44d5-8311-5be567511337"]
+new [description:"Orona akta bidali" end:"1625568336" entry:"1625486502" modified:"1625568336" status:"completed" uuid:"5f854da8-bd91-44d5-8311-5be567511337"]
+---
+time 1625571261
+old [description:"Gurasoen korreora sartu" entry:"1625162317" modified:"1625162317" status:"pending" uuid:"0545bb95-ac0b-4ee3-aaab-005e855e2eb2"]
+new [description:"Berrizko eskolako gurasoen korreora sartu" entry:"1625162317" modified:"1625571261" status:"pending" uuid:"0545bb95-ac0b-4ee3-aaab-005e855e2eb2"]
+---
+time 1625588231
+new [description:"Errebisatu Xabiren artikuluaren bigarren bertsioa" entry:"1625588231" modified:"1625588231" status:"pending" uuid:"45eda526-34f9-4c24-88ae-83bc3525c95c"]
+---
+time 1625589313
+old [description:"Berrizko eskolako gurasoen korreora sartu" entry:"1625162317" modified:"1625571261" status:"pending" uuid:"0545bb95-ac0b-4ee3-aaab-005e855e2eb2"]
+new [description:"Berrizko eskolako gurasoen korreora sartu" end:"1625589313" entry:"1625162317" modified:"1625589313" status:"completed" uuid:"0545bb95-ac0b-4ee3-aaab-005e855e2eb2"]
+---
+time 1625590744
+old [description:"TDSC review" entry:"1625208727" modified:"1625208727" status:"pending" uuid:"f894224d-19c8-4a39-b72b-e9f68eb4fbf2"]
+new [description:"TDSC review" end:"1625590744" entry:"1625208727" modified:"1625590744" status:"completed" uuid:"f894224d-19c8-4a39-b72b-e9f68eb4fbf2"]
+---
+time 1625645703
+new [description:"Errebisatu Maialenen 4. atala" entry:"1625645703" modified:"1625645703" status:"pending" uuid:"396ee1d7-5875-4ada-b0a5-c1f506beb512"]
+---
+time 1625651403
+new [description:"Sortu OCF entregable eskeletoa" entry:"1625651403" modified:"1625651403" status:"pending" uuid:"b3f51433-68a1-48eb-b887-e1509b094a9c"]
+---
+time 1625668733
+new [description:"Sortu OCFren entregable finalaren egitura" entry:"1625668733" modified:"1625668733" status:"pending" uuid:"fbb8f42c-49ac-4c16-a1e0-03a6f4847b60"]
+---
+time 1625669126
+old [description:"Sareflix korreoak bideratu hamahirura" entry:"1619299498" modified:"1619299498" status:"pending" uuid:"cf14194a-49ca-49d2-afce-937e9a494684"]
+new [description:"Sareflix korreoak bideratu hamahirura" end:"1625669126" entry:"1619299498" modified:"1625669126" status:"completed" uuid:"cf14194a-49ca-49d2-afce-937e9a494684"]
+---
+time 1625669142
+old [description:"Sortu OCFren entregable finalaren egitura" entry:"1625668733" modified:"1625668733" status:"pending" uuid:"fbb8f42c-49ac-4c16-a1e0-03a6f4847b60"]
+new [description:"Sortu OCFren entregable finalaren egitura" end:"1625669142" entry:"1625668733" modified:"1625669142" status:"deleted" uuid:"fbb8f42c-49ac-4c16-a1e0-03a6f4847b60"]
+---
+time 1625744813
+new [description:"IMugarzari gogorarazi ea zelan errekisitoak" entry:"1625744813" modified:"1625744813" status:"pending" uuid:"f3c41a8f-2cc3-4bb7-8133-af166abe5a94"]
+---
+time 1625825689
+new [description:"Prestatu galdetegia MACC gaztelania" entry:"1625825689" modified:"1625825689" status:"pending" uuid:"2b48ad89-4109-4440-9aaf-deecfb5b12b2"]
+---
+time 1626072265
+old [description:"Graduko POPBL irizpideak bateratu" entry:"1619619017" modified:"1619619017" status:"pending" uuid:"b193b892-44db-41de-a169-66f3e8179767"]
+new [description:"Graduko POPBL irizpideak bateratu" end:"1626072265" entry:"1619619017" modified:"1626072265" status:"completed" uuid:"b193b892-44db-41de-a169-66f3e8179767"]
+---
+time 1626072395
+old [description:"IMugarzari gogorarazi ea zelan errekisitoak" entry:"1625744813" modified:"1625744813" status:"pending" uuid:"f3c41a8f-2cc3-4bb7-8133-af166abe5a94"]
+new [description:"IMugarzari gogorarazi ea zelan errekisitoak" end:"1626072395" entry:"1625744813" modified:"1626072395" status:"completed" uuid:"f3c41a8f-2cc3-4bb7-8133-af166abe5a94"]
+---
+time 1626091815
+new [description:"KP Infor S6" entry:"1626091815" modified:"1626091815" status:"pending" uuid:"989c128d-e1ae-4e1c-9899-dc1fd5cddc08"]
+---
+time 1626197819
+old [description:"Feedback banaketa egin" entry:"1625238509" modified:"1625238509" status:"pending" uuid:"ef623d57-fa5e-4fac-b6ac-c69382dd9c7e"]
+new [description:"Feedback banaketa egin" end:"1626197819" entry:"1625238509" modified:"1626197819" status:"completed" uuid:"ef623d57-fa5e-4fac-b6ac-c69382dd9c7e"]
+---
+time 1626197860
+old [description:"KP Infor S6" entry:"1626091815" modified:"1626091815" status:"pending" uuid:"989c128d-e1ae-4e1c-9899-dc1fd5cddc08"]
+new [description:"Kudeaketa-plana Infor S6" entry:"1626091815" modified:"1626197860" status:"pending" uuid:"989c128d-e1ae-4e1c-9899-dc1fd5cddc08"]
+---
+time 1626361125
+new [description:"Sartu Jokin nota noten programan" entry:"1626361125" modified:"1626361125" status:"pending" uuid:"ae168f97-a064-4f59-913f-0e873a9e772c"]
+---
+time 1626373372
+old [description:"Sartu Jokin nota noten programan" entry:"1626361125" modified:"1626361125" status:"pending" uuid:"ae168f97-a064-4f59-913f-0e873a9e772c"]
+new [description:"Sartu Jokin nota noten programan" end:"1626373372" entry:"1626361125" modified:"1626373372" status:"completed" uuid:"ae168f97-a064-4f59-913f-0e873a9e772c"]
+---
+time 1626373375
+old [description:"Prestatu galdetegia MACC gaztelania" entry:"1625825689" modified:"1625825689" status:"pending" uuid:"2b48ad89-4109-4440-9aaf-deecfb5b12b2"]
+new [description:"Prestatu galdetegia MACC gaztelania" end:"1626373375" entry:"1625825689" modified:"1626373375" status:"completed" uuid:"2b48ad89-4109-4440-9aaf-deecfb5b12b2"]
+---
+time 1626678911
+new [description:"Itixiera akta Infor 6S" entry:"1626678911" modified:"1626678911" status:"pending" uuid:"5130426c-0c56-453a-ab02-1e57ebb3960d"]
+---
+time 1626678935
+new [description:"GBLak erregistratu aplikatiboan" entry:"1626678935" modified:"1626678935" status:"pending" uuid:"db5519ef-a5e0-499a-92bf-ff46b0f091dd"]
+---
+time 1626699370
+old [description:"GBLak erregistratu aplikatiboan" entry:"1626678935" modified:"1626678935" status:"pending" uuid:"db5519ef-a5e0-499a-92bf-ff46b0f091dd"]
+new [description:"GBLak erregistratu aplikatiboan" end:"1626699370" entry:"1626678935" modified:"1626699370" status:"completed" uuid:"db5519ef-a5e0-499a-92bf-ff46b0f091dd"]
+---
+time 1626699373
+old [description:"Errebisatu Xabiren artikuluaren bigarren bertsioa" entry:"1625588231" modified:"1625588231" status:"pending" uuid:"45eda526-34f9-4c24-88ae-83bc3525c95c"]
+new [description:"Errebisatu Xabiren artikuluaren bigarren bertsioa" end:"1626699373" entry:"1625588231" modified:"1626699373" status:"completed" uuid:"45eda526-34f9-4c24-88ae-83bc3525c95c"]
+---
+time 1626699632
+old [description:"Kudeaketa-plana Infor S6" entry:"1626091815" modified:"1626197860" status:"pending" uuid:"989c128d-e1ae-4e1c-9899-dc1fd5cddc08"]
+new [description:"Kudeaketa-plana Infor S6" end:"1626699632" entry:"1626091815" modified:"1626699632" status:"completed" uuid:"989c128d-e1ae-4e1c-9899-dc1fd5cddc08"]
+---
+time 1626775028
+old [description:"Itixiera akta Infor 6S" entry:"1626678911" modified:"1626678911" status:"pending" uuid:"5130426c-0c56-453a-ab02-1e57ebb3960d"]
+new [description:"Itixiera akta Infor 6S" end:"1626775027" entry:"1626678911" modified:"1626775028" status:"completed" uuid:"5130426c-0c56-453a-ab02-1e57ebb3960d"]
+---
+time 1626775040
+new [description:"OCF diapoak bilerarako" entry:"1626775040" modified:"1626775040" status:"pending" uuid:"c1a05e49-8d49-4685-88b0-d5e96dc67f19"]
+---
+time 1626784637
+new [description:"Slides Jornada Tecnologia Orona" entry:"1626784637" modified:"1626784637" status:"pending" uuid:"dc59b906-9194-4d9d-b446-1900ab9050fb"]
+---
+time 1626858204
+old [description:"Slides Jornada Tecnologia Orona" entry:"1626784637" modified:"1626784637" status:"pending" uuid:"dc59b906-9194-4d9d-b446-1900ab9050fb"]
+new [description:"Slides Jornada Tecnologia Orona" end:"1626858204" entry:"1626784637" modified:"1626858204" status:"completed" uuid:"dc59b906-9194-4d9d-b446-1900ab9050fb"]
+---
+time 1626954668
+new [description:"Gainbegiratu MACC egutegia" entry:"1626954668" modified:"1626954668" status:"pending" uuid:"d62736f2-2f9a-440d-9db2-6c864122baed"]
+---
+time 1627282068
+old [description:"OCF diapoak bilerarako" entry:"1626775040" modified:"1626775040" status:"pending" uuid:"c1a05e49-8d49-4685-88b0-d5e96dc67f19"]
+new [description:"OCF diapoak bilerarako" end:"1627282068" entry:"1626775040" modified:"1627282068" status:"completed" uuid:"c1a05e49-8d49-4685-88b0-d5e96dc67f19"]
+---
+time 1633343176
+new [description:"Oferta CAT IA OCFrentzat" entry:"1633343176" modified:"1633343176" status:"pending" uuid:"d70eac7c-1d25-4c47-97ef-9cbbbbb23626"]
+---
+time 1634286002
+new [description:"Deliverables COPERNICO" entry:"1634286002" modified:"1634286002" status:"pending" uuid:"41cf38bd-59be-4e3c-97c0-a39d18e5bdfc"]
+---
+time 1635236314
+new [description:"Index deliverables COPERNICO" entry:"1635236314" modified:"1635236314" status:"pending" uuid:"19e9197a-0226-4a55-b565-09aaa534d77a"]
+---
+time 1635957237
+new [description:"FL artikulua" entry:"1635957237" modified:"1635957237" status:"pending" uuid:"b68d2041-4707-4b6a-b5c5-21597688d021"]
+---
+time 1635957267
+new [description:"mciber moduluak" entry:"1635957267" modified:"1635957267" status:"pending" uuid:"ba963924-e608-47e1-86c1-93c3fe9a1ec6"]
+---
+time 1635957393
+new [description:"mciber moduluak" entry:"1635957393" modified:"1635957393" status:"pending" uuid:"79189e6c-2d14-4ed0-b7e0-9b21bfe356c9"]
+---
+time 1635957487
+old [description:"mciber moduluak" entry:"1635957393" modified:"1635957393" status:"pending" uuid:"79189e6c-2d14-4ed0-b7e0-9b21bfe356c9"]
+new [description:"mciber moduluak" end:"1635957487" entry:"1635957393" modified:"1635957487" status:"completed" uuid:"79189e6c-2d14-4ed0-b7e0-9b21bfe356c9"]
+---
