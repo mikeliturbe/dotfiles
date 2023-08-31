@@ -48,6 +48,10 @@ export VITPATH=$HOME/.local/bin
 # Easy note capture
 alias in='vim ~/vimwiki/inbox.wiki'
 
+# Jekyll and GEms
+export GEM_HOME=$HOME/gems
+export PATH=$HOME/gems/bin:$PATH
+
 # Taskwarrior 
 alias t='task'
 alias ta="task add"
