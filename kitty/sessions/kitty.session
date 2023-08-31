@@ -1,0 +1,5 @@
+launch vim +VimwikiIndex
+launch --title "tasks" sh -c "EDITOR=vim vit"
+new_tab ranger
+launch ranger
+focus
